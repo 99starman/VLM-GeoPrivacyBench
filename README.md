@@ -28,7 +28,7 @@ images richly annotated with context, sharing intent, and expected granularity. 
 
 <h2 id="quick-start">🚀 Usage</h2>
 
-1. Download and unzip the images in [images.zip](./data/images.zip) or from [huggingface](https://huggingface.co/datasets/RayY/VLM-GeoPrivacyBench).
+1. Download and unzip the images in [images.zip](./data/images.zip) or from [huggingface](https://huggingface.co/datasets/RayY/VLM-GeoPrivacyBench/blob/main/images.zip).
 
 2. Set up environment: 
 
@@ -51,6 +51,6 @@ images richly annotated with context, sharing intent, and expected granularity. 
     OPENAI_API_KEY (optional; if MS Azure not available)
     ``` 
 
-3. Optionally, (re)run model generation with `source scripts/gen.sh` (GPUs required) or `source scripts/gen_api.sh` (API-based models). Results are saved in `evaluation/main`, where we already include the model generation results used in our experiments.
+3. Optionally, (re)run model generation with `sbatch scripts/gen.sh` (GPUs required) or `source scripts/gen_api.sh` (API-based models). Results are saved in `evaluation/main`, where we already include the model generation results used in our experiments.
 
 4. Evaluate the model generation with `source scripts/eval.sh` (various settings specified in the script).
