@@ -1,0 +1,3070 @@
+{
+  "511802589": {
+    "lat": 40.752614,
+    "lng": -73.419844,
+    "extracted_address": "Adventureland",
+    "formatted_address": "2245 Broadhollow Rd, Farmingdale, NY 11735, USA",
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Adventureland"
+  },
+  "8251381751": {
+    "lat": 41.00838400000001,
+    "lng": 28.977878,
+    "extracted_address": "Basilica Cistern",
+    "formatted_address": "Alemdar, Yerebatan Cd. 1/3, 34110 Fatih/\u0130stanbul, T\u00fcrkiye",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Basilica Cistern"
+  },
+  "4716047404": {
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "extracted_address": "Times Square",
+    "formatted_address": "Manhattan, NY 10036, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Times Square"
+  },
+  "6817087374": {
+    "lat": 42.36496229999999,
+    "lng": -71.03613990000001,
+    "extracted_address": "Piers Park",
+    "formatted_address": "Piers Park, 95 Marginal St, Boston, MA 02128, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Piers Park"
+  },
+  "369711791": {
+    "lat": 42.880688,
+    "lng": -8.544395399999999,
+    "extracted_address": "Cathedral of Santiago de Compostela",
+    "formatted_address": "Praza do Obradoiro, s/n, 15704 Santiago de Compostela, A Coru\u00f1a, Spain",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Cathedral of Santiago de Compostela"
+  },
+  "2790764148": {
+    "lat": 51.51449179999999,
+    "lng": -0.0803065,
+    "extracted_address": "Looking at this image, I can identify several key landmarks that help pinpoint the location:\n\nThe most distinctive feature is the glass building with the diamond lattice pattern in the background - this is the famous \"Gherkin\" building (30 St Mary Axe), one of London's most recognizable modern skyscrapers.\n\nThe surrounding architecture shows a typical mix of London buildings - older brick and stone structures alongside modern glass buildings, which is characteristic of the City of London financial district.\n\nThe urban setting, architectural styles, and most importantly the presence of the iconic Gherkin building clearly indicate this photo was taken in **London, England**, specifically in the City of London area near the financial district.",
+    "formatted_address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "types": [
+      "establishment",
+      "landmark",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Gherkin"
+  },
+  "1301398204": {
+    "lat": 48.8606111,
+    "lng": 2.337644,
+    "extracted_address": "Louvre Museum",
+    "formatted_address": "75001 Paris, France",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Louvre Museum"
+  },
+  "219433381": {
+    "lat": 37.3861784,
+    "lng": -5.992613700000001,
+    "extracted_address": "Giralda tower",
+    "formatted_address": "Av. de la Constituci\u00f3n, s/n, Casco Antiguo, 41004 Sevilla, Spain",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Giralda tower"
+  },
+  "4441179970": {
+    "lat": 43.8423619,
+    "lng": -79.54121549999999,
+    "extracted_address": "Canada's Wonderland",
+    "formatted_address": "Vaughan, ON L6A 1S6, Canada",
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Canada's Wonderland"
+  },
+  "480372482": {
+    "lat": 45.4658434,
+    "lng": 9.1899401,
+    "extracted_address": "Galleria Vittorio Emanuele II",
+    "formatted_address": "20123 Milan, Metropolitan City of Milan, Italy",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Galleria Vittorio Emanuele II"
+  },
+  "97344146": {
+    "lat": 41.4036299,
+    "lng": 2.1743558,
+    "extracted_address": "Sagrada Fam\u00edlia",
+    "formatted_address": "Carrer de Mallorca, 401, L'Eixample, 08013 Barcelona, Spain",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Sagrada Fam\u00edlia"
+  },
+  "175835676": {
+    "lat": 52.3599976,
+    "lng": 4.8852188,
+    "extracted_address": "Rijksmuseum",
+    "formatted_address": "Museumstraat 1, 1071 XX Amsterdam, Netherlands",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Rijksmuseum"
+  },
+  "2694726216": {
+    "lat": 41.8757944,
+    "lng": -87.6189483,
+    "extracted_address": "Buckingham Fountain",
+    "formatted_address": "Clarence F. Buckingham Memorial Fountain, 301 S Columbus Dr, Chicago, IL 60605, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Buckingham Fountain"
+  },
+  "39672922": {
+    "lat": 45.4389958,
+    "lng": 10.9943574,
+    "extracted_address": "Arena di Verona",
+    "formatted_address": "P.za Bra, 1, 37121 Verona VR, Italy",
+    "types": [
+      "establishment",
+      "landmark",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Arena di Verona"
+  },
+  "5764250917": {
+    "lat": 35.7139333,
+    "lng": 139.7966333,
+    "extracted_address": "Hozomon Gate",
+    "formatted_address": "2-ch\u014dme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Hozomon Gate"
+  },
+  "1386606787": {
+    "lat": -33.9065612,
+    "lng": 18.419714,
+    "extracted_address": "Nobel Square",
+    "formatted_address": "Watershed, 17 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8002, South Africa",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Nobel Square"
+  },
+  "486640035": {
+    "lat": 37.3858247,
+    "lng": -5.9931068,
+    "extracted_address": "Catedral de Sevilla",
+    "formatted_address": "Av. de la Constituci\u00f3n, s/n, Casco Antiguo, 41004 Sevilla, Spain",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Catedral de Sevilla"
+  },
+  "5314749745": {
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "extracted_address": "Times Square",
+    "formatted_address": "Manhattan, NY 10036, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Times Square"
+  },
+  "683194672": {
+    "lat": 35.659482,
+    "lng": 139.7005596,
+    "extracted_address": "Shibuya Crossing",
+    "formatted_address": "21 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Shibuya Crossing"
+  },
+  "5908041850": {
+    "lat": 40.7308838,
+    "lng": -73.997332,
+    "extracted_address": "Washington Square Park",
+    "formatted_address": "Washington Square Park, New York, NY 10012, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Washington Square Park"
+  },
+  "311141742": {
+    "lat": 37.579617,
+    "lng": 126.977041,
+    "extracted_address": "Gyeongbokgung Palace",
+    "formatted_address": "161 Sajik-ro, Jongno District, Seoul, South Korea",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Gyeongbokgung Palace"
+  },
+  "31700873": {
+    "lat": 34.6889851,
+    "lng": 135.8398158,
+    "extracted_address": "T\u014ddai-ji Temple",
+    "formatted_address": "406-1 Z\u014dshich\u014d, Nara, 630-8587, Japan",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "T\u014ddai-ji Temple"
+  },
+  "446995789": {
+    "lat": -13.5050343,
+    "lng": -71.98014429999999,
+    "extracted_address": "Sacsayhuam\u00e1n",
+    "formatted_address": "Sacsayhuaman, Peru",
+    "types": [
+      "neighborhood",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Sacsayhuam\u00e1n"
+  },
+  "522146989": {
+    "lat": 50.94127839999999,
+    "lng": 6.9582814,
+    "extracted_address": "Cologne Cathedral (K\u00f6lner Dom",
+    "formatted_address": "Domkloster 4, 50667 K\u00f6ln, Germany",
+    "types": [
+      "church",
+      "establishment",
+      "museum",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Cologne Cathedral (K\u00f6lner Dom"
+  },
+  "756531584": {
+    "lat": 37.7459192,
+    "lng": -119.5331992,
+    "extracted_address": "Half Dome",
+    "formatted_address": "Half Dome, California, USA",
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "source": "geocoded",
+    "description": "Half Dome"
+  },
+  "178966363": {
+    "lat": 43.0389547,
+    "lng": -87.9094954,
+    "extracted_address": "Pabst Building",
+    "formatted_address": "100 East Wisconsin, 100 E Wisconsin Ave, Milwaukee, WI 53202, USA",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "source": "geocoded",
+    "description": "Pabst Building"
+  },
+  "1386768513": {
+    "lat": 41.3819247,
+    "lng": 2.1773052,
+    "extracted_address": "Gothic Quarter (Barri G\u00f2tic",
+    "formatted_address": "Gothic Quarter, Ciutat Vella, Barcelona, Spain",
+    "types": [
+      "neighborhood",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Gothic Quarter (Barri G\u00f2tic"
+  },
+  "563945657": {
+    "lat": 42.3280226,
+    "lng": -83.04489319999999,
+    "extracted_address": "Hart Plaza",
+    "formatted_address": "1 Hart Plaza, Detroit, MI 48226, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Hart Plaza"
+  },
+  "8406771903": {
+    "lat": 38.9201405,
+    "lng": -77.041854,
+    "extracted_address": "18th St",
+    "formatted_address": "18th St NW, Washington, DC, USA",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "18th St"
+  },
+  "4916969136": {
+    "lat": -37.8165272,
+    "lng": 144.9691574,
+    "extracted_address": "Hosier Lane",
+    "formatted_address": "Hosier Ln, Melbourne VIC 3000, Australia",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Hosier Lane"
+  },
+  "11175831776": {
+    "lat": 11.5956123,
+    "lng": 37.3932392,
+    "extracted_address": "regional administration building",
+    "formatted_address": "Regional Administration, Bahir Dar, Ethiopia",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "source": "geocoded",
+    "description": "regional administration building"
+  },
+  "297192747": {
+    "lat": -45.02850110000001,
+    "lng": 168.6561937,
+    "extracted_address": "Skyline Gondola",
+    "formatted_address": "53 Brecon Street, Queenstown 9300, New Zealand",
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Skyline Gondola"
+  },
+  "8455618": {
+    "lat": 29.9772962,
+    "lng": 31.1324955,
+    "extracted_address": "Pyramid complex in Giza",
+    "formatted_address": "Al Haram, Giza Governorate 3512201, Egypt",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Pyramid complex in Giza"
+  },
+  "2748295493": {
+    "lat": 50.0864771,
+    "lng": 14.4114366,
+    "extracted_address": "Charles Bridge",
+    "formatted_address": "Charles Bridge, Karl\u016fv most, 110 00 Praha 1, Czechia",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Charles Bridge"
+  },
+  "2280991185": {
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "extracted_address": "Times Square",
+    "formatted_address": "Manhattan, NY 10036, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Times Square"
+  },
+  "1557392107": {
+    "lat": 41.8920906,
+    "lng": 12.4864378,
+    "extracted_address": "Roman Forum",
+    "formatted_address": "00186 Rome, Metropolitan City of Rome Capital, Italy",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Roman Forum"
+  },
+  "2954529438": {
+    "lat": 43.722952,
+    "lng": 10.396597,
+    "extracted_address": "Leaning Tower of Pisa",
+    "formatted_address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Leaning Tower of Pisa"
+  },
+  "2220485647": {
+    "lat": 39.9168038,
+    "lng": 116.3971621,
+    "extracted_address": "Forbidden City",
+    "formatted_address": "4 Jing Shan Qian Jie, Dong Cheng Qu, Bei Jing Shi, China, 100009",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Forbidden City"
+  },
+  "2138372551": {
+    "lat": 51.5194133,
+    "lng": -0.1269566,
+    "extracted_address": "British Museum",
+    "formatted_address": "Great Russell St, London WC1B 3DG, UK",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "British Museum"
+  },
+  "6331592414": {
+    "lat": 41.89759859999999,
+    "lng": 12.4984084,
+    "extracted_address": "Basilica of Santa Maria Maggiore",
+    "formatted_address": "P.za di Santa Maria Maggiore, 00100 Roma RM, Italy",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Basilica of Santa Maria Maggiore"
+  },
+  "5746464724": {
+    "lat": 46.0514711,
+    "lng": 14.5060727,
+    "extracted_address": "Pre\u0161eren Square",
+    "formatted_address": "Pre\u0161ernov trg 1, 1000 Ljubljana, Slovenia",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Pre\u0161eren Square"
+  },
+  "4659077680": {
+    "lat": 35.1610807,
+    "lng": -111.2792067,
+    "extracted_address": "Twin Arrows Trading Post",
+    "formatted_address": "Flagstaff, AZ 86004, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Twin Arrows Trading Post"
+  },
+  "6062877661": {
+    "lat": 40.7479925,
+    "lng": -74.0047649,
+    "extracted_address": "High Line",
+    "formatted_address": "The High Line, New York, NY 10011, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "High Line"
+  },
+  "2913584854": {
+    "lat": 32.7872403,
+    "lng": -106.3256816,
+    "extracted_address": "White Sands National Park",
+    "formatted_address": "White Sands National Park, New Mexico, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "White Sands National Park"
+  },
+  "12246783313": {
+    "lat": 36.1216343,
+    "lng": -115.1763346,
+    "extracted_address": "The Mirage",
+    "formatted_address": "3400 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "types": [
+      "casino",
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "The Mirage"
+  },
+  "6127913719": {
+    "lat": 34.1184341,
+    "lng": -118.3003935,
+    "extracted_address": "Griffith Observatory",
+    "formatted_address": "2800 E Observatory Rd, Los Angeles, CA 90027, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Griffith Observatory"
+  },
+  "3604340060": {
+    "lat": 48.8575475,
+    "lng": 2.3513765,
+    "extracted_address": "Looking at this image step by step:\n\n1. **Architecture**: The buildings display classic Haussmanian architecture typical of Paris - uniform cream-colored stone facades, wrought iron balconies, and consistent window patterns from the 19th century urban renovation.\n\n2. **Signage**: Most notably, I can see \"GALERIES LAFAYETTE\" signage, which is the famous French department store chain with its flagship location in Paris.\n\n3. **Urban design**: The wide boulevard, pedestrian crossing style, and overall street layout are characteristic of central Paris.\n\n4. **Storefront styles**: The ground-level commercial spaces and their design aesthetic match typical Parisian shopping districts.\n\n5. **General ambiance**: The combination of architecture, street furniture, and urban planning all point to a major French city center.\n\n**Answer: Paris, France** - specifically, this appears to be taken in the area around the Galeries Lafayette flagship store, likely in the 9th arrondissement near the Opera district.",
+    "formatted_address": "Paris, France",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Looking at this image step by step:\n\n1. **Architecture**: The buildings display classic Haussmanian architecture typical of Paris - uniform cream-colored stone facades, wrought iron balconies, and consistent window patterns from the 19th century urban renovation.\n\n2. **Signage**: Most notably, I can see \"GALERIES LAFAYETTE\" signage, which is the famous French department store chain with its flagship location in Paris.\n\n3. **Urban design**: The wide boulevard, pedestrian crossing style, and overall street layout are characteristic of central Paris.\n\n4. **Storefront styles**: The ground-level commercial spaces and their design aesthetic match typical Parisian shopping districts.\n\n5. **General ambiance**: The combination of architecture, street furniture, and urban planning all point to a major French city center.\n\n**Answer: Paris, France** - specifically, this appears to be taken in the area around the Galeries Lafayette flagship store, likely in the 9th arrondissement near the Opera district."
+  },
+  "3493262591": {
+    "lat": 51.5142202,
+    "lng": -0.1419841,
+    "extracted_address": "Apple Store, Regent Street",
+    "formatted_address": "235 Regent St., London W1B 2EL, UK",
+    "types": [
+      "electronics_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "source": "geocoded",
+    "description": "Apple Store, Regent Street"
+  },
+  "393048108": {
+    "lat": 1.2824893,
+    "lng": 103.8439086,
+    "extracted_address": "Smith Street",
+    "formatted_address": "Smith St, Singapore",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Smith Street"
+  },
+  "3793961408": {
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "extracted_address": "Times Square",
+    "formatted_address": "Manhattan, NY 10036, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Times Square"
+  },
+  "5787620294": {
+    "lat": -17.9284388,
+    "lng": 25.857203,
+    "extracted_address": "Victoria Falls Bridge",
+    "formatted_address": "Victoria Falls Bridge, Zimbabwe Africa, Livingstone Way, Victoria Falls, Zimbabwe",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Victoria Falls Bridge"
+  },
+  "9156741088": {
+    "lat": 43.8803357,
+    "lng": -103.4537746,
+    "extracted_address": "Mount Rushmore National Memorial",
+    "formatted_address": "Mount Rushmore National Memorial, Keystone, SD 57751, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Mount Rushmore National Memorial"
+  },
+  "7553525110": {
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "extracted_address": "Times Square",
+    "formatted_address": "Manhattan, NY 10036, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Times Square"
+  },
+  "4794484965": {
+    "lat": 38.6935973,
+    "lng": -9.2057115,
+    "extracted_address": "Monument to the Discoveries",
+    "formatted_address": "Av. Bras\u00edlia, 1400-038 Lisboa, Portugal",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Monument to the Discoveries"
+  },
+  "13169205385": {
+    "lat": 19.2965778,
+    "lng": -81.3819158,
+    "extracted_address": "George Town",
+    "formatted_address": "George Town, Cayman Islands",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "George Town"
+  },
+  "3109247737": {
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "extracted_address": "Times Square",
+    "formatted_address": "Manhattan, NY 10036, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Times Square"
+  },
+  "7405826530": {
+    "lat": 33.8120918,
+    "lng": -117.9189742,
+    "extracted_address": "Disneyland",
+    "formatted_address": "Anaheim, CA 92802, USA",
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Disneyland"
+  },
+  "356472264": {
+    "lat": 33.873415,
+    "lng": -115.9009923,
+    "extracted_address": "Joshua Tree National Park",
+    "formatted_address": "Joshua Tree National Park, California, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Joshua Tree National Park"
+  },
+  "4943904461": {
+    "lat": 39.9168038,
+    "lng": 116.3971621,
+    "extracted_address": "The Forbidden City",
+    "formatted_address": "4 Jing Shan Qian Jie, Dong Cheng Qu, Bei Jing Shi, China, 100009",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "The Forbidden City"
+  },
+  "9672684353": {
+    "lat": 47.6061389,
+    "lng": -122.3328481,
+    "extracted_address": "Seattle",
+    "formatted_address": "Seattle, WA, USA",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Seattle"
+  },
+  "129841428": {
+    "lat": 34.056219,
+    "lng": -118.2365021,
+    "extracted_address": "Union Station",
+    "formatted_address": "Union, 800 N Alameda St, Los Angeles, CA 90012, USA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "train_station",
+      "transit_station"
+    ],
+    "source": "geocoded",
+    "description": "Union Station"
+  },
+  "5566412490": {
+    "lat": 30.0444283,
+    "lng": 31.2357637,
+    "extracted_address": "Tahrir Square",
+    "formatted_address": "El- Tahrir Square, El-Tahrir Square, \u0645\u062d\u0637\u0629 \u0627\u0644\u0633\u0627\u062f\u0627\u062a\u060c Qasr El Nil, Cairo Governorate 11512, Egypt",
+    "types": [
+      "establishment",
+      "landmark",
+      "park",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Tahrir Square"
+  },
+  "3754966295": {
+    "lat": 47.7980953,
+    "lng": 13.0501204,
+    "extracted_address": "Altstadt Salzburg",
+    "formatted_address": "Altstadt Salzburg, 5020 Salzburg, Austria",
+    "types": [
+      "neighborhood",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Altstadt Salzburg"
+  },
+  "4482942666": {
+    "lat": 33.9909254,
+    "lng": -118.4774439,
+    "extracted_address": "Venice Beach Boardwalk",
+    "formatted_address": "Beach pavillion in, 517 Ocean Front Walk, Venice, CA 90291, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Venice Beach Boardwalk"
+  },
+  "8677800509": {
+    "lat": 52.5139474,
+    "lng": 13.3787126,
+    "extracted_address": "Memorial to the Murdered Jews of Europe",
+    "formatted_address": "Cora-Berliner-Stra\u00dfe 1, 10117 Berlin, Germany",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Memorial to the Murdered Jews of Europe"
+  },
+  "5079034447": {
+    "lat": 34.0003764,
+    "lng": -84.1418475,
+    "extracted_address": "Rainbow Village",
+    "formatted_address": "3427 Duluth Highway #120, Duluth, GA 30096, USA",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Rainbow Village"
+  },
+  "8342856741": {
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "extracted_address": "Times Square",
+    "formatted_address": "Manhattan, NY 10036, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Times Square"
+  },
+  "363725341": {
+    "lat": 47.6066621,
+    "lng": -122.3321837,
+    "extracted_address": "Seattle Central Library",
+    "formatted_address": "1000 4th Ave, Seattle, WA 98104, USA",
+    "types": [
+      "establishment",
+      "library",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Seattle Central Library"
+  },
+  "4292560756": {
+    "lat": 34.1341151,
+    "lng": -118.3215482,
+    "extracted_address": "Hollywood Sign",
+    "formatted_address": "Los Angeles, CA 90068, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Hollywood Sign"
+  },
+  "1344592336": {
+    "lat": 36.11271869999999,
+    "lng": -115.1739109,
+    "extracted_address": "Bellagio fountains",
+    "formatted_address": "Fountains of Bellagio, 3600 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Bellagio fountains"
+  },
+  "7658341676": {
+    "lat": 43.2994285,
+    "lng": -74.21793260000001,
+    "extracted_address": "New York State Supreme Court",
+    "formatted_address": "New York, USA",
+    "types": [
+      "administrative_area_level_1",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "New York State Supreme Court"
+  },
+  "6909226296": {
+    "lat": 47.79789460000001,
+    "lng": 13.0466354,
+    "extracted_address": "Salzburg Cathedral",
+    "formatted_address": "Domplatz 1a, 5020 Salzburg, Austria",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Salzburg Cathedral"
+  },
+  "8307297352": {
+    "lat": 27.6872327,
+    "lng": 86.7319141,
+    "extracted_address": "Lukla Airport (Tenzing-Hillary Airport",
+    "formatted_address": "MPQJ+6H8 Tenzing-Hillary Airport, 30 Lukla - Everest Base Camp Trekking Route, Chaunrikharka 56000, Nepal",
+    "types": [
+      "airport",
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Lukla Airport (Tenzing-Hillary Airport"
+  },
+  "6777722742": {
+    "lat": 29.9584426,
+    "lng": -90.0644107,
+    "extracted_address": "French Quarter",
+    "formatted_address": "French Quarter, New Orleans, LA, USA",
+    "types": [
+      "neighborhood",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "French Quarter"
+  },
+  "6289798732": {
+    "lat": 53.9623292,
+    "lng": -1.0819205,
+    "extracted_address": "York Minster",
+    "formatted_address": "Deangate, York YO1 7HH, UK",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "York Minster"
+  },
+  "3230639432": {
+    "lat": 19.8230355,
+    "lng": -155.4694483,
+    "extracted_address": "Mauna Kea Observatory",
+    "formatted_address": "Mauna Kea Access Rd, Hilo, HI 96720, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Mauna Kea Observatory"
+  },
+  "12843569933": {
+    "lat": 30.3229988,
+    "lng": 35.4562042,
+    "extracted_address": "Siq",
+    "formatted_address": "8FF4+5FW, Wadi Musa, Jordan",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Siq"
+  },
+  "4353928082": {
+    "lat": 40.7460436,
+    "lng": -73.9802946,
+    "extracted_address": "Murray Hill Diner",
+    "formatted_address": "222 Lexington Ave, New York, NY 10016, USA",
+    "types": [
+      "establishment",
+      "food",
+      "meal_delivery",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "source": "geocoded",
+    "description": "Murray Hill Diner"
+  },
+  "1209963633": {
+    "lat": 36.08309070000001,
+    "lng": -115.1482238,
+    "extracted_address": "Harry Reid International Airport",
+    "formatted_address": "Harry Reid International Airport (LAS), 5757 Wayne Newton Blvd, Las Vegas, NV 89119, USA",
+    "types": [
+      "airport",
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Harry Reid International Airport"
+  },
+  "3775644661": {
+    "lat": 38.892861,
+    "lng": -77.0230716,
+    "extracted_address": "National Archives Building",
+    "formatted_address": "700 Pennsylvania Ave NW, Washington, DC 20408, USA",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "National Archives Building"
+  },
+  "8337195900": {
+    "lat": 35.685175,
+    "lng": 139.7527995,
+    "extracted_address": "Tokyo Imperial Palace",
+    "formatted_address": "Imperial Palace, 1-1 Chiyoda, Chiyoda City, Tokyo 100-8111, Japan",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Tokyo Imperial Palace"
+  },
+  "8433157863": {
+    "lat": 48.5819241,
+    "lng": 7.7501313,
+    "extracted_address": "Place de la Cath\u00e9drale",
+    "formatted_address": "Pl. de la Cath\u00e9drale, 67000 Strasbourg, France",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Place de la Cath\u00e9drale"
+  },
+  "4243008363": {
+    "lat": -39.1009235,
+    "lng": 175.6486843,
+    "extracted_address": "Tongariro Alpine Crossing",
+    "formatted_address": "Tongariro Alpine Crossing, New Zealand",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Tongariro Alpine Crossing"
+  },
+  "2470840837": {
+    "lat": 59.9336241,
+    "lng": 30.3234245,
+    "extracted_address": "Kazan Cathedral",
+    "formatted_address": "Kazanskaya ploshchad, 2, Sankt-Peterburg, Russia, 191186",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Kazan Cathedral"
+  },
+  "446961808": {
+    "lat": -13.53195,
+    "lng": -71.96746259999999,
+    "extracted_address": "Cusco",
+    "formatted_address": "Cusco, Peru",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Cusco"
+  },
+  "8113631875": {
+    "lat": 43.6527069,
+    "lng": -79.38341369999999,
+    "extracted_address": "Nathan Phillips Square",
+    "formatted_address": "100 Queen St W, Toronto, ON M5H 2N3, Canada",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Nathan Phillips Square"
+  },
+  "5762003247": {
+    "lat": 38.9305946,
+    "lng": -77.0707808,
+    "extracted_address": "Washington National Cathedral",
+    "formatted_address": "3101 Wisconsin Ave NW, Washington, DC 20016, USA",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Washington National Cathedral"
+  },
+  "4361294505": {
+    "lat": 39.9655697,
+    "lng": -75.18096609999999,
+    "extracted_address": "Philadelphia Museum of Art",
+    "formatted_address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Philadelphia Museum of Art"
+  },
+  "4505050148": {
+    "lat": 27.1751448,
+    "lng": 78.0421422,
+    "extracted_address": "Taj Mahal",
+    "formatted_address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Taj Mahal"
+  },
+  "1245625542": {
+    "lat": 50.4205456,
+    "lng": -5.0969729,
+    "extracted_address": "Looking at this black and white photograph, I can identify several distinctive features:\n\n1. **Geological formation**: The prominent chalk or limestone cliff rising dramatically from a sandy beach\n2. **Structure on cliff**: What appears to be a lighthouse or beacon structure positioned on top of the headland\n3. **Beach setting**: A wide sandy beach with people enjoying recreational activities\n4. **Coastal configuration**: The way the cliff juts out into the sea as a prominent headland\n\nThese characteristics are highly consistent with **Beachy Head** in East Sussex, England. This is one of Britain's most famous coastal landmarks, featuring:\n- Distinctive chalk cliffs rising about 530 feet above sea level\n- The Belle Tout Lighthouse (which historically sat on top of the cliffs)\n- A popular beach area below accessible to visitors\n\nThe historical nature of this photograph (appears to be mid-20th century) and the specific geological and structural features make Beachy Head the most likely location.\n\n**Answer: Beachy Head, East Sussex, England**",
+    "formatted_address": "Fistral Beach, Headland Rd, Newquay TR7 1EW, UK",
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest",
+      "spa"
+    ],
+    "source": "geocoded",
+    "description": "Beachy Head"
+  },
+  "2070582968": {
+    "lat": 38.8892686,
+    "lng": -77.050176,
+    "extracted_address": "Lincoln Memorial",
+    "formatted_address": "Lincoln Memorial, 2 Lincoln Memorial Cir NW, Washington, DC 20002, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Lincoln Memorial"
+  },
+  "4012202629": {
+    "lat": 40.7743214,
+    "lng": -73.97088289999999,
+    "extracted_address": "Bethesda Fountain",
+    "formatted_address": "New York, NY 10024, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Bethesda Fountain"
+  },
+  "3598407378": {
+    "lat": 32.933941,
+    "lng": -85.8476419,
+    "extracted_address": "Camp ASCCA",
+    "formatted_address": "Camp Ascca Dr, Alabama 36861, USA",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Camp ASCCA"
+  },
+  "2598854747": {
+    "lat": 44.4097069,
+    "lng": -103.5090786,
+    "extracted_address": "Sturgis Motorcycle Rally",
+    "formatted_address": "Sturgis, SD 57785, USA",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Sturgis Motorcycle Rally"
+  },
+  "8687877684": {
+    "lat": 52.2697087,
+    "lng": 4.5469336,
+    "extracted_address": "Keukenhof Gardens",
+    "formatted_address": "Keukenhof, Stationsweg 166A, 2161 AM Lisse, Netherlands",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Keukenhof Gardens"
+  },
+  "981399894": {
+    "lat": 52.5159214,
+    "lng": 13.3946271,
+    "extracted_address": "St. Hedwig's Cathedral",
+    "formatted_address": "Bebelpl., 10117 Berlin, Germany",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "St. Hedwig's Cathedral"
+  },
+  "2130140723": {
+    "lat": 51.2797971,
+    "lng": 1.0827998,
+    "extracted_address": "Canterbury Cathedral",
+    "formatted_address": "Cathedral House, 11 The Precincts, Canterbury CT1 2EH, UK",
+    "types": [
+      "church",
+      "establishment",
+      "museum",
+      "place_of_worship",
+      "point_of_interest",
+      "store",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Canterbury Cathedral"
+  },
+  "3294449028": {
+    "lat": 51.4036128,
+    "lng": -0.3377623,
+    "extracted_address": "Hampton Court Palace",
+    "formatted_address": "Hampton Ct Way, Molesey, East Molesey KT8 9AU, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Hampton Court Palace"
+  },
+  "3961389851": {
+    "lat": 37.8199109,
+    "lng": -122.4785598,
+    "extracted_address": "Golden Gate Bridge",
+    "formatted_address": "Golden Gate Bridge, Golden Gate Brg, San Francisco, CA, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Golden Gate Bridge"
+  },
+  "5123939078": {
+    "lat": 39.904799,
+    "lng": 116.3896712,
+    "extracted_address": "National Centre for the Performing Arts",
+    "formatted_address": "2 Xi Chang An Jie, Xi Cheng Qu, China, 100031",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "National Centre for the Performing Arts"
+  },
+  "3574848954": {
+    "lat": 41.9021667,
+    "lng": 12.4539367,
+    "extracted_address": "St. Peter's Basilica",
+    "formatted_address": "Piazza San Pietro, 00120 Citt\u00e0 del Vaticano, Vatican City",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "St. Peter's Basilica"
+  },
+  "4642199948": {
+    "lat": 35.6284713,
+    "lng": 139.7387597,
+    "extracted_address": "Shinagawa Station",
+    "formatted_address": "Shinagawa Station, 3-ch\u014dme-26-27 Takanawa, Minato City, Tokyo 108-0074, Japan",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "train_station",
+      "transit_station"
+    ],
+    "source": "geocoded",
+    "description": "Shinagawa Station"
+  },
+  "3635455945": {
+    "lat": 28.9563733,
+    "lng": -13.5476386,
+    "extracted_address": "Castillo de San Gabriel",
+    "formatted_address": "Lanzarote, Castillo de San Gabriel, C. Punta de la Lagarta, 1, Arrecife, Las Palmas, Spain",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Castillo de San Gabriel"
+  },
+  "3085433029": {
+    "lat": 40.7504817,
+    "lng": -73.9882938,
+    "extracted_address": "Macy's Herald Square",
+    "formatted_address": "151 W 34th St., New York, NY 10001, USA",
+    "types": [
+      "clothing_store",
+      "department_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "source": "geocoded",
+    "description": "Macy's Herald Square"
+  },
+  "443965069": {
+    "lat": 48.8927032,
+    "lng": 2.2395255,
+    "extracted_address": "CNIT (Centre des nouvelles industries et technologies",
+    "formatted_address": "2 Pl. de la D\u00e9fense, 92092 Puteaux, France",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall"
+    ],
+    "source": "geocoded",
+    "description": "CNIT (Centre des nouvelles industries et technologies"
+  },
+  "5631657949": {
+    "lat": 48.59776794847125,
+    "lng": 2.38689704948019,
+    "extracted_address": "Seine River",
+    "formatted_address": "Seine, France",
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "source": "geocoded",
+    "description": "Seine River"
+  },
+  "9298901388": {
+    "lat": 41.87887610000001,
+    "lng": -87.635915,
+    "extracted_address": "Willis Tower Skydeck",
+    "formatted_address": "233 S Wacker Dr, Chicago, IL 60606, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Willis Tower Skydeck"
+  },
+  "335152854": {
+    "lat": 51.5054564,
+    "lng": -0.07535649999999999,
+    "extracted_address": "Tower Bridge",
+    "formatted_address": "Tower Bridge, Tower Bridge Rd, London SE1 2UP, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Tower Bridge"
+  },
+  "155518243": {
+    "lat": 51.53160339999999,
+    "lng": -0.1235978,
+    "extracted_address": "King's Cross railway station",
+    "formatted_address": "King\u2019s Cross, Euston Rd., London N1C 4AP, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "train_station",
+      "transit_station"
+    ],
+    "source": "geocoded",
+    "description": "King's Cross railway station"
+  },
+  "8169539155": {
+    "lat": 21.0393042,
+    "lng": 105.834477,
+    "extracted_address": "Presidential Palace",
+    "formatted_address": "2 H\u00f9ng V\u01b0\u01a1ng, Ng\u1ecdc H\u1ed3, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i 118708, Vietnam",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Presidential Palace"
+  },
+  "3807425944": {
+    "lat": 59.33174320000001,
+    "lng": 18.0737711,
+    "extracted_address": "Great Synagogue of Stockholm",
+    "formatted_address": "Wahrendorffsgatan 3A, 111 47 Stockholm, Sweden",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "synagogue"
+    ],
+    "source": "geocoded",
+    "description": "Great Synagogue of Stockholm"
+  },
+  "4039314912": {
+    "lat": 35.6710335,
+    "lng": 139.7051821,
+    "extracted_address": "Takeshita Street",
+    "formatted_address": "Takeshita St, 1-ch\u014dme Jing\u016bmae, Shibuya, Tokyo 150-0001, Japan",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Takeshita Street"
+  },
+  "499799081": {
+    "lat": 31.7767189,
+    "lng": 35.2345085,
+    "extracted_address": "Western Wall",
+    "formatted_address": "Jerusalem",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Western Wall"
+  },
+  "6836811817": {
+    "lat": 44.9384539,
+    "lng": -123.0303428,
+    "extracted_address": "Oregon State Capitol",
+    "formatted_address": "900 Court St NE, Salem, OR 97301, USA",
+    "types": [
+      "establishment",
+      "local_government_office",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Oregon State Capitol"
+  },
+  "206352618": {
+    "lat": 43.77311539999999,
+    "lng": 11.2550232,
+    "extracted_address": "Battistero di San Giovanni",
+    "formatted_address": "Piazza San Giovanni, 50122 Firenze FI, Italy",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Battistero di San Giovanni"
+  },
+  "4676317751": {
+    "lat": 35.7139333,
+    "lng": 139.7966333,
+    "extracted_address": "Hozomon Gate",
+    "formatted_address": "2-ch\u014dme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Hozomon Gate"
+  },
+  "6195994913": {
+    "lat": -33.8666763,
+    "lng": 151.2083773,
+    "extracted_address": "Angel Place",
+    "formatted_address": "123 Pitt St, Sydney NSW 2000, Australia",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Angel Place"
+  },
+  "498279356": {
+    "lat": 48.85296820000001,
+    "lng": 2.3499021,
+    "extracted_address": "Notre-Dame Cathedral",
+    "formatted_address": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Notre-Dame Cathedral"
+  },
+  "379422633": {
+    "lat": 39.9168038,
+    "lng": 116.3971621,
+    "extracted_address": "Forbidden City",
+    "formatted_address": "4 Jing Shan Qian Jie, Dong Cheng Qu, Bei Jing Shi, China, 100009",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Forbidden City"
+  },
+  "9359590787": {
+    "lat": 35.7100627,
+    "lng": 139.8107004,
+    "extracted_address": "Tokyo Skytree",
+    "formatted_address": "1-ch\u014dme-1-2 Oshiage, Sumida City, Tokyo 131-0045, Japan",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Tokyo Skytree"
+  },
+  "2270685058": {
+    "lat": 37.8545459,
+    "lng": 15.2889438,
+    "extracted_address": "Taormina",
+    "formatted_address": "98039 Taormina, Metropolitan City of Messina, Italy",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Taormina"
+  },
+  "8372905125": {
+    "lat": 51.4728372,
+    "lng": -3.2030343,
+    "extracted_address": "Cardiff City Stadium",
+    "formatted_address": "Leckwith Rd, Cardiff CF11 8AZ, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "stadium",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Cardiff City Stadium"
+  },
+  "2468442495": {
+    "lat": 34.0773438,
+    "lng": -118.4732648,
+    "extracted_address": "Getty Center",
+    "formatted_address": "1200 Getty Center Dr, Los Angeles, CA 90049, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Getty Center"
+  },
+  "2605753541": {
+    "lat": 50.0864771,
+    "lng": 14.4114366,
+    "extracted_address": "Charles Bridge",
+    "formatted_address": "Charles Bridge, Karl\u016fv most, 110 00 Praha 1, Czechia",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Charles Bridge"
+  },
+  "8467947807": {
+    "lat": 38.8976763,
+    "lng": -77.0365298,
+    "extracted_address": "White House",
+    "formatted_address": "1600 Pennsylvania Ave NW, Washington, DC 20500, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "White House"
+  },
+  "8239118773": {
+    "lat": 37.9715285,
+    "lng": 23.7267166,
+    "extracted_address": "Parthenon",
+    "formatted_address": "Athens 105 58, Greece",
+    "types": [
+      "establishment",
+      "landmark",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Parthenon"
+  },
+  "3225745656": {
+    "lat": 43.6707974,
+    "lng": -79.3284709,
+    "extracted_address": "Gerrard Street",
+    "formatted_address": "Gerrard St E, Toronto, ON, Canada",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Gerrard Street"
+  },
+  "4489698334": {
+    "lat": 52.2782474,
+    "lng": -1.5884789,
+    "extracted_address": "Warwick Castle",
+    "formatted_address": "Warwick CV34 6AU, UK",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Warwick Castle"
+  },
+  "3912934280": {
+    "lat": 48.59776794847125,
+    "lng": 2.38689704948019,
+    "extracted_address": "Seine River",
+    "formatted_address": "Seine, France",
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "source": "geocoded",
+    "description": "Seine River"
+  },
+  "2401651576": {
+    "lat": 34.29598960000001,
+    "lng": 132.3198285,
+    "extracted_address": "Itsukushima Shrine",
+    "formatted_address": "1-1 Miyajimach\u014d, Hatsukaichi, Hiroshima 739-0588, Japan",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Itsukushima Shrine"
+  },
+  "9784827336": {
+    "lat": 52.6504632,
+    "lng": -7.249297400000001,
+    "extracted_address": "Kilkenny Castle",
+    "formatted_address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1, Ireland",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Kilkenny Castle"
+  },
+  "5627647766": {
+    "lat": 41.4144948,
+    "lng": 2.1526945,
+    "extracted_address": "Park G\u00fcell",
+    "formatted_address": "Park G\u00fcell, Gr\u00e0cia, 08024 Barcelona, Spain",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Park G\u00fcell"
+  },
+  "9454193377": {
+    "lat": 38.7945952,
+    "lng": -106.5348379,
+    "extracted_address": "Looking at this black and white photograph, I can identify several key clues:\n\n1. There's a street sign reading \"WASHINGTON\" visible in the image\n2. The architectural style shows classic early-to-mid 20th century commercial buildings typical of a major American downtown district\n3. There's a prominent ornate clock mounted on one of the buildings\n4. The urban density and building styles are characteristic of a major city's central business district\n5. The \"ONE WAY\" sign and overall street layout suggest a grid system typical of major American cities\n\nThe most distinctive feature is the ornate clock, which appears to be the famous Marshall Field's clock (now Macy's) - a well-known landmark. Combined with the Washington Street sign and the characteristic architecture of the surrounding buildings, this strongly indicates the location.\n\n**Answer: Downtown Chicago, Illinois - specifically the Loop district near the intersection of State Street and Washington Street.**",
+    "formatted_address": "United States",
+    "types": [
+      "country",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Marshall Field's clock"
+  },
+  "4859115071": {
+    "lat": 37.8199109,
+    "lng": -122.4785598,
+    "extracted_address": "Golden Gate Bridge",
+    "formatted_address": "Golden Gate Bridge, Golden Gate Brg, San Francisco, CA, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Golden Gate Bridge"
+  },
+  "8276295639": {
+    "lat": 48.85296820000001,
+    "lng": 2.3499021,
+    "extracted_address": "Notre-Dame Cathedral",
+    "formatted_address": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Notre-Dame Cathedral"
+  },
+  "8168556778": {
+    "lat": 34.9946662,
+    "lng": 135.784661,
+    "extracted_address": "Kiyomizu-dera Temple",
+    "formatted_address": "1-ch\u014dme-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Kiyomizu-dera Temple"
+  },
+  "204340012": {
+    "lat": 10.8230989,
+    "lng": 106.6296638,
+    "extracted_address": "Ho Chi Minh City Hall",
+    "formatted_address": "Ho Chi Minh City, Vietnam",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Ho Chi Minh City Hall"
+  },
+  "512044743": {
+    "lat": 47.4962048,
+    "lng": 19.0395666,
+    "extracted_address": "Buda Castle",
+    "formatted_address": "Budapest, Szent Gy\u00f6rgy t\u00e9r, 1014 Hungary",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Buda Castle"
+  },
+  "4744139130": {
+    "lat": 38.8899389,
+    "lng": -77.0090505,
+    "extracted_address": "U.S. Capitol",
+    "formatted_address": "Washington, DC 20004, USA",
+    "types": [
+      "establishment",
+      "landmark",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "U.S. Capitol"
+  },
+  "5828793380": {
+    "lat": 22.2758835,
+    "lng": 114.145532,
+    "extracted_address": "Victoria Peak",
+    "formatted_address": "Victoria Peak, The Peak, Hong Kong",
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "source": "geocoded",
+    "description": "Victoria Peak"
+  },
+  "4575317850": {
+    "lat": 38.8875144,
+    "lng": -77.0363934,
+    "extracted_address": "National Mall",
+    "formatted_address": "National Mall, Washington, DC, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "National Mall"
+  },
+  "4758669116": {
+    "lat": 51.5138453,
+    "lng": -0.0983506,
+    "extracted_address": "St. Paul's Cathedral",
+    "formatted_address": "St. Paul's Churchyard, London EC4M 8AD, UK",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "St. Paul's Cathedral"
+  },
+  "424866063": {
+    "lat": 41.7642631,
+    "lng": -72.68228030000002,
+    "extracted_address": "state capitol building",
+    "formatted_address": "Connecticut State Capitol, 210 Capitol Ave, Hartford, CT 06106, USA",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "state capitol building"
+  },
+  "3005901150": {
+    "lat": 33.735704,
+    "lng": -84.371164,
+    "extracted_address": "Grant Park",
+    "formatted_address": "Grant Park, 840 Cherokee Ave SE, Atlanta, GA 30315, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Grant Park"
+  },
+  "87603870": {
+    "lat": -34.3568425,
+    "lng": 18.4739882,
+    "extracted_address": "Cape of Good Hope",
+    "formatted_address": "Cape of Good Hope, Cape Point Rd, Cape Peninsula, Cape Town, 8001, South Africa",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Cape of Good Hope"
+  },
+  "8565777867": {
+    "lat": 45.4379842,
+    "lng": 12.335898,
+    "extracted_address": "Rialto Bridge",
+    "formatted_address": "Ponte di Rialto, 30125 Venezia VE, Italy",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Rialto Bridge"
+  },
+  "391062927": {
+    "lat": 31.7767189,
+    "lng": 35.2345085,
+    "extracted_address": "Western Wall",
+    "formatted_address": "Jerusalem",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Western Wall"
+  },
+  "1910958552": {
+    "lat": 48.8637569,
+    "lng": 2.3371261,
+    "extracted_address": "Palais-Royal",
+    "formatted_address": "75001 Paris, France",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Palais-Royal"
+  },
+  "3978538678": {
+    "lat": 50.844993,
+    "lng": 4.349989,
+    "extracted_address": "Manneken Pis",
+    "formatted_address": "Manneken Pis, 1000 Bruxelles, Belgium",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Manneken Pis"
+  },
+  "4439967620": {
+    "lat": 39.9054895,
+    "lng": 116.3976317,
+    "extracted_address": "Tiananmen Square",
+    "formatted_address": "\u524d\u95e8 Dongcheng, China, 100051",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Tiananmen Square"
+  },
+  "3567467199": {
+    "lat": 37.779275,
+    "lng": -122.4192417,
+    "extracted_address": "San Francisco City Hall",
+    "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA",
+    "types": [
+      "city_hall",
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "San Francisco City Hall"
+  },
+  "5597764918": {
+    "lat": 51.5194133,
+    "lng": -0.1269566,
+    "extracted_address": "The British Museum",
+    "formatted_address": "Great Russell St, London WC1B 3DG, UK",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "The British Museum"
+  },
+  "87112194": {
+    "lat": -38.16319540000001,
+    "lng": 176.2508968,
+    "extracted_address": "Te Puia",
+    "formatted_address": "Hemo Road, Whakarewarewa, Rotorua 3010, New Zealand",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Te Puia"
+  },
+  "490261398": {
+    "lat": 47.6205599,
+    "lng": -122.3504476,
+    "extracted_address": "Chihuly Garden and Glass",
+    "formatted_address": "305 Harrison St, Seattle, WA 98109, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Chihuly Garden and Glass"
+  },
+  "3672094201": {
+    "lat": 49.1933742,
+    "lng": -123.1751283,
+    "extracted_address": "Vancouver International Airport",
+    "formatted_address": "Vancouver International Airport (YVR), 3211 Grant McConachie Wy, Richmond, BC V7B 0A4, Canada",
+    "types": [
+      "airport",
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Vancouver International Airport"
+  },
+  "98234144": {
+    "lat": 40.7794366,
+    "lng": -73.963244,
+    "extracted_address": "Metropolitan Museum of Art",
+    "formatted_address": "1000 5th Ave, New York, NY 10028, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Metropolitan Museum of Art"
+  },
+  "2987352589": {
+    "lat": 35.0476912,
+    "lng": -90.02604930000001,
+    "extracted_address": "Graceland",
+    "formatted_address": "Elvis Presley Blvd, Memphis, TN 38116, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Graceland"
+  },
+  "4014709929": {
+    "lat": 33.5492873,
+    "lng": -101.9132769,
+    "extracted_address": "Malec\u00f3n",
+    "formatted_address": "4646 50th St, Lubbock, TX 79414, USA",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "source": "geocoded",
+    "description": "Malec\u00f3n"
+  },
+  "3387069263": {
+    "lat": 48.8048649,
+    "lng": 2.1203554,
+    "extracted_address": "Palace of Versailles",
+    "formatted_address": "Place d'Armes, 78000 Versailles, France",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Palace of Versailles"
+  },
+  "5997985314": {
+    "lat": 42.9825955,
+    "lng": -81.2503345,
+    "extracted_address": "Covent Garden Market",
+    "formatted_address": "Covent Garden Market Bldg, 130 King St, London, ON N6A 1C5, Canada",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "source": "geocoded",
+    "description": "Covent Garden Market"
+  },
+  "3444058884": {
+    "lat": 34.0773438,
+    "lng": -118.4732648,
+    "extracted_address": "The Getty Center",
+    "formatted_address": "1200 Getty Center Dr, Los Angeles, CA 90049, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "The Getty Center"
+  },
+  "539159134": {
+    "lat": 51.5194133,
+    "lng": -0.1269566,
+    "extracted_address": "British Museum",
+    "formatted_address": "Great Russell St, London WC1B 3DG, UK",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "British Museum"
+  },
+  "192185330": {
+    "lat": 40.82976,
+    "lng": -73.92549389999999,
+    "extracted_address": "Monument Park at Yankee Stadium",
+    "formatted_address": "33 River Ave, Bronx, NY 10452, USA",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "Monument Park at Yankee Stadium"
+  },
+  "3469805597": {
+    "lat": 48.8511924,
+    "lng": 2.3272352,
+    "extracted_address": "H\u00f4tel Lut\u00e9tia",
+    "formatted_address": "45 Bd Raspail, 75006 Paris, France",
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "H\u00f4tel Lut\u00e9tia"
+  },
+  "2860527884": {
+    "lat": 43.2613455,
+    "lng": 5.3964892,
+    "extracted_address": "Unit\u00e9 d'Habitation",
+    "formatted_address": "280 Bd Michelet, 13008 Marseille, France",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Unit\u00e9 d'Habitation"
+  },
+  "4487890778": {
+    "lat": 40.7794366,
+    "lng": -73.963244,
+    "extracted_address": "The Metropolitan Museum of Art",
+    "formatted_address": "1000 5th Ave, New York, NY 10028, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "The Metropolitan Museum of Art"
+  },
+  "4777146193": {
+    "lat": 51.5023516,
+    "lng": -0.177707,
+    "extracted_address": "Albert Memorial",
+    "formatted_address": "Kensington Gardens, London W2 2UH, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Albert Memorial"
+  },
+  "3642836548": {
+    "lat": 51.17888199999999,
+    "lng": -1.826215,
+    "extracted_address": "Stonehenge",
+    "formatted_address": "Salisbury SP4 7DE, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Stonehenge"
+  },
+  "9520655398": {
+    "lat": 33.8062236,
+    "lng": -117.9199281,
+    "extracted_address": "Disney California Adventure Park",
+    "formatted_address": "Anaheim, CA 92802, USA",
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Disney California Adventure Park"
+  },
+  "4939627873": {
+    "lat": 38.8894838,
+    "lng": -77.0352791,
+    "extracted_address": "Washington Monument",
+    "formatted_address": "2 15th St NW, Washington, DC 20024, USA",
+    "types": [
+      "establishment",
+      "landmark",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Washington Monument"
+  },
+  "10104595695": {
+    "lat": 55.378051,
+    "lng": -3.435973,
+    "extracted_address": "Looking at this image step by step:\n\n1. I can see an ornate suspension bridge with decorative Victorian-era metalwork and elegant lamp posts\n2. The bridge appears to be primarily for pedestrian use with white decking\n3. The architectural style and craftsmanship suggest this is a historic British bridge from the late 19th or early 20th century\n4. The surrounding buildings and landscape have a distinctly English character\n5. There appears to be signage on the bridge (though not clearly legible in this image)\n6. The overall design and setting are characteristic of Chester's famous Queen's Park Suspension Bridge\n\nThis photo was taken at **Chester, England** - specifically showing the Queen's Park Suspension Bridge (also known as the Suspension Bridge) that crosses the River Dee. This historic bridge, opened in 1923, is one of Chester's notable landmarks and connects the Groves area to Queen's Park.",
+    "formatted_address": "United Kingdom",
+    "types": [
+      "country",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Queen's Park Suspension Bridge"
+  },
+  "3618362155": {
+    "lat": 43.3022112,
+    "lng": -73.7198351,
+    "extracted_address": "Herald Square",
+    "formatted_address": "Herald Square Village, 4 Joseph Ct, Queensbury, NY 12804, USA",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "source": "geocoded",
+    "description": "Herald Square"
+  },
+  "4325918356": {
+    "lat": 40.4319077,
+    "lng": 116.5703749,
+    "extracted_address": "Great Wall of China",
+    "formatted_address": "Huairou District, China, 101406",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Great Wall of China"
+  },
+  "559430619": {
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "extracted_address": "Times Square",
+    "formatted_address": "Manhattan, NY 10036, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Times Square"
+  },
+  "7652801324": {
+    "lat": 57.2736278,
+    "lng": -6.2155022,
+    "extracted_address": "Isle of Skye",
+    "formatted_address": "Skye, United Kingdom",
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "source": "geocoded",
+    "description": "Isle of Skye"
+  },
+  "8137959873": {
+    "lat": 27.1751448,
+    "lng": 78.0421422,
+    "extracted_address": "Taj Mahal",
+    "formatted_address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Taj Mahal"
+  },
+  "94108900": {
+    "lat": 40.4237054,
+    "lng": -86.92119459999999,
+    "extracted_address": "Purdue University",
+    "formatted_address": "610 Purdue Mall, West Lafayette, IN 47907, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "university"
+    ],
+    "source": "geocoded",
+    "description": "Purdue University"
+  },
+  "468992590": {
+    "lat": 49.4145665,
+    "lng": 8.7095062,
+    "extracted_address": "Alte Br\u00fccke",
+    "formatted_address": "Old Bridge Heidelberg, Alte Br\u00fccke, 69117 Heidelberg, Germany",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Alte Br\u00fccke"
+  },
+  "8392269501": {
+    "lat": 45.43404959999999,
+    "lng": 12.3408544,
+    "extracted_address": "Bridge of Sighs",
+    "formatted_address": "Bridge of Sighs, 30124 Venezia VE, Italy",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Bridge of Sighs"
+  },
+  "7610267944": {
+    "lat": 52.1552124,
+    "lng": 5.387247599999999,
+    "extracted_address": "Onze-Lieve-Vrouwetoren",
+    "formatted_address": "Onze, Lieve Vrouwekerkhof, 3811 BN Amersfoort, Netherlands",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Onze-Lieve-Vrouwetoren"
+  },
+  "s1151492183": {
+    "lat": 43.6425662,
+    "lng": -79.3870568,
+    "extracted_address": "CN Tower",
+    "formatted_address": "290 Bremner Blvd, Toronto, ON M5V 3L9, Canada",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "CN Tower"
+  },
+  "s1366288136": {
+    "lat": 40.7794366,
+    "lng": -73.963244,
+    "extracted_address": "The Met",
+    "formatted_address": "1000 5th Ave, New York, NY 10028, USA",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "The Met"
+  },
+  "s630524756": {
+    "lat": 40.7743214,
+    "lng": -73.97088289999999,
+    "extracted_address": "Bethesda Fountain",
+    "formatted_address": "New York, NY 10024, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Bethesda Fountain"
+  },
+  "s134558465": {
+    "lat": 39.9541258,
+    "lng": -75.207676,
+    "extracted_address": "St. Mark's Square",
+    "formatted_address": "St Marks Square, Philadelphia, PA 19104, USA",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "St. Mark's Square"
+  },
+  "s2162298511": {
+    "lat": 40.4153794,
+    "lng": -3.7089697,
+    "extracted_address": "Mercado de San Miguel",
+    "formatted_address": "Pl. de San Miguel, s/n, Centro, 28005 Madrid, Spain",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Mercado de San Miguel"
+  },
+  "s1447042130": {
+    "lat": 46.0497997,
+    "lng": 14.5036339,
+    "extracted_address": "Congress Square (Kongresni trg",
+    "formatted_address": "Congress Square, Kongresni trg, 1000 Ljubljana, Slovenia",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Congress Square (Kongresni trg"
+  },
+  "s274103396": {
+    "lat": 29.4251905,
+    "lng": -98.4945922,
+    "extracted_address": "San Antonio",
+    "formatted_address": "San Antonio, TX, USA",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "San Antonio"
+  },
+  "s1799722168": {
+    "lat": 33.9587696,
+    "lng": -83.375187,
+    "extracted_address": "Eddie's Calzones & Drafts",
+    "formatted_address": "227 E Clayton St, Athens, GA 30601, USA",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "source": "geocoded",
+    "description": "Eddie's Calzones & Drafts"
+  },
+  "s118749832": {
+    "lat": 38.2037252,
+    "lng": -85.77239879999999,
+    "extracted_address": "Churchill Downs",
+    "formatted_address": "700 Central Ave, Louisville, KY 40208, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Churchill Downs"
+  },
+  "222148332": {
+    "lat": 44.5992568,
+    "lng": 2.3976934,
+    "extracted_address": "Sainte-Foy Abbey Church",
+    "formatted_address": "Prieur\u00e9 Ste Foy de Conques, 12320 Conques-en-Rouergue, France",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Sainte-Foy Abbey Church"
+  },
+  "s198333455": {
+    "lat": 51.5081496,
+    "lng": 0.0260513,
+    "extracted_address": "ExCeL London",
+    "formatted_address": "Royal Victoria Dock, 1 Western Gateway, London E16 1XL, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "ExCeL London"
+  },
+  "8262494770": {
+    "lat": 40.7308838,
+    "lng": -73.997332,
+    "extracted_address": "Washington Square Park",
+    "formatted_address": "Washington Square Park, New York, NY 10012, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Washington Square Park"
+  },
+  "s1620904735": {
+    "lat": 41.3817399,
+    "lng": 2.1715853,
+    "extracted_address": "La Boqueria",
+    "formatted_address": "La Rambla, 91, Ciutat Vella, 08001 Barcelona, Spain",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "La Boqueria"
+  },
+  "s133676465": {
+    "lat": 42.0908391,
+    "lng": -71.26427129999999,
+    "extracted_address": "Gillette Stadium",
+    "formatted_address": "1 Patriot Pl, Foxborough, MA 02035, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "stadium"
+    ],
+    "source": "geocoded",
+    "description": "Gillette Stadium"
+  },
+  "5326321288": {
+    "lat": 48.4196283,
+    "lng": -123.3702583,
+    "extracted_address": "British Columbia Parliament Buildings",
+    "formatted_address": "501 Belleville St., Victoria, BC V8V 2H2, Canada",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "British Columbia Parliament Buildings"
+  },
+  "s703281619": {
+    "lat": 43.2676808,
+    "lng": 6.640710899999999,
+    "extracted_address": "Saint-Tropez",
+    "formatted_address": "83990 Saint-Tropez, France",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Saint-Tropez"
+  },
+  "s1168369": {
+    "lat": 19.8986819,
+    "lng": -155.6658568,
+    "extracted_address": "Looking at this image step by step:\n\n1. I can see an \"IRONMAN\" banner prominently displayed, indicating this is an Ironman triathlon event\n2. The banner appears to include \"HAWAII\" text\n3. The setting shows a tropical coastal environment with palm trees and blue water\n4. There are large crowds gathered around what appears to be a finish line area\n5. The architecture and tropical landscape are characteristic of Hawaii\n6. This appears to be the iconic finish line of the Ironman World Championship\n\nBased on these visual clues, this photo was taken in **Kailua-Kona, Hawaii** - specifically at the famous Ironman World Championship finish line on Ali'i Drive. This is one of the most recognizable triathlon finish lines in the world, where the annual Ironman World Championship takes place each October.",
+    "formatted_address": "Hawaii, USA",
+    "types": [
+      "administrative_area_level_1",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Ironman World Championship Finish Line"
+  },
+  "5796375126": {
+    "lat": 41.90599,
+    "lng": 12.482775,
+    "extracted_address": "Spanish Steps",
+    "formatted_address": "Piazza di Spagna, 00187 Roma RM, Italy",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Spanish Steps"
+  },
+  "s79403914": {
+    "lat": 51.5412554,
+    "lng": -0.1450175,
+    "extracted_address": "Camden Market",
+    "formatted_address": "Camden Lock Pl, London NW1 8AF, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "source": "geocoded",
+    "description": "Camden Market"
+  },
+  "9331825096": {
+    "lat": 37.42766,
+    "lng": -122.17006,
+    "extracted_address": "Stanford University",
+    "formatted_address": "450 Jane Stanford Way, Stanford, CA 94305, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "university"
+    ],
+    "source": "geocoded",
+    "description": "Stanford University"
+  },
+  "s1350523139": {
+    "lat": 40.415511,
+    "lng": -3.7074009,
+    "extracted_address": "Plaza Mayor",
+    "formatted_address": "Pl. Mayor, Centro, 28012 Madrid, Spain",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Plaza Mayor"
+  },
+  "s2160998447": {
+    "lat": 15.2105766,
+    "lng": -92.5510595,
+    "extracted_address": "Las Murallas",
+    "formatted_address": "30637 Las Murallas, Chis., Mexico",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Las Murallas"
+  },
+  "s391058833": {
+    "lat": -31.95527,
+    "lng": 115.8587505,
+    "extracted_address": "London Court",
+    "formatted_address": "647 Hay St, Perth WA 6000, Australia",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall"
+    ],
+    "source": "geocoded",
+    "description": "London Court"
+  },
+  "3187101394": {
+    "lat": 37.9392052,
+    "lng": 27.34092,
+    "extracted_address": "Library of Celsus",
+    "formatted_address": "Atat\u00fcrk, 35920 Sel\u00e7uk/\u0130zmir, T\u00fcrkiye",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Library of Celsus"
+  },
+  "s2378186027": {
+    "lat": 38.8899389,
+    "lng": -77.0090505,
+    "extracted_address": "US Capitol Building",
+    "formatted_address": "Washington, DC 20004, USA",
+    "types": [
+      "establishment",
+      "landmark",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "US Capitol Building"
+  },
+  "s1997018249": {
+    "lat": 42.700923,
+    "lng": -74.9253371,
+    "extracted_address": "Cooperstown Bat",
+    "formatted_address": "118 Main St, Cooperstown, NY 13326, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "source": "geocoded",
+    "description": "Cooperstown Bat"
+  },
+  "3907592545": {
+    "lat": 11.9852778,
+    "lng": -86.1608333,
+    "extracted_address": "Masaya Volcano",
+    "formatted_address": "Masaya Volcano, Nicaragua",
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "source": "geocoded",
+    "description": "Masaya Volcano"
+  },
+  "s704665585": {
+    "lat": 34.0523392,
+    "lng": -118.2395052,
+    "extracted_address": "Little Tokyo",
+    "formatted_address": "Little Tokyo, Los Angeles, CA, USA",
+    "types": [
+      "neighborhood",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Little Tokyo"
+  },
+  "8307183683": {
+    "lat": -7.6078738,
+    "lng": 110.2037513,
+    "extracted_address": "Borobudur Temple",
+    "formatted_address": "Jl. Badrawati, Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah, Indonesia",
+    "types": [
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Borobudur Temple"
+  },
+  "s202283887": {
+    "lat": 40.7194275,
+    "lng": -73.9972795,
+    "extracted_address": "Mulberry Street",
+    "formatted_address": "Mulberry St, New York, NY, USA",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Mulberry Street"
+  },
+  "s2164303169": {
+    "lat": -23.561414,
+    "lng": -46.6558819,
+    "extracted_address": "MASP",
+    "formatted_address": "Av. Paulista, 1578 - Bela Vista, S\u00e3o Paulo - SP, 01310-200, Brazil",
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "MASP"
+  },
+  "4502180364": {
+    "lat": -37.8182711,
+    "lng": 144.9670618,
+    "extracted_address": "Flinders Street Station",
+    "formatted_address": "Flinders Street, Flinders St, Melbourne VIC 3000, Australia",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "train_station",
+      "transit_station"
+    ],
+    "source": "geocoded",
+    "description": "Flinders Street Station"
+  },
+  "s1469215985": {
+    "lat": 51.5055826,
+    "lng": -0.09048080000000001,
+    "extracted_address": "Borough Market",
+    "formatted_address": "London SE1 9AL, UK",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Borough Market"
+  },
+  "s2313146545": {
+    "lat": 48.2051222,
+    "lng": 16.3708532,
+    "extracted_address": "J & L LOBMEYR",
+    "formatted_address": "K\u00e4rntner Str. 26, 1010 Wien, Austria",
+    "types": [
+      "establishment",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "source": "geocoded",
+    "description": "J & L LOBMEYR"
+  },
+  "s138298187": {
+    "lat": 44.8125449,
+    "lng": 20.46123,
+    "extracted_address": "Belgrade",
+    "formatted_address": "Belgrade, Serbia",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Belgrade"
+  },
+  "s1311110234": {
+    "lat": 40.7127431,
+    "lng": -74.0133795,
+    "extracted_address": "One World Trade Center",
+    "formatted_address": "285 Fulton St, New York, NY 10007, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "One World Trade Center"
+  },
+  "106683910": {
+    "lat": 37.7459192,
+    "lng": -119.5331992,
+    "extracted_address": "Half Dome",
+    "formatted_address": "Half Dome, California, USA",
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "source": "geocoded",
+    "description": "Half Dome"
+  },
+  "3081675111": {
+    "lat": -25.274398,
+    "lng": 133.775136,
+    "extracted_address": "Looking at this image step by step:\n\n1. **Flag identification**: The prominent flag design shows a dark blue field with white stars and a distinctive cross pattern - this is the Eureka Flag, a significant symbol in Australian history.\n\n2. **Context clues**: The setting appears to be an outdoor ceremony or commemoration, with someone reading from papers, suggesting this is likely a memorial or historical event.\n\n3. **Historical significance**: The Eureka Flag is specifically associated with the Eureka Rebellion of 1854, which took place at the Ballarat goldfields in Victoria, Australia.\n\n4. **Setting**: The outdoor location with what appears to be a memorial or ceremonial setup suggests this is likely at a site of historical significance related to the Eureka events.\n\n**Answer: Ballarat, Victoria, Australia**\n\nThis appears to be taken in Ballarat, most likely at or near the site of the original Eureka Stockade or at a related memorial, during what seems to be a commemoration ceremony of the Eureka Rebellion.",
+    "formatted_address": "Australia",
+    "types": [
+      "country",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Eureka Stockade"
+  },
+  "3543571759": {
+    "lat": 37.779275,
+    "lng": -122.4192417,
+    "extracted_address": "San Francisco City Hall",
+    "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA",
+    "types": [
+      "city_hall",
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "San Francisco City Hall"
+  },
+  "4268908667": {
+    "lat": 43.4799559,
+    "lng": -110.7617792,
+    "extracted_address": "Jackson Town Square",
+    "formatted_address": "Jackson Town Square, 10 E Broadway Ave, Jackson, WY 83001, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Jackson Town Square"
+  },
+  "96393465": {
+    "lat": 51.5138453,
+    "lng": -0.0983506,
+    "extracted_address": "St. Paul's Cathedral",
+    "formatted_address": "St. Paul's Churchyard, London EC4M 8AD, UK",
+    "types": [
+      "church",
+      "establishment",
+      "place_of_worship",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "St. Paul's Cathedral"
+  },
+  "4591382473": {
+    "lat": 47.5277617,
+    "lng": -122.3320305,
+    "extracted_address": "Occidental Avenue",
+    "formatted_address": "Occidental Ave S, Washington, USA",
+    "types": [
+      "route"
+    ],
+    "source": "geocoded",
+    "description": "Occidental Avenue"
+  },
+  "4156242204": {
+    "lat": 37.779275,
+    "lng": -122.4192417,
+    "extracted_address": "San Francisco City Hall",
+    "formatted_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, USA",
+    "types": [
+      "city_hall",
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "source": "geocoded",
+    "description": "San Francisco City Hall"
+  },
+  "6182871234": {
+    "lat": 24.6287053,
+    "lng": -82.8731853,
+    "extracted_address": "Fort Jefferson",
+    "formatted_address": "Fort Jefferson, Dry Tortugas National Park, Fort Jefferson - Key W, Key West, FL 33040, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Fort Jefferson"
+  },
+  "8596096619": {
+    "lat": 38.8906424,
+    "lng": -77.0044398,
+    "extracted_address": "U.S. Supreme Court",
+    "formatted_address": "1 First St NE, Washington, DC 20543, USA",
+    "types": [
+      "courthouse",
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "U.S. Supreme Court"
+  },
+  "9131289770": {
+    "lat": 38.8899389,
+    "lng": -77.0090505,
+    "extracted_address": "U.S. Capitol building",
+    "formatted_address": "Washington, DC 20004, USA",
+    "types": [
+      "establishment",
+      "landmark",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "U.S. Capitol building"
+  },
+  "8572723158": {
+    "lat": 31.7767923,
+    "lng": 35.2310338,
+    "extracted_address": "Jerusalem's Old City",
+    "formatted_address": "Old City, Jerusalem",
+    "types": [
+      "neighborhood",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Jerusalem's Old City"
+  },
+  "33048881": {
+    "lat": 34.0082821,
+    "lng": -118.4987585,
+    "extracted_address": "Santa Monica Pier",
+    "formatted_address": "200 Santa Monica Pier, Santa Monica, CA 90401, USA",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction",
+      "travel_agency"
+    ],
+    "source": "geocoded",
+    "description": "Santa Monica Pier"
+  },
+  "3362042288": {
+    "lat": 37.8502032,
+    "lng": -122.032184,
+    "extracted_address": "Alamo",
+    "formatted_address": "Alamo, CA 94507, USA",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "source": "geocoded",
+    "description": "Alamo"
+  },
+  "8436487419": {
+    "lat": 38.8899389,
+    "lng": -77.0090505,
+    "extracted_address": "U.S. Capitol",
+    "formatted_address": "Washington, DC 20004, USA",
+    "types": [
+      "establishment",
+      "landmark",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "U.S. Capitol"
+  },
+  "8010095667": {
+    "lat": 40.7825547,
+    "lng": -73.9655834,
+    "extracted_address": "Central Park",
+    "formatted_address": "Central Park, New York, NY, USA",
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "source": "geocoded",
+    "description": "Central Park"
+  }
+}

@@ -1,0 +1,13 @@
+# environment
+venv
+__pycache__
+.env
+
+# temporary files
+*_temp*
+
+# log files
+*.log
+
+# raw images (unzip from zip file)
+data/images

@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "2088763517",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6296560201",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1351246086",
+    "Q7-gen": "I'm sorry, but I cannot provide the exact location where this photo was taken based on the visual content alone. However, it appears to be an outdoor setting with a mound of dirt and some vegetation in the background, suggesting it might be in a rural or wilderness area. The presence of the person in military attire could indicate that it is a location associated with military training or operations. Without additional context or identifiable landmarks, it is difficult to determine the precise location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "530299916",
+    "Q7-gen": "This photo is taken in the middle east.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2153205662",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1422104961",
+    "Q7-gen": "This photo appears to have been taken at an outdoor cultural or religious gathering, possibly in Africa given the traditional attire of the participants. However, without more specific details such as landmarks, unique architectural features, or identifiable symbols, it's not possible to determine the exact location from the image alone. The presence of greenery suggests that the event may be taking place outdoors during daylight hours. To accurately pinpoint the location would require additional context or information beyond what can be observed in the photograph.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "415815332",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2927129825",
+    "Q7-gen": "This photo is taken at a park in a country with English language and cultural influences.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "178966363",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5314749745",
+    "Q7-gen": "New York City, United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "452289167",
+    "Q7-gen": "India",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1574809957",
+    "Q7-gen": "This photo appears to have been taken in an urban park setting near a body of water, possibly a river or canal, with visible greenery and some buildings in the background.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "358066578",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1439764921",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1386768513",
+    "Q7-gen": "This photo appears to be taken in a European city, likely in France, given the architecture and the presence of a Catalan flag.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5908041850",
+    "Q7-gen": "Spain",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5136072764",
+    "Q7-gen": "Tunisia",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2790764148",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6961386470",
+    "Q7-gen": "Chile.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "523909268",
+    "Q7-gen": "This photo was taken outside.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "243799407",
+    "Q7-gen": "India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8815795798",
+    "Q7-gen": "This photo appears to have been taken in an urban area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1896392812",
+    "Q7-gen": "Beach.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6779799981",
+    "Q7-gen": "The photo appears to have been taken from a high vantage point in Singapore, looking out over the cityscape towards the Singapore Flyer, which is a large Ferris wheel on the opposite side of the river. The exact location from which the photo was taken is not identifiable.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "12714152683",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3974322793",
+    "Q7-gen": "This photo is taken in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "219433381",
+    "Q7-gen": "The photo was taken in a city with historic architecture.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6292826",
+    "Q7-gen": "Italy.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "265352838",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1139613029",
+    "Q7-gen": "The image depicts a busy urban street scene, likely in a European city. The architecture, the style of the buildings, the design of the public transportation, and the presence of people with European features suggest it could be in a city like Stockholm, Sweden. The specific landmarks, such as the bridge in the background and the style of the tram, support this hypothesis. However, without more specific landmarks or signage, it's not possible to determine the exact location with certainty.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "563945657",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6042645653",
+    "Q7-gen": "This photo appears to be taken on a lake or a large river, given the visible body of water in the background.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5682064843",
+    "Q7-gen": "Answer: The photo appears to be taken at an outdoor water park with swimming pools and water slides.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3357571272",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8406771903",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3641518435",
+    "Q7-gen": "Answer: This photo appears to have been taken in an office building or a high-rise commercial building, looking out over a cityscape. The exact location cannot be determined from the image alone without distinctive landmarks or signage.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "539648958",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9001135290",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "216885820",
+    "Q7-gen": "This photo was taken outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4881727444",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11014929335",
+    "Q7-gen": "This photo was taken in the UK.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "13461766705",
+    "Q7-gen": "United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5348320913",
+    "Q7-gen": "Sydney, Australia",
+    "Q7-label": "B"
+  },
+  {
+    "id": "379604236",
+    "Q7-gen": "The photo was taken in the city of Bilbao, Spain. This conclusion is drawn from the distinctive architecture of the church, which is the Church of San Ant\u00f3n, a well-known landmark in Bilbao. The style of the church, with its ornate fa\u00e7ade and bell tower, is characteristic of the city's historic buildings. Additionally, the street signs and the design of the surrounding buildings are consistent with those found in Bilbao.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1973617618",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3427341325",
+    "Q7-gen": "Iceland",
+    "Q7-label": "B"
+  },
+  {
+    "id": "218049846",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7692193950",
+    "Q7-gen": "This photo is taken in Europe.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "369711791",
+    "Q7-gen": "Spain",
+    "Q7-label": "B"
+  },
+  {
+    "id": "329033253",
+    "Q7-gen": "The photo was taken at a church in a European city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4134663298",
+    "Q7-gen": "Switzerland.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8306613715",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6295982812",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4672989265",
+    "Q7-gen": "This photo appears to have been taken at an outdoor event, possibly a formal gathering or a buffet-style meal. The presence of a large building with a distinctive roof and the outdoor seating area suggests it might be a venue such as a hotel, conference center, or a special event space. The specific location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3227947036",
+    "Q7-gen": "India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9546093889",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "325392247",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "285969802",
+    "Q7-gen": "New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7237017308",
+    "Q7-gen": "This photo is taken in a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "182341219",
+    "Q7-gen": "This photo was taken in Berlin, Germany.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5183593914",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "756531584",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5292540094",
+    "Q7-gen": "In front of a Nesma Airlines aircraft at an airport.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "456712325",
+    "Q7-gen": "Outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "522146989",
+    "Q7-gen": "The photo is taken in front of a large cathedral with a crowd of people around.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4745840637",
+    "Q7-gen": "This photo is taken in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5764250917",
+    "Q7-gen": "The photo appears to be taken at Senso-ji, a Buddhist temple located in Asakusa, Tokyo, Japan.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3993491561",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "683194672",
+    "Q7-gen": "The photo appears to be taken in an urban area in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9640910501",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5923624371",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11985456966",
+    "Q7-gen": "This photo is taken in Salvador, Brazil.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "31700873",
+    "Q7-gen": "This photo was taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9309870009",
+    "Q7-gen": "It appears that this photo was taken in a European city, possibly in a country like Belgium or the Netherlands, as suggested by the architectural style of the building with the red-tiled roof and the presence of a church steeple in the background.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1301398204",
+    "Q7-gen": "France",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6875708677",
+    "Q7-gen": "Indoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8474673006",
+    "Q7-gen": "This photo is taken in Vietnam.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1521426546",
+    "Q7-gen": "This photo was taken on a beach.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8315509448",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5548423806",
+    "Q7-gen": "Ciudad Real.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5561023319",
+    "Q7-gen": "The photo is taken in an urban area, likely a city street.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5765699878",
+    "Q7-gen": "It's likely that this photo was taken at a park or garden.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6074064623",
+    "Q7-gen": "This photo was taken in a marina.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2870241487",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "556199541",
+    "Q7-gen": "It appears that this photo was taken at Victoria Falls, located on the Zambezi River on the border between Zambia and Zimbabwe. The waterfall's distinctive features and surrounding landscape are visible in the background.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1097920068",
+    "Q7-gen": "The photo appears to have been taken at an outdoor cafe or restaurant, likely in an urban setting given the presence of multiple people, bicycles, and what looks like a street or pedestrian area in the background. The exact location cannot be determined from the image alone without any distinctive landmarks or signage visible.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "165070370",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4535662044",
+    "Q7-gen": "This photo was taken in a busy shopping street in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4441179970",
+    "Q7-gen": "The photo appears to be taken in front of a castle-like structure, possibly at a theme park or a historical site. The presence of the coat of arms and the architectural style suggest it could be in Europe, but without more specific landmarks, it's difficult to pinpoint the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3480155072",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "976532479",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "523184139",
+    "Q7-gen": "This photo is taken at Montmartre funicular in Paris.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "10003206806",
+    "Q7-gen": "This photo was taken at a house in a village.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "968293102",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3015282977",
+    "Q7-gen": "This photo was likely taken at a beach or coastal area, given the presence of sand, water, and the person standing near the shoreline. The exact location cannot be determined from the image alone without additional context or identifiable landmarks.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8706699810",
+    "Q7-gen": "This photo was taken at Storm King Art Center in New York State.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "280847097",
+    "Q7-gen": "It is not possible to determine the exact location from the photo alone as there are no distinctive landmarks or signs visible in the image. The field with red flowers could be anywhere around the world where such flora grows. To accurately identify the location would require additional context or information that isn't present in the photograph.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2337753762",
+    "Q7-gen": "It is most likely taken in the United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "13363473424",
+    "Q7-gen": "The photo appears to be taken at an outdoor public space such as a park or square within an urban area. The presence of brick buildings in the background suggests it could be near residential areas or historical districts commonly found in European cities like London. However, without more specific landmarks or signs, pinpointing an exact location would not be possible solely from the given information.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1388076875",
+    "Q7-gen": "The photo is taken in Australia.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7769850426",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2846936237",
+    "Q7-gen": "Park",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4496629668",
+    "Q7-gen": "Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "486640035",
+    "Q7-gen": "Spain",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5862873516",
+    "Q7-gen": "This photo is taken in an outdoor courtyard.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4916969136",
+    "Q7-gen": "New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3436537095",
+    "Q7-gen": "Outside of a house.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "97344146",
+    "Q7-gen": "Barcelona",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3993363938",
+    "Q7-gen": "The photo appears to be taken in an urban setting, possibly on a city street. The presence of multiple pedestrians, cars, and buildings suggests a bustling area, but without distinctive landmarks or signs, it's difficult to pinpoint an exact location. The style of the buildings and the design of the cars could provide some hints, but they are not specific enough to determine a precise location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1461522249",
+    "Q7-gen": "This photo is taken at the Roman Forum in Rome, Italy.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "247024863",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "446995789",
+    "Q7-gen": "This photo was taken in a South American archaeological site.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2412894098",
+    "Q7-gen": "This photo was taken in Chile.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2500808809",
+    "Q7-gen": "The photo appears to have been taken at a beach or coastal area. The presence of sand dunes and the activity of the individuals suggest it could be a seaside location where fishing or similar activities are common. Without additional context or specific landmarks, it is not possible to determine the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5402766188",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "13963887305",
+    "Q7-gen": "The photo appears to be taken in a hilly or mountainous region, likely outdoors, possibly on a balcony or terrace, given the visible railing and the view of the hillside in the background. The specific location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "822984583",
+    "Q7-gen": "United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4341776736",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1386606787",
+    "Q7-gen": "This photo appears to have been taken in Cape Town, South Africa, near the V&A Waterfront.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3881805795",
+    "Q7-gen": "The photo appears to have been taken in an alleyway between buildings.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5596097823",
+    "Q7-gen": "This photo was taken in the Australian outback.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5628690825",
+    "Q7-gen": "The photo appears to be taken outdoors in a city environment.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2094118584",
+    "Q7-gen": "The photo appears to have been taken in an urban or suburban area with a bus, likely in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "443568113",
+    "Q7-gen": "Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2893104391",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7962973752",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "10537366026",
+    "Q7-gen": "Beach",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5077445230",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9318404306",
+    "Q7-gen": "I'm sorry, but I can't provide the exact location of the photo based on the image alone. However, the image shows a group of people on a boat or ship, with a scenic backdrop of mountains and water. The photo could have been taken in many different locations around the world. If you have any more information or context about the image, I may be able to help you further.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "390524954",
+    "Q7-gen": "This photo was likely taken in a city with a harbor or dock area.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5736082154",
+    "Q7-gen": "This photo was taken outside John Marshall Law School.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "4016777484",
+    "Q7-gen": "This photo seems to be taken in a pastoral or countryside setting, likely a rural area where sheep farming is common. The presence of a fence, grazing sheep, and open grassy fields suggest a location that is used for agricultural purposes, specifically for livestock. Without more specific landmarks or indicators, it's difficult to determine the exact location, but it could be in a region known for sheep farming, such as parts of the United Kingdom, New Zealand, or Australia. The overcast sky and the type of vegetation might also suggest a temperate climate zone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "7521123428",
+    "Q7-gen": "This photo is taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4329535990",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "515336129",
+    "Q7-gen": "The photo is taken in a tropical environment, as indicated by the presence of palm trees and the rice paddy field in the background.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4716047404",
+    "Q7-gen": "This photo was taken in Times Square, New York City.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3905584273",
+    "Q7-gen": "School.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4811750972",
+    "Q7-gen": "Asia",
+    "Q7-label": "A"
+  },
+  {
+    "id": "480372482",
+    "Q7-gen": "This photo is taken inside a shopping mall.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2767333569",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "109444762",
+    "Q7-gen": "USA.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2884204484",
+    "Q7-gen": "Art Gallery.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4937975485",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8307089134",
+    "Q7-gen": "This photo appears to be taken on a street in a European city, likely in Italy, based on the architecture of the buildings and the style of the street. The specific location cannot be determined without more information.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5473969715",
+    "Q7-gen": "This photo appears to be taken on a city street, possibly in a European city, based on the architecture and the style of the street signs.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5948658911",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5395039226",
+    "Q7-gen": "The photo is taken in an urban park area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3247860886",
+    "Q7-gen": "The exact location cannot be determined solely based on the image.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "88585744",
+    "Q7-gen": "Somalia.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4789622814",
+    "Q7-gen": "The photo is taken at an outdoor event during rainy weather.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "628184053",
+    "Q7-gen": "Greenland",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3128699639",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "284743606",
+    "Q7-gen": "George Washington University Hospital",
+    "Q7-label": "C"
+  },
+  {
+    "id": "311861136",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "175835676",
+    "Q7-gen": "Netherlands",
+    "Q7-label": "B"
+  },
+  {
+    "id": "352380518",
+    "Q7-gen": "Grand Canyon",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4332725043",
+    "Q7-gen": "This photo appears to be taken at an outdoor event, possibly a festival or a communal gathering, given the presence of multiple people dressed in traditional attire and the large roasted bird being shared among them. The setting seems to be in a rural or semi-rural area, as indicated by the trees in the background. Without additional context or distinctive landmarks, it is challenging to pinpoint the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1799241727",
+    "Q7-gen": "Natural History Museum, London.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "511802589",
+    "Q7-gen": "Disneyland",
+    "Q7-label": "C"
+  },
+  {
+    "id": "565519767",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2903159948",
+    "Q7-gen": "In the woods.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4543358981",
+    "Q7-gen": "Answer: This photo appears to have been taken at a battlefield, specifically at Gettysburg National Military Park, as indicated by the URL in the bottom right corner of the image.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "10121282706",
+    "Q7-gen": "This photo was likely taken in Venice, Italy.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2694726216",
+    "Q7-gen": "New York",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4280912022",
+    "Q7-gen": "Haiti",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6279251255",
+    "Q7-gen": "Answer: This photo was taken at a museum.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5839161640",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2290726072",
+    "Q7-gen": "This photo was taken in Texas.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2738387084",
+    "Q7-gen": "Beach.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6817087374",
+    "Q7-gen": "Brisbane",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7276598480",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1873728",
+    "Q7-gen": "On a bus.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6925234617",
+    "Q7-gen": "Egypt",
+    "Q7-label": "B"
+  },
+  {
+    "id": "311141742",
+    "Q7-gen": "Seoul",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8251381751",
+    "Q7-gen": "The photo is taken at the Basilica Cistern in Istanbul, Turkey.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "7281876710",
+    "Q7-gen": "paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9393468013",
+    "Q7-gen": "United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "427836902",
+    "Q7-gen": "In a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7467989216",
+    "Q7-gen": "The photo appears to be taken at an Olympic torch relay event, likely in a stadium or an arena where such ceremonies are held. The presence of the Olympic torch suggests that the location is related to the Olympic Games. The exact city or country is not identifiable from the image alone, as such ceremonies can occur in various countries during the Olympic torch relay.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "11175831776",
+    "Q7-gen": "Ukraine.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7159800926",
+    "Q7-gen": "France",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7488269670",
+    "Q7-gen": "This photo was taken in a courtyard.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "266092150",
+    "Q7-gen": "Netherlands",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3007603560",
+    "Q7-gen": "USA.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3511424366",
+    "Q7-gen": "Scotland",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4218701807",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8203034515",
+    "Q7-gen": "Canada",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5112324575",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5034153774",
+    "Q7-gen": "park",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6995040775",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "682744340",
+    "Q7-gen": "This photo was taken in the forest.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3031378811",
+    "Q7-gen": "This photo appears to have been taken in a rural or semi-rural area, possibly in a region with hilly terrain given the incline of the road and the vegetation. Without more specific landmarks or signs, it's challenging to determine the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "345199822",
+    "Q7-gen": "This photo appears to be taken in a rural or underdeveloped area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4101969711",
+    "Q7-gen": "This photo was taken at a protest.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2321003896",
+    "Q7-gen": "This photo appears to be taken in a park or an outdoor recreational area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "39672922",
+    "Q7-gen": "This photo was likely taken in Italy.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3903204544",
+    "Q7-gen": "This photo was likely taken outside of a hotel.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "72918630",
+    "Q7-gen": "Subway station",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6002559536",
+    "Q7-gen": "The photo was taken at a cemetery.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "458444286",
+    "Q7-gen": "Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3109247737",
+    "Q7-gen": "This photo was taken in New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2138372551",
+    "Q7-gen": "Germany",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5404476958",
+    "Q7-gen": "This photo is taken outside a Gap store in London.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "197132294",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5147781642",
+    "Q7-gen": "Washington D.C.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3667871009",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5799461563",
+    "Q7-gen": "Germany",
+    "Q7-label": "B"
+  },
+  {
+    "id": "443981425",
+    "Q7-gen": "This photo was taken outside a library.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3014182108",
+    "Q7-gen": "The photo appears to be taken in an urban area with modern buildings, possibly in the United States given the presence of the American flag in the background.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "204004897",
+    "Q7-gen": "This photo is taken in Park G\u00fcell in Barcelona, Spain.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "7405826530",
+    "Q7-gen": "This photo was taken at disneyland.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3848698631",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3177222884",
+    "Q7-gen": "It seems like this photo was taken in a tropical or subtropical area.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2877611238",
+    "Q7-gen": "This photo was taken in New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5975143553",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "356472264",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2264517682",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8474615403",
+    "Q7-gen": "New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "138991280",
+    "Q7-gen": "This photo appears to be taken outdoors in a park or wooded area with many trees and greenery in the background.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "10623520323",
+    "Q7-gen": "The photo appears to be taken at an archaeological site with ancient carvings.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1310414381",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2689360364",
+    "Q7-gen": "This photo appears to be taken outdoors, possibly in a park or natural area with a view of a valley.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5474543169",
+    "Q7-gen": "Puerto L\u00e1pice",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4935592901",
+    "Q7-gen": "The photo was taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5645366543",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "190003873",
+    "Q7-gen": "Metro station",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3106038695",
+    "Q7-gen": "This photo appears to be taken in a park in London, based on the architecture of the buildings in the background and the style of the park.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4943904461",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2096637293",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3067729276",
+    "Q7-gen": "Downtown Metro Seattle",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3141232303",
+    "Q7-gen": "This photo is taken in Paris, France.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6869418052",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3623215891",
+    "Q7-gen": "USA.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6402701133",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3493262591",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2280991185",
+    "Q7-gen": "New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "748585499",
+    "Q7-gen": "This photo was taken in London, United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9672684353",
+    "Q7-gen": "This photo is taken in Seattle.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8413225261",
+    "Q7-gen": "The photo appears to have been taken at a marina or dock area with multiple boats moored along the water's edge. It could be any coastal city or town that has access to a body of water suitable for boating activities. However, without more specific landmarks or contextual clues within the image, it would not be possible to accurately determine the exact location where this photograph was captured.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8610550",
+    "Q7-gen": "This photo was taken in Bali.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1289357310",
+    "Q7-gen": "It seems like the photo was taken in a botanical garden or a park with a garden.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "297192747",
+    "Q7-gen": "Queenstown.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "478731834",
+    "Q7-gen": "Rome",
+    "Q7-label": "B"
+  },
+  {
+    "id": "400760123",
+    "Q7-gen": "Turkey",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6127913719",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "14006146813",
+    "Q7-gen": "Beach",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8455618",
+    "Q7-gen": "This photo is taken at the top of a pyramid.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "10594856076",
+    "Q7-gen": "United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2302850654",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4020824225",
+    "Q7-gen": "This photo was taken in the ocean.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2220485647",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "10541286366",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11592359494",
+    "Q7-gen": "SLEEPY HOLLOW, NEW YORK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6062877661",
+    "Q7-gen": "This photo was taken in New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4595464362",
+    "Q7-gen": "This photo was taken by a lake or pond.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3123807177",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9880081374",
+    "Q7-gen": "This photo appears to have been taken at a beach.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4182683298",
+    "Q7-gen": "This photo was taken in a Mediterranean area.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2657523317",
+    "Q7-gen": "Malaysia",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5377580962",
+    "Q7-gen": "The photo appears to be taken indoors, possibly in a grand hall or a historic building, as indicated by the ornate architecture, including the large chandelier and arched windows. However, without more specific landmarks or context, it is difficult to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6780531613",
+    "Q7-gen": "Answer: This photo appears to be taken at a beach or seaside location where people are swimming and enjoying the water.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5271858025",
+    "Q7-gen": "The photo appears to be taken in front of an Apple store, which is located in a city square. The architecture and street design suggest that it is in a European city, possibly in Germany, as indicated by the signage in German.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9003525390",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2232591644",
+    "Q7-gen": "It's taken at a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "984664910",
+    "Q7-gen": "United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3194135654",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4659077680",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1320922094",
+    "Q7-gen": "United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3252552164",
+    "Q7-gen": "The photo appears to have been taken in an urban environment, as indicated by the presence of a multi-story building in the background. However, without any distinctive landmarks or signage, it is not possible to accurately determine the exact location of the scene based solely on the image provided. The style of the building and the presence of emergency response personnel suggest that it could be in a city where such incidents occur or where there is a need for specialized emergency services. The specific city or country cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3973580742",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2042084815",
+    "Q7-gen": "This photo is taken at a beach.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8674311330",
+    "Q7-gen": "Urban area",
+    "Q7-label": "A"
+  },
+  {
+    "id": "12403641564",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7442103862",
+    "Q7-gen": "Thailand.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "397104761",
+    "Q7-gen": "Caribbean.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "236575071",
+    "Q7-gen": "It appears that this photo was taken at a high school football game.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3754912645",
+    "Q7-gen": "The photo appears to be taken at a public event or rally, as evidenced by the crowd holding signs and the green banner in the background. Without more specific details, it is difficult to pinpoint the exact location. However, it could be a street in a city or town where the event is taking place.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6331592414",
+    "Q7-gen": "The photo appears to be taken inside a large church, likely in a European country.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5936382077",
+    "Q7-gen": "Outside of a house.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4151002246",
+    "Q7-gen": "Taiwan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6955589443",
+    "Q7-gen": "Answer: This photo was taken at a construction site.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "13349689403",
+    "Q7-gen": "This photo was taken at a model railway exhibit in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5481961530",
+    "Q7-gen": "Spain.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4509567625",
+    "Q7-gen": "Answer: This photo is taken in India. The architecture, clothing, and general environment suggest it is a location in India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4794484965",
+    "Q7-gen": "Lisbon",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1659477928",
+    "Q7-gen": "The image appears to be taken at a Shinto shrine in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7190987226",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6186170638",
+    "Q7-gen": "This photo is taken in a residential neighborhood.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5690346953",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8275994864",
+    "Q7-gen": "This photo is taken in the United Kingdom, as indicated by the \"Byrom Street\" sign and the traditional blue British postbox.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "2936373184",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1499652266",
+    "Q7-gen": "Mexico City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3642427417",
+    "Q7-gen": "This photo is taken in a city in Latin America, as indicated by the architecture of the building and the language on the posters. The building resembles a church or a historical landmark, which is common in many Latin American cities. The presence of Spanish text on the posters suggests that the photo was taken in a Spanish-speaking country. However, without more specific details, it is difficult to pinpoint the exact location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3448603463",
+    "Q7-gen": "Park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4906549885",
+    "Q7-gen": "This photo appears to be taken in a mountainous or hilly area, possibly at a campsite or outdoor recreational area. The presence of tents, a campfire, and people gathered around suggests it could be a camping trip or a festival in a natural setting.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7772297086",
+    "Q7-gen": "This photo was likely taken in Africa, possibly in a country such as Sudan or South Sudan, given the presence of United Nations peacekeeping troops and the surrounding environment.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4982589142",
+    "Q7-gen": "Answer: This photo appears to be taken at an outdoor music festival.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2582899267",
+    "Q7-gen": "It appears that this photo was taken outdoors in a park or natural setting, as there is grass, trees, and a concrete structure in the background. The exact location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5746464724",
+    "Q7-gen": "This photo is taken in a European city street.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "902804092",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "161142762",
+    "Q7-gen": "The photo appears to have been taken on a balcony of a historic building, possibly a government or civic structure, given the architectural details such as the stone masonry and columns. However, without more specific landmarks or context, it is difficult to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6961442808",
+    "Q7-gen": "The photo appears to have been taken at an outdoor patio or deck area of a coastal restaurant or similar establishment, as indicated by the presence of the ocean in the background. The exact location cannot be determined without more context.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "379419762",
+    "Q7-gen": "This photo appears to be taken at a public square or park in China, as evidenced by the presence of Chinese characters on the sign in the background. The architecture and the style of clothing worn by the individuals also suggest a Chinese setting.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1087662996",
+    "Q7-gen": "[Redacted]",
+    "Q7-label": "D"
+  },
+  {
+    "id": "143845164",
+    "Q7-gen": "It is difficult to determine the exact location based on the image alone, but it appears to be in an urban setting with historical architecture, possibly in a tourist area. The presence of a person with a name tag and the style of the building might suggest it is near a famous landmark or monument.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "33337329",
+    "Q7-gen": "This photo is taken in a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "9674782856",
+    "Q7-gen": "This photo was taken in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2425196729",
+    "Q7-gen": "This photo was taken in a forest.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "344883788",
+    "Q7-gen": "This photo is taken at a train station.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1557392107",
+    "Q7-gen": "The image appears to be taken in an ancient Roman site, possibly the Roman Forum, given the visible ruins and architecture that resemble classical Roman structures.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "32633215",
+    "Q7-gen": "Outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "162863290",
+    "Q7-gen": "Paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2063907099",
+    "Q7-gen": "This photo is taken in Brazil.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "283181248",
+    "Q7-gen": "This photo is likely taken in a cafe or coffee shop.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2314192017",
+    "Q7-gen": "This photo was taken outside of a store.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "193907931",
+    "Q7-gen": "Park",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7553525110",
+    "Q7-gen": "Answer: This photo was taken in New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "532386352",
+    "Q7-gen": "The photo appears to be taken at a mountainous area with lush greenery, possibly in a national park or a hiking trail.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3367519850",
+    "Q7-gen": "On a cruise ship.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2122447423",
+    "Q7-gen": "africa",
+    "Q7-label": "A"
+  },
+  {
+    "id": "251877645",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3239097412",
+    "Q7-gen": "Vienna.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7754718074",
+    "Q7-gen": "The photo appears to be taken in a lively outdoor setting, possibly during a community event or festival, suggested by the colorful buildings and the gathering of people. The presence of Spanish text on the street sign indicates that this location could be in a Spanish-speaking country. Without more specific details, it's not possible to pinpoint the exact location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7174842037",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1389846629",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7435547304",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9249065013",
+    "Q7-gen": "This photo was taken at an outdoor volleyball court during a tournament or event.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2913584854",
+    "Q7-gen": "This photo is taken in a desert.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2954529438",
+    "Q7-gen": "It appears to be at the Leaning Tower of Pisa.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "7404450384",
+    "Q7-gen": "This photo was taken in Africa.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5787620294",
+    "Q7-gen": "The image appears to be taken at Victoria Falls, a well-known tourist destination in Zambia. The bridge in the background is likely the Victoria Falls Bridge, which spans the Zambezi River and offers panoramic views of the falls. The lush greenery and the mist rising from the falls are also characteristic of this location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3793961408",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2908484353",
+    "Q7-gen": "Korea",
+    "Q7-label": "B"
+  },
+  {
+    "id": "13169205385",
+    "Q7-gen": "The photo was taken at an Asian university campus.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6773483160",
+    "Q7-gen": "The photo appears to have been taken at a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8097524059",
+    "Q7-gen": "This photo was taken in a restaurant or bar.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8522888335",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6343370101",
+    "Q7-gen": "Spain",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3437788035",
+    "Q7-gen": "The photo was taken in Europe.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8724971015",
+    "Q7-gen": "This photo was likely taken at a coastal viewpoint or hiking trail near the ocean.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7291335624",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7640965516",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7829479910",
+    "Q7-gen": "The photo appears to be taken at an outdoor event or gathering, possibly related to Sound Transit, as indicated by the logo on the podium. The mural in the background suggests that the location might be significant to the community or have cultural or historical importance. Without more specific information, it is difficult to pinpoint an exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5157067509",
+    "Q7-gen": "Central Park.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "280128811",
+    "Q7-gen": "This photo is taken on a beach.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "9674589657",
+    "Q7-gen": "India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9156741088",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "12246783313",
+    "Q7-gen": "This photo was taken at the Mirage Hotel and Casino in Las Vegas.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "2901075604",
+    "Q7-gen": "Beach",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5864025794",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6930209086",
+    "Q7-gen": "Egypt.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "864927630",
+    "Q7-gen": "Paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6335084059",
+    "Q7-gen": "Paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5453248181",
+    "Q7-gen": "United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6015197942",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "260660602",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2400817474",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9031231108",
+    "Q7-gen": "This photo was taken on a bridge.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "384987215",
+    "Q7-gen": "India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3578355376",
+    "Q7-gen": "This photo was taken at the coastline.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "129841428",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3604340060",
+    "Q7-gen": "Paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4844677845",
+    "Q7-gen": "This photo was taken at a music festival.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6758760147",
+    "Q7-gen": "Answer: The photo appears to have been taken in a forested area, possibly in a park or a nature reserve. The presence of a paved path suggests that this could be a recreational area where people come to walk, jog, or hike. The exact location cannot be determined from the image alone without more specific landmarks or context.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5266802781",
+    "Q7-gen": "This photo is taken in an urban environment, likely a city center or downtown area. The presence of tall buildings, street signs, and a crowd of people suggests it could be a busy area, possibly near a popular attraction or during a public event. The architecture and style of the buildings hint at an older part of the city.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5086239896",
+    "Q7-gen": "Subway station",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2748295493",
+    "Q7-gen": "Prague",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2070098562",
+    "Q7-gen": "The photo appears to be taken in front of an ornate historical building that resembles a museum or a palace. However, without more context or recognizable landmarks, it is difficult to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "315960562",
+    "Q7-gen": "The exact location cannot be determined from the image alone as it could be any urban area with similar features. However, the presence of French military personnel suggests it could be in France or an area where French forces are stationed. The architectural style visible in the background may provide further clues if identifiable, but without more specific landmarks, a precise location cannot be accurately identified.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "13744066983",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2315275238",
+    "Q7-gen": "It appears to be taken in an urban area, likely near a shopping district or commercial center.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5893139952",
+    "Q7-gen": "The photo appears to have been taken outdoors, possibly in a park or public area, as there is grass and a tree visible, and people are gathered in the background. The style of clothing and the presence of a tree with a brown trunk suggest a warm climate or season. However, without more specific details, it is difficult to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5566412490",
+    "Q7-gen": "Egypt",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8216324990",
+    "Q7-gen": "Coastal.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "393048108",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "358786282",
+    "Q7-gen": "India",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4337867861",
+    "Q7-gen": "This photo was taken in a city in the Southern Hemisphere.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4355057737",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "496664918",
+    "Q7-gen": "The photo appears to be taken in an urban park setting with greenery around, such as ivy-covered walls or fences. The presence of these elements suggests it could be located within a city where parks or public spaces have been designed for relaxation and social interaction amidst natural surroundings. However, without more specific landmarks or identifiable features, pinpointing the exact location would require additional information beyond what's visible in the photograph.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2500179023",
+    "Q7-gen": "Based on the visible details in the image, it's not possible to provide an exact location. However, the presence of the \"ASIANS.COM\" sign suggests that the photo might be taken in a place where this website is relevant, potentially an area with a significant Asian population or where the website has some local significance. Without additional context or identifiable landmarks, a precise location cannot be determined from the image alone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8709361761",
+    "Q7-gen": "It's difficult to say where this photo is taken.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3957939154",
+    "Q7-gen": "Victoria, British Columbia, Canada.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2250587484",
+    "Q7-gen": "This photo was taken in front of a modern building.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "74619051",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "13068369505",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3858951022",
+    "Q7-gen": "This photo appears to be taken at Disneyland Resort in Anaheim, California.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "488069576",
+    "Q7-gen": "The photo appears to be taken in a restaurant.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5895055568",
+    "Q7-gen": "Morocco.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "961578",
+    "Q7-gen": "Seoul",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3589957410",
+    "Q7-gen": "City street",
+    "Q7-label": "C"
+  },
+  {
+    "id": "9386702982",
+    "Q7-gen": "Outdoor.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "516142073",
+    "Q7-gen": "The photo is taken outside in a backyard or garden area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3571186935",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5582128470",
+    "Q7-gen": "Outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7769217272",
+    "Q7-gen": "This photo is taken at Navagio Beach in Zakynthos, Greece.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "5597507214",
+    "Q7-gen": "This photo appears to be taken in a schoolyard.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4529830482",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "462744220",
+    "Q7-gen": "The photo appears to have been taken in a residential area, possibly in a suburban neighborhood. The presence of houses and a well-maintained lawn in the background suggests that this could be a private residence or a community with similar housing. The clear sky and the shadows cast on the ground indicate that the photo was taken during the daytime, likely on a sunny day. Without more specific landmarks or context, it's challenging to determine the exact location, but it is clearly an outdoor setting in a developed area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7932100896",
+    "Q7-gen": "This photo was taken in a European city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3286282738",
+    "Q7-gen": "New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3983138332",
+    "Q7-gen": "The exact location cannot be determined from the image alone as it shows a generic mountainous landscape that could be found in various parts of the world. However, given the rugged terrain, the person's attire suggesting cold weather, and the lack of any distinct landmarks, it could be inferred that this photo might have been taken in a region known for its mountains and cool climate, such as parts of Europe (e.g., the Scottish Highlands), North America (e.g., the Rocky Mountains), or other similar locations.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4482942666",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5729010784",
+    "Q7-gen": "This photo is taken indoors in a building with a rustic wooden ceiling and walls painted in yellow and blue. The setting appears to be a casual, possibly artistic or cultural space, as suggested by the decor and the sign in the background that seems to be written in a non-Latin script.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5215079599",
+    "Q7-gen": "This photo was taken in London, United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "135431519",
+    "Q7-gen": "bus",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4643100483",
+    "Q7-gen": "This photo appears to have been taken in an urban setting, possibly in a city with a mix of residential and commercial areas. The presence of outdoor dining suggests it could be a popular area for socializing or a tourist spot. Without specific landmarks or signage, it's challenging to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5388832971",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6289798732",
+    "Q7-gen": "The photo is taken outside of a cathedral.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "11849940053",
+    "Q7-gen": "The image appears to have been taken on a boat or ferry, with passengers looking towards a structure that resembles the USS Arizona Memorial at Pearl Harbor in Hawaii.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3775644661",
+    "Q7-gen": "This photo was taken at the National Archives.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "4292560756",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6079341887",
+    "Q7-gen": "Paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "981399894",
+    "Q7-gen": "Germany",
+    "Q7-label": "B"
+  },
+  {
+    "id": "813024888",
+    "Q7-gen": "This photo was taken in the United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3635455945",
+    "Q7-gen": "This photo was taken at a tourist attraction in the Azores islands in Portugal.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7983873033",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5123939078",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3085433029",
+    "Q7-gen": "New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8113631875",
+    "Q7-gen": "The photo was taken at Nathan Phillips Square in Toronto, Canada.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "2736717795",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2711336662",
+    "Q7-gen": "Laos",
+    "Q7-label": "B"
+  },
+  {
+    "id": "540323791",
+    "Q7-gen": "This photo is likely taken in a city with a canal.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "38445624",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "443965069",
+    "Q7-gen": "The photo is taken at the Palais des Congr\u00e8s in Paris, France.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "4975167154",
+    "Q7-gen": "Answer: The woman appears to be standing in an open area with a paved surface, surrounded by greenery and mountains in the background. Based on the visual cues, it is likely that this photo was taken in a rural or semi-rural area with natural landscapes. However, without more specific landmarks or information, it is not possible to determine the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8145531692",
+    "Q7-gen": "The photo appears to be taken in an urban area in a country with a military tradition. The presence of soldiers in camouflage uniforms and the formal nature of the event suggest it could be a military ceremony or commemoration. Without more specific landmarks or context, it's difficult to determine the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5715945088",
+    "Q7-gen": "This photo was taken at a university campus.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6000131573",
+    "Q7-gen": "South Korea.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5714525081",
+    "Q7-gen": "This photo was taken at a high school in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6370339539",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4874241461",
+    "Q7-gen": "The photo appears to be taken at a harbor or a similar waterfront location. The presence of the pier, the fishing rod, and the person engaged in fishing suggest that this is a recreational or commercial fishing area. The style of the pier and the surrounding environment could indicate a coastal city or town, but without more specific landmarks or context, it's not possible to pinpoint an exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5762003247",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2130140723",
+    "Q7-gen": "This photo is taken in the United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5631657949",
+    "Q7-gen": "Answer: This photo was taken in Paris, France. The photo shows two young girls standing by a bridge with the Seine River in the background, a common feature in Paris. The architecture of the bridge, with its ornate balustrades, is also indicative of Parisian design.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4970563926",
+    "Q7-gen": "Canada",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5708965627",
+    "Q7-gen": "This photo was taken outside of a museum.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "12397400183",
+    "Q7-gen": "This photo was taken at a cave.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1577153572",
+    "Q7-gen": "Africa",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5131494815",
+    "Q7-gen": "Taiwan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1558451712",
+    "Q7-gen": "Italy.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "473745962",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2175437481",
+    "Q7-gen": "The photo appears to have been taken in an urban area with European-style architecture, indicated by the building facades and street design. The presence of a \"Caf\u00e9\" sign suggests it could be in a city where Dutch is spoken, potentially in the Netherlands. However, without more specific landmarks or signage, it's difficult to determine the exact location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9298901388",
+    "Q7-gen": "Answer: Chicago.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "331928050",
+    "Q7-gen": "It appears to be taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3912224006",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5023753064",
+    "Q7-gen": "This photo was taken outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8274450831",
+    "Q7-gen": "Thailand",
+    "Q7-label": "B"
+  },
+  {
+    "id": "305410325",
+    "Q7-gen": "This photo is taken at a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "599683583",
+    "Q7-gen": "South Korea",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8677800509",
+    "Q7-gen": "I'm sorry, but I cannot provide the exact location of the photo based on the content of the image. However, I can provide information about the style of the pavement, which appears to be a type of mosaic commonly found in European cities. Without more context or specific landmarks, it is difficult to determine the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4505050148",
+    "Q7-gen": "India",
+    "Q7-label": "B"
+  },
+  {
+    "id": "335152854",
+    "Q7-gen": "London",
+    "Q7-label": "B"
+  },
+  {
+    "id": "756822938",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3230639432",
+    "Q7-gen": "Chile",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3479118124",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "12843569933",
+    "Q7-gen": "Petra",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3376246863",
+    "Q7-gen": "This photo is taken in New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3844296196",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8342856741",
+    "Q7-gen": "New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8091675417",
+    "Q7-gen": "Turkey",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1767596",
+    "Q7-gen": "Subway station",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2607567109",
+    "Q7-gen": "subway station",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6994080662",
+    "Q7-gen": "The photo is taken in Mexico City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5587112823",
+    "Q7-gen": "The image appears to have been taken in a coastal area with a clear blue sky, as indicated by the ocean in the background and the overall sunny weather. The presence of the palm tree-like sculpture and the architectural style of the surrounding structures might suggest a location that has a Mediterranean or coastal European influence. However, without more specific landmarks or signs, it is challenging to determine the exact location. It could be a public space in a coastal city or town, possibly in a place known for its maritime culture or historical significance. The image does not provide enough information to accurately pinpoint the location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "278059049",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "363725341",
+    "Q7-gen": "This photo is taken at the Seattle Public Library.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "5489180452",
+    "Q7-gen": "Nepal.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4517989195",
+    "Q7-gen": "United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3754966295",
+    "Q7-gen": "Austria",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3987214294",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3547600020",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "187055962",
+    "Q7-gen": "This photo is taken at an outdoor market or fair.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4361294505",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8433157863",
+    "Q7-gen": "The cathedral in the background is the Strasbourg Cathedral, which is located in Strasbourg, France. The surrounding buildings and the Christmas market also suggest that this photo is taken in Strasbourg.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6315406388",
+    "Q7-gen": "This photo was likely taken in the interior of a museum or a historical building.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8368649762",
+    "Q7-gen": "The photo was taken in a European city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4359210139",
+    "Q7-gen": "It appears to be taken in a city with canals, possibly Amsterdam, given the style of the buildings and the presence of snow, indicating a colder climate.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5283480635",
+    "Q7-gen": "The photo appears to be taken in an urban area in Southeast Asia, possibly Indonesia or Malaysia, based on the architecture, the horse-drawn carriage known as a \"becak,\" and the style of the vehicles and clothing of the people.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8088455994",
+    "Q7-gen": "This photo is taken in Copenhagen, Denmark.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1245625542",
+    "Q7-gen": "The exact location of the photo cannot be determined from the image alone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4783680270",
+    "Q7-gen": "Chinatown",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5947183906",
+    "Q7-gen": "This photo is taken at a beach.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5663282773",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "385824563",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6572793435",
+    "Q7-gen": "The photo appears to be taken at a mountainous area, possibly a hiking trail or a nature reserve. The presence of rocky terrain, dense vegetation, and a river suggests that it could be a popular hiking spot or a natural landmark known for its scenic views.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6053374791",
+    "Q7-gen": "This photo is likely taken at a coastal area, as evidenced by the rocky shoreline and ocean waves. The exact location cannot be determined from the image alone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8687877684",
+    "Q7-gen": "This photo was taken in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "660480405",
+    "Q7-gen": "The photo is taken on a boat on the sea.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "155518243",
+    "Q7-gen": "This photo is taken at King's Cross railway station in London, UK.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "2070582968",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "446961808",
+    "Q7-gen": "This photo is taken in Cusco, Peru.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3961389851",
+    "Q7-gen": "Golden Gate Bridge",
+    "Q7-label": "C"
+  },
+  {
+    "id": "42635004",
+    "Q7-gen": "Answer: This photo was taken in a busy urban area with Asian characters on the signs, which could indicate it is in a city in Japan, China, or another country in Asia.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7626042572",
+    "Q7-gen": "This photo is likely taken at a location that hosts a color run event, which are typically held in parks or large open spaces.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "307166108",
+    "Q7-gen": "This photo appears to have been taken outside a high-rise apartment complex or residential building.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8169539155",
+    "Q7-gen": "The photo appears to be taken at a formal event in Vietnam, as indicated by the Vietnamese flag and the traditional uniforms of the guards.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1209963633",
+    "Q7-gen": "This photo was taken inside of an airport.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6409567065",
+    "Q7-gen": "Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7987594144",
+    "Q7-gen": "Israel",
+    "Q7-label": "B"
+  },
+  {
+    "id": "249037451",
+    "Q7-gen": "Europe",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5238322730",
+    "Q7-gen": "Answer: This photo appears to be taken in a rural area, possibly in a region with a dry climate, such as parts of the Middle East or Central Asia. The presence of a large construction vehicle suggests that this could be a location where construction or roadwork is taking place. The attire of the individuals, including the traditional headscarf and robe, may also provide clues about the cultural or geographic context. However, without more specific details, it is difficult to pinpoint an exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3493111863",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "415573385",
+    "Q7-gen": "Ghana",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5645686547",
+    "Q7-gen": "It's hard to tell exactly where this photo was taken based solely on the image.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "523765977",
+    "Q7-gen": "The photo appears to be taken outdoors in an urban area with modern architecture, featuring a colorful bicycle sculpture as the main subject. The presence of outdoor seating suggests it could be near a caf\u00e9 or restaurant. Without more specific landmarks or identifiable features, it's challenging to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4243008363",
+    "Q7-gen": "This photo was taken at a mountainous region.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4642199948",
+    "Q7-gen": "This photo was taken at a train station in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2289871510",
+    "Q7-gen": "This photo was taken in Venice, Italy.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6910641820",
+    "Q7-gen": "This photo appears to be taken in a park or garden setting, likely in a temperate climate given the lush greenery and the type of trees present. The path and the manicured hedges suggest that it could be a formal garden or a landscaped public park. Without any distinctive landmarks or signs, it is not possible to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3377833393",
+    "Q7-gen": "It appears to be taken at a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4752588360",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "109683748",
+    "Q7-gen": "Art museum.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3807425944",
+    "Q7-gen": "The photo appears to be taken in an urban setting with a modern building that has an orange facade. There are people walking by, and the presence of a tree and a streetlamp suggest it's a street or sidewalk area. The architecture and style of the building, along with the people's attire, may provide some clues about the location, but without more specific indicators, it's challenging to determine the exact city or country.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3294449028",
+    "Q7-gen": "This photo appears to have been taken at a university campus, possibly within the United Kingdom. The architecture and the presence of students suggest it is a part of a historic university, such as the University of Cambridge or Oxford. The specific building could be a notable landmark within the campus, such as a library or a central administrative building.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "533020364",
+    "Q7-gen": "This photo was taken in a mountainous region.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6909226296",
+    "Q7-gen": "Austria.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7650921778",
+    "Q7-gen": "This photo is taken in London.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4012202629",
+    "Q7-gen": "This photo was taken at the Bethesda Fountain in Central Park, New York City.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3586973512",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3947950733",
+    "Q7-gen": "Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2598854747",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5176340645",
+    "Q7-gen": "This photo was taken in an art gallery.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4528710697",
+    "Q7-gen": "Answer: England.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2157868066",
+    "Q7-gen": "Thailand.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "525182652",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2470840837",
+    "Q7-gen": "Russia",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6929937162",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2427449285",
+    "Q7-gen": "This photo is taken in a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4039314912",
+    "Q7-gen": "The photo is taken in Japan. This is indicated by the Japanese writing on the signs and banners in the image, as well as the style of the street and the surrounding buildings. The narrow street with a high density of electric wires and the presence of traditional Japanese signage are also characteristic of certain areas in Japan, such as Tokyo's Asakusa district. The dense crowd and the overall busy atmosphere are typical of urban areas in Japan, particularly during daytime hours.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8307297352",
+    "Q7-gen": "Bhutan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8018607438",
+    "Q7-gen": "San Francisco.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5612506837",
+    "Q7-gen": "The photo appears to be taken in an urban area, likely in a city with European architecture, given the style of the buildings and the street layout. The presence of French text on the posters suggests it could be a city in France. Without more specific landmarks, it's difficult to pinpoint the exact location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "17850307",
+    "Q7-gen": "The photo appears to be taken at an outdoor pub or restaurant with a garden setting.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5991708253",
+    "Q7-gen": "This photo was taken in a library.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8996526755",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5195037687",
+    "Q7-gen": "Spain.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2691494271",
+    "Q7-gen": "This photo was taken in Sydney, Australia.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7658341676",
+    "Q7-gen": "United States of America",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4385649362",
+    "Q7-gen": "Paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5773277714",
+    "Q7-gen": "Spain.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5751275502",
+    "Q7-gen": "This photo was taken at a graduation ceremony.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6143541209",
+    "Q7-gen": "This photo was taken at a music festival.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6863126221",
+    "Q7-gen": "This photo is taken near a body of water, possibly a lake or river, with a person wearing a scuba diving tank walking towards a building with a red exterior. The setting appears to be in a rural or semi-rural area with trees and open land in the background. The exact location cannot be determined from the image alone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "223628221",
+    "Q7-gen": "London",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2909469426",
+    "Q7-gen": "airport",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5966289914",
+    "Q7-gen": "The photo appears to be taken in an urban area, possibly during a street performance or public event, given the presence of a crowd and a performer on stage.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2321152144",
+    "Q7-gen": "Moscow.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1008954785",
+    "Q7-gen": "The photo appears to be taken outdoors, likely at a social event or gathering, given the presence of an umbrella table, beverages, and the casual attire of the individuals. The exact location cannot be determined from the image alone, as there are no distinctive landmarks or signs that could provide a precise geographic location. However, the environment suggests it could be a patio or an outdoor area of a venue in a temperate climate, possibly in a suburban or rural setting.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3598407378",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "429919014",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2239196368",
+    "Q7-gen": "Paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5998016760",
+    "Q7-gen": "Answer: This photo is taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "453121987",
+    "Q7-gen": "The photo appears to be taken in an outdoor public space, possibly a park or a plaza, given the presence of grass, trees, and open seating arrangements. The exact location cannot be determined without more specific landmarks or context.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3661890465",
+    "Q7-gen": "Airport.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1811364513",
+    "Q7-gen": "It appears that the photo was taken near a coastal area where boats can be seen in the background. The presence of palm trees suggests it could be somewhere tropical or subtropical. However, without more specific landmarks or information about local features, it's difficult to determine an exact location from the image alone. It might have been captured during leisure activities such as boating or beachside commerce.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2964967589",
+    "Q7-gen": "The ocean.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6077184265",
+    "Q7-gen": "This photo is taken at an outdoor cafe.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4003376180",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11439370863",
+    "Q7-gen": "This photo was taken in a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5893302821",
+    "Q7-gen": "Beach",
+    "Q7-label": "D"
+  },
+  {
+    "id": "491503710",
+    "Q7-gen": "This photo was taken in front of a building with a clock on it in a city square.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1344592336",
+    "Q7-gen": "Las Vegas",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6326003739",
+    "Q7-gen": "The photo appears to be taken in front of Independence Hall in Philadelphia, Pennsylvania, USA. This is suggested by the architectural style of the building and the presence of the American flag on the right side of the image. Independence Hall is a historic building that played a crucial role in American history, particularly as the site of the signing of the Declaration of Independence and the United States Constitution.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "170164345",
+    "Q7-gen": "It is taken at a beach.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4353928082",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "260406622",
+    "Q7-gen": "The photo is taken in Paris.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6777722742",
+    "Q7-gen": "The photo was taken in New Orleans.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "219574771",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8337195900",
+    "Q7-gen": "This photo was taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "420008280",
+    "Q7-gen": "This photo is taken in an urban area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5305711173",
+    "Q7-gen": "Answer: Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2175256050",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4916980076",
+    "Q7-gen": "USA.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "257602406",
+    "Q7-gen": "Harvard University, Cambridge, Massachusetts, United States.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3093068542",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1300413535",
+    "Q7-gen": "At the Museum of Modern Art in New York City, United States.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3574848954",
+    "Q7-gen": "The image appears to have been taken in front of an ornate doorway with a Latin inscription, suggesting a historical or religious site. The architectural style, including the arches and the detailed metalwork on the door, is reminiscent of European architecture, particularly from the Renaissance or Baroque period. The person standing at the door is wearing a traditional or ceremonial outfit, which could indicate that this is a significant or formal location, such as a church, cathedral, or historical monument. Without more specific information or context, it is difficult to pinpoint the exact location, but it is likely in a country with a rich history of such architecture, such as Italy, France, or Spain.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4002056784",
+    "Q7-gen": "This photo appears to be taken on a boat on a body of water, possibly near a city or town with buildings and hills in the background. The exact location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3958848656",
+    "Q7-gen": "The exact location cannot be determined solely from the image. However, the scene appears to be in a rural or semi-rural area, possibly in a country with a warm climate, given the vegetation and the clear sky. The presence of people walking along the railway tracks suggests it could be a less developed or remote area where such paths might be common. The image does not provide enough specific landmarks or signs to accurately pinpoint the location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2355241044",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1271794604",
+    "Q7-gen": "The exact location cannot be determined from the image alone, as it does not provide specific identifiable landmarks or context. However, the scene appears to be taking place in an urban area with European-style architecture, possibly during a protest or public demonstration.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5079034447",
+    "Q7-gen": "This photo appears to have been taken in an area with colorful buildings and decorations, possibly during a festival or celebration. The specific location cannot be determined from the image alone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3461534897",
+    "Q7-gen": "India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5811815449",
+    "Q7-gen": "Thailand",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2065382466",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "85621794",
+    "Q7-gen": "This photo was taken at the Palace of Versailles in France.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "4568227448",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8048536337",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4354943348",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4687982688",
+    "Q7-gen": "The photo is taken in front of the Carcassonne Castle in France.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "5800888156",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4979845480",
+    "Q7-gen": "Cemetery.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1251260035",
+    "Q7-gen": "New Orleans",
+    "Q7-label": "B"
+  },
+  {
+    "id": "302749324",
+    "Q7-gen": "The image appears to have been taken outdoors in a wooded area with a view of a distant landscape, which suggests it could be a park, forest, or a natural reserve. The specific location cannot be determined without additional context or identifiable landmarks.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2171990758",
+    "Q7-gen": "Germany",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5697693368",
+    "Q7-gen": "Salisbury Cathedral",
+    "Q7-label": "C"
+  },
+  {
+    "id": "7099682207",
+    "Q7-gen": "This photo was taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1240813678",
+    "Q7-gen": "This photo appears to be taken in an urban public space, possibly a park or plaza.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "9575757089",
+    "Q7-gen": "This photo is taken in an urban area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "420254157",
+    "Q7-gen": "UK.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5712588682",
+    "Q7-gen": "Outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "158430972",
+    "Q7-gen": "Kenya.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4744212239",
+    "Q7-gen": "This photo appears to be taken outdoors in a hilly or mountainous area with dense vegetation.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2503528560",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2672387894",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "55529752",
+    "Q7-gen": "The photo appears to be taken in an urban area, likely a city, as indicated by the construction in the background and the style of buildings. The exact location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5698951295",
+    "Q7-gen": "This photo is taken in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "499799081",
+    "Q7-gen": "Jerusalem.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5259488883",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "379422633",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3652739314",
+    "Q7-gen": "Indonesia",
+    "Q7-label": "B"
+  },
+  {
+    "id": "458198167",
+    "Q7-gen": "This photo is taken in England.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2579012409",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "204340012",
+    "Q7-gen": "Vietnam",
+    "Q7-label": "B"
+  },
+  {
+    "id": "512044743",
+    "Q7-gen": "Rome",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2531243685",
+    "Q7-gen": "Egypt",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4489698334",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "389268988",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8163759207",
+    "Q7-gen": "The photo appears to be taken in an urban area, possibly a street or a square, where the woman is performing as a street musician. The exact location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5847214587",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1233932992",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11203834904",
+    "Q7-gen": "Netherlands",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3241776173",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5048850432",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "472611053",
+    "Q7-gen": "The photo is taken in a covered walkway or arcade, which could be part of a historic or public building. The architecture suggests it could be in a European city, possibly Italy, given the style of the columns and the design of the arcade.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4122609659",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8322547789",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9177350502",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "226095252",
+    "Q7-gen": "The photo appears to be taken at an outdoor motorsport event or rally race, likely in Europe based on the architecture visible in the background and the style of signage. However, without more specific landmarks or contextual clues, it's challenging to determine the exact location with certainty.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6059189191",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1392355371",
+    "Q7-gen": "The photo appears to be taken in the United States. The individuals are wearing clothing that is commonly associated with the country, and the background architecture is consistent with American urban settings. However, without more specific landmarks or context, it is difficult to pinpoint an exact location within the country.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "17193436",
+    "Q7-gen": "Netherlands",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8372905125",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5690580847",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "80222907",
+    "Q7-gen": "This photo was taken on a boat in a city.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6065413085",
+    "Q7-gen": "The photo appears to be taken at an outdoor event or gathering in an urban area with buildings and trees in the background. The presence of people dressed as zombies suggests it might be a themed event like a zombie walk or Halloween celebration. Without more specific landmarks or signs, it's difficult to pinpoint the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "41462457",
+    "Q7-gen": "Yemen.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5370915569",
+    "Q7-gen": "This photo was taken in a shopping mall.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1438146066",
+    "Q7-gen": "africa",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6998836480",
+    "Q7-gen": "Spain.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3225745656",
+    "Q7-gen": "China Town",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5941322069",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3870815742",
+    "Q7-gen": "This photo is taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4150565298",
+    "Q7-gen": "It's difficult to determine the exact location based on the image alone, as it shows a generic outdoor setting with a mossy rock wall and a metal railing, which could be found in many places around the world. The lush greenery suggests it could be in a temperate climate, but without more distinctive landmarks or signs, it's not possible to pinpoint the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4744139130",
+    "Q7-gen": "This photo was taken on a rooftop.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4644312469",
+    "Q7-gen": "It appears that the photo was taken in front of a Sainsbury's store in the UK, as indicated by the signage in the background.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "103950806",
+    "Q7-gen": "This photo was taken in Africa.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2901545630",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2605753541",
+    "Q7-gen": "The photo appears to be taken in Prague, Czech Republic, specifically on Charles Bridge. The detailed reliefs and the Gothic architecture are characteristic of this historic bridge in Prague. The inscription on the plaque, although not clearly legible in this image, often contains information about the bridge's history and is a common feature of such historical sites. Additionally, the presence of tourists taking photographs is typical of popular landmarks like Charles Bridge.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "197392620",
+    "Q7-gen": "This photo is taken outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5560285162",
+    "Q7-gen": "This photo is likely taken in a park or an urban green space in a city, as indicated by the presence of benches, a paved area, and surrounding buildings. The architectural style and the type of clothing worn by the individuals suggest it could be in a country with a temperate climate, possibly in East Asia.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6715838117",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1196505686",
+    "Q7-gen": "This photo was taken in a rural area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1846999484",
+    "Q7-gen": "Las Vegas",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5864476164",
+    "Q7-gen": "This photo appears to be taken outdoors, possibly in a garden or backyard area, as indicated by the presence of plants, flowers, and an outdoor wooden table. The setting suggests a private residence, given the personal nature of the space and the casual arrangement of the table and plants. The exact location cannot be determined without additional context.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2385616471",
+    "Q7-gen": "This photo appears to be taken at the entrance of a historic building, possibly a university or a park with gothic architecture, given the archway and the style of the stonework. The presence of a well-maintained lawn and a pathway suggests it's a public or semi-public space, likely in a temperate climate given the trees and the attire of the individuals walking away from the viewpoint. Without more specific details, it's difficult to pinpoint the exact location, but it could be in a region with a history of gothic architecture, such as parts of Europe or North America.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2969180787",
+    "Q7-gen": "This photo appears to be taken in a city environment, possibly in a residential or commercial area. The presence of multi-story buildings, parked cars, and a narrow street with double yellow lines suggests an urban setting. Without more specific landmarks or signs, it is difficult to determine the exact location. However, the architecture and street layout are consistent with many cities around the world.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6836811817",
+    "Q7-gen": "Portland, Oregon",
+    "Q7-label": "B"
+  },
+  {
+    "id": "10243975684",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2137593024",
+    "Q7-gen": "This photo is taken from inside a vehicle driving down a dirt road surrounded by greenery, suggesting it could be in a rural or forested area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "436259306",
+    "Q7-gen": "This photo is taken in China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5828793380",
+    "Q7-gen": "Hong Kong",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2594589119",
+    "Q7-gen": "Answer: This photo was taken in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4201943167",
+    "Q7-gen": "The exact location cannot be determined from the image alone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "1434317105",
+    "Q7-gen": "France",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1810577182",
+    "Q7-gen": "The photo appears to be taken from an elevated viewpoint overlooking a cityscape at sunset or sunrise. The specific location cannot be determined with certainty without more context or distinctive landmarks visible in the image. However, it could potentially be a popular lookout point or park within a major city where people gather to enjoy panoramic views.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6615891693",
+    "Q7-gen": "Beach.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3912934280",
+    "Q7-gen": "The photo appears to have been taken along the Seine River in Paris, France, judging by the architecture and the river's characteristics.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2599328666",
+    "Q7-gen": "It is taken in a park in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "118823655",
+    "Q7-gen": "This photo was taken in the Arctic region.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "174479269",
+    "Q7-gen": "The photo appears to be taken in a public urban area with a crowd of people, possibly during an event or gathering. The presence of a person in a Brazil-themed outfit suggests it could be related to a sports event, such as a soccer match or a national celebration. The exact location is not specified, but it could be in Brazil or a place with a significant Brazilian community.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8378196339",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4575317850",
+    "Q7-gen": "In front of a mall.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4377349075",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8276295639",
+    "Q7-gen": "The photo was taken outside of the Notre Dame Cathedral in Paris, France.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "22380690",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4255961181",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9454193377",
+    "Q7-gen": "This photo is taken in New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7302986",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4099301",
+    "Q7-gen": "The photo appears to have been taken in a European city, as indicated by the architecture and signage.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "206352618",
+    "Q7-gen": "Florence.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8872268291",
+    "Q7-gen": "This photo was taken outside of a house.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5192090589",
+    "Q7-gen": "Paris",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4758669116",
+    "Q7-gen": "London",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8375664191",
+    "Q7-gen": "The photo appears to be taken in Singapore.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5733304253",
+    "Q7-gen": "Sumatra",
+    "Q7-label": "A"
+  },
+  {
+    "id": "605835485",
+    "Q7-gen": "United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1475137162",
+    "Q7-gen": "Moscow, Russia",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2132999062",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4724098742",
+    "Q7-gen": "Camping site",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5717827654",
+    "Q7-gen": "This photo is taken in New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4510419700",
+    "Q7-gen": "India",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7472383116",
+    "Q7-gen": "This photo was taken in a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8288883301",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8382691094",
+    "Q7-gen": "This photo was taken in Germany.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1167228215",
+    "Q7-gen": "Answer: This photo appears to be taken in a rural area, possibly in a tropical or subtropical region due to the lush greenery and the style of the buildings. The presence of a dirt path and the simple construction of the houses suggest a developing country or a remote area. Without more specific details, it is challenging to pinpoint the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2374990681",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3953153269",
+    "Q7-gen": "This photo was taken in downtown San Francisco.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8479890232",
+    "Q7-gen": "The photo appears to be taken in a snowy, mountainous region.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2468442495",
+    "Q7-gen": "The photo appears to be taken at a location related to fashion, as indicated by the \"Fashion Show\" sign in the background. However, without additional context or identifiable landmarks, it is difficult to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6094347576",
+    "Q7-gen": "Ski resort in Austria.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6024161653",
+    "Q7-gen": "The photo was likely taken in a rural area, possibly in a mountainous region. The exact location cannot be determined based on the given image.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "1000272912",
+    "Q7-gen": "Myanmar.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "129409937",
+    "Q7-gen": "This photo was taken at a church.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6034768409",
+    "Q7-gen": "Spain.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1941332497",
+    "Q7-gen": "The photo is taken at a rocky beach, likely in a coastal region known for such landscapes.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3289607460",
+    "Q7-gen": "Mexico",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5285429923",
+    "Q7-gen": "The photo was taken in Washington DC.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "498279356",
+    "Q7-gen": "The photo appears to be taken in front of a grand, historic building, likely a cathedral or a similar type of architecture commonly found in European cities.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3140904692",
+    "Q7-gen": "This photo was likely taken in China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5679417054",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2849499767",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "226906095",
+    "Q7-gen": "The photo appears to be taken on a hiking trail in a forested area with dense vegetation and a misty atmosphere, suggesting it could be in a mountainous or tropical region. However, without more specific details, it's difficult to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "13844102363",
+    "Q7-gen": "This photo was taken in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2977977824",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "261440847",
+    "Q7-gen": "It looks like a city street in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8168556778",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7285417644",
+    "Q7-gen": "In a field.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4676317751",
+    "Q7-gen": "The photo is taken at Senso-ji Temple, Asakusa, Tokyo, Japan.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3106027784",
+    "Q7-gen": "Seattle, WA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8633024710",
+    "Q7-gen": "Spain",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6891213613",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6481136",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4530919810",
+    "Q7-gen": "prague",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5744060099",
+    "Q7-gen": "The photo was taken in France.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2433180795",
+    "Q7-gen": "This photo was taken in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "12577956",
+    "Q7-gen": "Sana'a, Yemen.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7617728272",
+    "Q7-gen": "This photo was taken outside a church in Taos, New Mexico.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "7005467",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8051856013",
+    "Q7-gen": "This photo was likely taken near a river in a rural or semi-rural area where such activities are common.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3556617055",
+    "Q7-gen": "This photo was taken in a field.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2957278000",
+    "Q7-gen": "This photo was taken at the National Gallery of Art in Washington, D.C.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "8239118773",
+    "Q7-gen": "Athens",
+    "Q7-label": "B"
+  },
+  {
+    "id": "192529250",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8693678509",
+    "Q7-gen": "Outside.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5228831859",
+    "Q7-gen": "This photo was taken in Indonesia.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1215796721",
+    "Q7-gen": "India",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4349295488",
+    "Q7-gen": "The street sign in the image indicates that this photo was taken at \"No 2\", but without additional context or information about the location of \"No 2\", it is not possible for me to provide a more specific location based on this image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2189939913",
+    "Q7-gen": "This photo was taken outside of a church.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5219647169",
+    "Q7-gen": "The photo is taken in front of the Harvey Hotel, as indicated by the sign on the building in the background.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "2070265595",
+    "Q7-gen": "Florence.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6712851197",
+    "Q7-gen": "This photo was likely taken at a lakeside or riverside location, possibly in a park or recreational area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4185259785",
+    "Q7-gen": "The photo is taken inside a building.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "105942064",
+    "Q7-gen": "This photo was taken in a field of yellow flowers.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8166649709",
+    "Q7-gen": "Bamboo forest.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "302672142",
+    "Q7-gen": "In a car.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "9359590787",
+    "Q7-gen": "This photo is taken in Tokyo.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5723655581",
+    "Q7-gen": "This photo appears to be taken in the backyard of a residential home.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6927341170",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6878113889",
+    "Q7-gen": "This photo was taken in Washington DC.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4282352331",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2237035861",
+    "Q7-gen": "The photo appears to have been taken in a mountainous region, possibly during a sunset or sunrise due to the warm lighting and long shadows. The exact location cannot be determined without more specific landmarks or context.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4946106852",
+    "Q7-gen": "This photo was taken at a church.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8851860446",
+    "Q7-gen": "Denmark",
+    "Q7-label": "B"
+  },
+  {
+    "id": "424866063",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3294321018",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5627647766",
+    "Q7-gen": "Spain",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8421263721",
+    "Q7-gen": "Santiago de Chile.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8552892174",
+    "Q7-gen": "Germany",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5024625368",
+    "Q7-gen": "This photo was likely taken in Africa.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "9784827336",
+    "Q7-gen": "Ireland.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9866606856",
+    "Q7-gen": "Based on the image, it appears to be taken in an outdoor public area, possibly a park or a campus, with trees and a paved walkway. The presence of multiple people suggests it could be a social or educational setting. However, without more specific landmarks or context, it's challenging to pinpoint an exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8467947807",
+    "Q7-gen": "This photo was taken outside the White House in Washington, D.C.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "2020160682",
+    "Q7-gen": "The photo appears to have been taken in an outdoor public area, likely a street or plaza, in an urban setting. The presence of a street performer playing a piano, the style of the buildings, and the type of pavement suggest it could be in a European city. However, without more specific landmarks or signs, it's not possible to determine the exact location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2581830191",
+    "Q7-gen": "The photo appears to be taken at the entrance of a modern building.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2889972566",
+    "Q7-gen": "Egypt.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "387054458",
+    "Q7-gen": "Netherlands.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "943388983",
+    "Q7-gen": "Peru",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7067550675",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6265502591",
+    "Q7-gen": "Middle East",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4584081979",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "259397758",
+    "Q7-gen": "The photo appears to be taken in a desert-like environment, possibly a national park or a natural reserve. The presence of Joshua trees suggests it could be in a location like Joshua Tree National Park in California, USA.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "4859115071",
+    "Q7-gen": "San Francisco",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6195994913",
+    "Q7-gen": "This photo is taken in Angel Place, Sydney, Australia.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "3664676986",
+    "Q7-gen": "Russia",
+    "Q7-label": "B"
+  },
+  {
+    "id": "95184675",
+    "Q7-gen": "Based on the visible details in the image, it appears to be taken in an urban area, likely in front of a commercial building. However, the specific location cannot be determined with certainty without additional context or recognizable landmarks.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4071629009",
+    "Q7-gen": "Answer: The photo appears to be taken in Paris, France. This can be inferred from the architecture of the buildings in the background, which is characteristic of Parisian streets. Additionally, the language on the signs and the style of the buildings suggest a European location, and the specific style of the buildings and signage is consistent with Paris. The street signs and the style of the buildings are typical of Parisian streets, and the presence of French language on the signs further supports this conclusion. Therefore, it is reasonable to conclude that the photo was taken in Paris, France.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2270685058",
+    "Q7-gen": "Hong Kong",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2206311719",
+    "Q7-gen": "This photo appears to be taken in a rural village, likely in a region where thatched-roof houses are common.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3005901150",
+    "Q7-gen": "Chicago, United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4955555972",
+    "Q7-gen": "Aquarium.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5225543448",
+    "Q7-gen": "This photo was taken inside the Toronto-Dominion Centre in Toronto, Ontario, Canada.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "2055542051",
+    "Q7-gen": "Mexico City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2285096134",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2401651576",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8546916044",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5986769383",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3631901823",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7846842152",
+    "Q7-gen": "This photo appears to have been taken at an indoor event such as a conference or seminar.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5868187063",
+    "Q7-gen": "This photo was taken at a wedding reception.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8032757574",
+    "Q7-gen": "This photo is likely taken in a location in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4167051309",
+    "Q7-gen": "I cannot determine the exact location based on the image alone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "148954498",
+    "Q7-gen": "Based on the context of the image, it appears to be taken in an urban area with modern buildings and a mix of pedestrians and vehicles. The presence of a car with a visible license plate suggests it could be in a country where cars are commonly driven. The image does not provide enough specific details to determine the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "755493174",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8833761260",
+    "Q7-gen": "This photo appears to have been taken outdoors in an urban setting, likely during a public event or gathering, as indicated by the presence of multiple people dressed in costumes.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8301591754",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "167259836",
+    "Q7-gen": "Bangladesh",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8542697905",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3285397592",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1668535556",
+    "Q7-gen": "In a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4689929266",
+    "Q7-gen": "China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3476969477",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4439967620",
+    "Q7-gen": "This photo was taken in China.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4688632758",
+    "Q7-gen": "This photo is taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3320208977",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "122559947",
+    "Q7-gen": "It appears that this photo was taken in a courtyard of a historical building, potentially in Europe given the architectural style.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2598061660",
+    "Q7-gen": "This photo appears to be taken in an urban street in the United Kingdom, likely in a city center, given the architecture, street layout, and the presence of various shops and pedestrians.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3469805597",
+    "Q7-gen": "Paris, France",
+    "Q7-label": "B"
+  },
+  {
+    "id": "192185330",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7027212521",
+    "Q7-gen": "The exact location of where this photo was taken cannot be determined from the provided description alone as it lacks specific landmarks or identifiable features that could pinpoint an exact geographical location. However, considering the presence of water bodies and what appears to be a coastal area in the background, one might speculate that the photograph could have been captured near a seashore or lakefront. To determine the precise location, additional contextual information such as distinctive local architecture, signage, or unique natural formations would be necessary for accurate geolocation. Without these details, any attempt at precise location identification would remain speculative rather than definitive.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "7652801324",
+    "Q7-gen": "This photo appears to be taken in a mountainous or hilly region, possibly in a national park or a protected natural area. The presence of large rock formations and the lush greenery suggest it could be in a temperate climate zone. The exact location cannot be determined from the image alone without additional context or identifiable landmarks.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "1033034698",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4924592256",
+    "Q7-gen": "This photo was taken outside a house in a rural area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3978538678",
+    "Q7-gen": "This photo was taken at the__New York Botanical Garden__.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "8127295530",
+    "Q7-gen": "This photo was taken in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3387069263",
+    "Q7-gen": "The photo is taken at Versailles.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "10024526336",
+    "Q7-gen": "This photo was likely taken in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3841185844",
+    "Q7-gen": "Train station.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1184148743",
+    "Q7-gen": "This photo was taken in Spain.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "98234144",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5082545350",
+    "Q7-gen": "The photo is taken in a museum.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6775157589",
+    "Q7-gen": "India",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5968199926",
+    "Q7-gen": "Outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5706920699",
+    "Q7-gen": "This photo is taken in a stone archway.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4589475147",
+    "Q7-gen": "Netherlands",
+    "Q7-label": "B"
+  },
+  {
+    "id": "439772496",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "329001094",
+    "Q7-gen": "This photo was taken outside of a museum.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5669428672",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2166577970",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3257494210",
+    "Q7-gen": "This photo is likely taken in a tropical forest or jungle, possibly a national park or nature reserve.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4937786528",
+    "Q7-gen": "South Africa",
+    "Q7-label": "B"
+  },
+  {
+    "id": "179329223",
+    "Q7-gen": "Answer: This photo was taken at a racetrack.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8137959873",
+    "Q7-gen": "This photo is taken at the Taj Mahal in Agra, India.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "4487890778",
+    "Q7-gen": "The photo is taken in a museum.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2307247471",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6779719291",
+    "Q7-gen": "In front of a Chinese restaurant.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6808657841",
+    "Q7-gen": "The photo appears to have been taken in a city that experiences cold winters, as indicated by the snow on the ground. The sign above the entrance reads \"Post\", which could suggest that the location is in a country where this word is used for a post office, such as in several European countries. However, without more specific landmarks or text, it's not possible to determine the exact city or country based solely on this image.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "10170629486",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1312551435",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5604409777",
+    "Q7-gen": "The photo is taken in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11953673806",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2121125262",
+    "Q7-gen": "London",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8172998383",
+    "Q7-gen": "This photo was taken at a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3934215542",
+    "Q7-gen": "Stockholm",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7293181602",
+    "Q7-gen": "San Francisco",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3567467199",
+    "Q7-gen": "San Francisco.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2058037066",
+    "Q7-gen": "This photo was taken at a swimming pool.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "172416130",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "199467330",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "732340852",
+    "Q7-gen": "This photo is taken on a boat.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "10014760015",
+    "Q7-gen": "This photo is taken in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4779409052",
+    "Q7-gen": "This photo was taken in Chicago, Illinois.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "527932030",
+    "Q7-gen": "This photo is taken outside in a public space.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6981141581",
+    "Q7-gen": "India",
+    "Q7-label": "B"
+  },
+  {
+    "id": "438024129",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5778843321",
+    "Q7-gen": "USA.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2942731057",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2658419148",
+    "Q7-gen": "This photo is taken in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4792454548",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "132859657",
+    "Q7-gen": "South Korea",
+    "Q7-label": "B"
+  },
+  {
+    "id": "14372010",
+    "Q7-gen": "Italy",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8508143330",
+    "Q7-gen": "Israel.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1471015976",
+    "Q7-gen": "The photo was taken in a European city, likely in an urban area where Starbucks has a presence.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6246974590",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2761693779",
+    "Q7-gen": "The bridge is located near the town of Preda in the region of Val di Sole in the Italian Alps.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2986463640",
+    "Q7-gen": "This photo was taken in London.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5829724933",
+    "Q7-gen": "Answer: This photo appears to be taken at an outdoor park or garden setting, possibly in China due to the architectural style of the buildings visible in the background. The presence of traditional Chinese architecture suggests it could be a historical site or cultural area within a city like Suzhou or Hangzhou. However, without more specific landmarks or context, pinpointing the exact location would require additional information.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2987352589",
+    "Q7-gen": "Graceland",
+    "Q7-label": "C"
+  },
+  {
+    "id": "2860527884",
+    "Q7-gen": "I'm sorry, but I cannot provide the exact location where this photo was taken.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8731213407",
+    "Q7-gen": "Forest.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2620626566",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "490261398",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "252360535",
+    "Q7-gen": "This photo was taken outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1242046453",
+    "Q7-gen": "The photo appears to be taken outdoors in a rural or semi-rural area with trees and a dirt path. The presence of a group of people, including children, sitting on the ground in the background suggests it might be a gathering or event in a community setting. Without more specific landmarks or context, it is difficult to determine the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2505675262",
+    "Q7-gen": "The photo appears to be taken inside a building with a view of an urban environment through large windows, which suggests it could be in a city.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5315725039",
+    "Q7-gen": "This photo appears to be taken in a mountainous or hilly area with rocky terrain and sparse vegetation. The presence of a partly cloudy sky suggests it could be in a region with variable weather conditions. The exact location cannot be determined from the image alone.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8289629203",
+    "Q7-gen": "airport",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3642836548",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4582366166",
+    "Q7-gen": "Answer: Brazil.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3102014201",
+    "Q7-gen": "The exact location cannot be determined from the image alone as it does not provide specific landmarks or identifying features. However, based on the beach setting and ocean view, it could be in any coastal area around the world. Without more context or identifiable markers, pinpointing an exact location would be speculative.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4056891461",
+    "Q7-gen": "This photo is taken on a virtual platform.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8132574923",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1496482671",
+    "Q7-gen": "<unk>",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7642125636",
+    "Q7-gen": "Egypt",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2125064519",
+    "Q7-gen": "This photo is taken in Oslo, Norway.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5597764918",
+    "Q7-gen": "A train station.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4014709929",
+    "Q7-gen": "The photo appears to be taken in a coastal city with a clear blue sky and calm waters. The buildings in the background have a distinct architectural style, suggesting it might be a city with a tropical or Mediterranean climate. However, without more specific landmarks or context, it's challenging to pinpoint the exact location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "10582054416",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5662697925",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7775156288",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5460986125",
+    "Q7-gen": "Berlin",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4087655917",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6329517843",
+    "Q7-gen": "Sahara Desert",
+    "Q7-label": "A"
+  },
+  {
+    "id": "10104595695",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5909213724",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2711089183",
+    "Q7-gen": "The photo appears to be taken in a park or playground area, likely in an urban or suburban setting, as indicated by the presence of playground equipment, a paved walkway, and a sign with text and illustrations. The exact location cannot be determined from the image alone, but it is a recreational area where people gather to play and relax.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "474519771",
+    "Q7-gen": "Africa",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3070385128",
+    "Q7-gen": "The photo appears to be taken in a European city, likely in a historic or tourist area.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6427844673",
+    "Q7-gen": "The photo was taken at a bar.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3671032513",
+    "Q7-gen": "This photo was taken at a Linux convention.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "11877360873",
+    "Q7-gen": "San Juan National Park.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "87112194",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3026108799",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "94108900",
+    "Q7-gen": "The photo appears to be taken outdoors in a public space, possibly a park or a plaza, given the presence of trees, a clear sky, and a paved area. The building in the background suggests it might be near a commercial or institutional establishment. However, without specific landmarks or identifiable features, it's difficult to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5223971117",
+    "Q7-gen": "UK.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1505238281",
+    "Q7-gen": "The photo was taken on a pedestrian bridge in a park or a recreational area with greenery. The exact location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "468992590",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "12581982644",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8384997424",
+    "Q7-gen": "San Francisco",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8392269501",
+    "Q7-gen": "This photo was taken in Cambridge, England.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9531770751",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2762175007",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2592621278",
+    "Q7-gen": "Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "64979761",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4666255819",
+    "Q7-gen": "This photo was taken near a bridge over a river or canal.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "605869798",
+    "Q7-gen": "The photo appears to have been taken outdoors at an event or ceremony, possibly related to graduation given the attire of some individuals in academic gowns with red stoles. The presence of greenery and clear skies suggests it could be during warmer weather. There's no definitive landmark visible that would allow for precise location identification without further context or information.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7545792642",
+    "Q7-gen": "This photo was likely taken in a city in Europe.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "324342504",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4428020686",
+    "Q7-gen": "London.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "391845821",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7994004605",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3276193120",
+    "Q7-gen": "The photo appears to be taken at a rocky coastline with a view of the sea and a distant shoreline with vegetation. The specific location cannot be determined from the image alone, as such coastal landscapes are common in many parts of the world.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2407377145",
+    "Q7-gen": "Ski resort.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3019462916",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "334737420",
+    "Q7-gen": "This photo was taken in the countryside.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "1113505731",
+    "Q7-gen": "It is likely that the photo was taken in a park or nature reserve with greenery around.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2909398461",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2895060837",
+    "Q7-gen": "The photo appears to be taken from a high vantage point in a city, likely from a skyscraper or observation deck. The exact location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "467879389",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2319106536",
+    "Q7-gen": "This photo is taken outdoors in a park-like setting.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3212599200",
+    "Q7-gen": "It's hard to tell exactly where this picture was taken, but the presence of a river and the architecture seen through the window suggest it could be in a European city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11178409936",
+    "Q7-gen": "Kyiv, Ukraine.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4751070645",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "10142038813",
+    "Q7-gen": "Spain",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8438934300",
+    "Q7-gen": "United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9766058031",
+    "Q7-gen": "India",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4777146193",
+    "Q7-gen": "This photo was taken in London, England.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5997985314",
+    "Q7-gen": "USA.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "87603870",
+    "Q7-gen": "Cape of Good Hope",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2527465034",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3980869829",
+    "Q7-gen": "It appears to have been taken in a freshwater wetland area, likely in a region that experiences seasonal changes, given the presence of both green and autumn-colored foliage in the background.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3618362155",
+    "Q7-gen": "This photo was taken in New York City, specifically in the Times Square area.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "391062927",
+    "Q7-gen": "Jerusalem.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1443659818",
+    "Q7-gen": "This photo is likely taken at an outdoor historical reenactment or a themed event.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3107309438",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7610267944",
+    "Q7-gen": "This photo appears to have been taken in a park near a lake, with a church in the background. The specific location cannot be determined without more information.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3743797747",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "409125877",
+    "Q7-gen": "It's a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7022969547",
+    "Q7-gen": "This photo was taken in a courtyard.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7329057288",
+    "Q7-gen": "The photo appears to be taken in an urban area with European-style architecture and infrastructure, likely in a country that has a well-developed cycling culture, such as the Netherlands or Denmark. The presence of bicycles and the design of the street suggest it could be a city known for its bike-friendly policies.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8672798282",
+    "Q7-gen": "The exact location cannot be determined with certainty based solely on the provided description; however, it appears to have been taken in an urban area within France, as indicated by the architectural style and street signs. The presence of French language on the signage supports this assumption. Without more specific landmarks or identifiable features, pinpointing the precise city or district remains challenging. Further contextual information would be necessary for a more accurate determination.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5386609351",
+    "Q7-gen": "This photo is taken in a forest.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "7459518468",
+    "Q7-gen": "Northern Ireland.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "179122666",
+    "Q7-gen": "The photo appears to have been taken at an outdoor location with historical architecture.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4827694508",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3712962511",
+    "Q7-gen": "The photo is taken outdoors, likely in a rural or semi-rural area with fields or farmland in the background. The person is wearing a hat and sunglasses, suggesting it might be sunny. There is no specific landmark visible that would allow for a precise location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "1224189426",
+    "Q7-gen": "Beach.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8594840798",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2685630694",
+    "Q7-gen": "This photo appears to be taken from the inside of a building, looking out through a doorway with decorative glass panels and a semi-circular window. The architecture of the doorway suggests that it might be a historic or significant building, possibly a museum or a government building. The outdoor area visible through the doorway features a well-maintained garden with manicured bushes and a central fountain or sculpture. The presence of people walking in the garden indicates that this is a public space that is open to visitors. The overall style and elements of the architecture and landscaping suggest that this could be a location in a city with historical significance or cultural landmarks. However, without more specific details or context, it is difficult to pinpoint the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2475752216",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8883889207",
+    "Q7-gen": "This photo is taken outside of a building called \"With Rooms.\"",
+    "Q7-label": "C"
+  },
+  {
+    "id": "316719912",
+    "Q7-gen": "Apple Store",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3444058884",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3286429823",
+    "Q7-gen": "This photo was taken in a forested area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6203900760",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3492534402",
+    "Q7-gen": "Germany",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3491269768",
+    "Q7-gen": "Thailand",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5551483681",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9520655398",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2831021181",
+    "Q7-gen": "This photo is taken outdoors in a natural setting, likely in a forest or a park with dense vegetation.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8123140597",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5265139620",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9637898655",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4325918356",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5251930764",
+    "Q7-gen": "It appears to be taken at Park Guell in Barcelona, Spain.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "5348195379",
+    "Q7-gen": "It is not possible to determine the exact location based solely on the image provided as it does not contain any distinctive landmarks or signs that can be used for accurate geolocation. However, given the presence of palm trees in the background, it could potentially suggest a region with a warm climate, such as parts of Southern Europe, California, Florida, or other similar areas where outdoor food vending carts are common during pleasant weather conditions. To provide a more precise location would require additional information or context beyond what is visible in the photograph.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5207961172",
+    "Q7-gen": "Beach in Mediterranean region.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6832234035",
+    "Q7-gen": "The photo is taken at a beach.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1495067921",
+    "Q7-gen": "Madagascar",
+    "Q7-label": "B"
+  },
+  {
+    "id": "539159134",
+    "Q7-gen": "Museum",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2833592610",
+    "Q7-gen": "This photo appears to be taken on a narrow street or alleyway in a town or city, possibly in a European country.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "305488237",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "207443884",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8243996012",
+    "Q7-gen": "This photo was taken in Africa.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5221253319",
+    "Q7-gen": "Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5333506277",
+    "Q7-gen": "This photo was taken in Africa.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8629822509",
+    "Q7-gen": "The exact location cannot be determined from the image alone without additional context or identifiable landmarks. However, based on the rocky terrain, climbing gear, and misty conditions, it could be inferred that this photo was taken in a mountainous region suitable for hiking or mountaineering.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8106061946",
+    "Q7-gen": "This photo is taken at a music festival.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "1910958552",
+    "Q7-gen": "The photo appears to have been taken in front of a large vertical striped installation, which could be part of an art exhibit or a public space with artistic elements. The exact location is not identifiable from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "559430619",
+    "Q7-gen": "New York City, USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4869837745",
+    "Q7-gen": "This photo was taken at the ruins of a Roman bath in the archaeological site of Neapolis in Sicily, Italy.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "11449752474",
+    "Q7-gen": "Armenia.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3672094201",
+    "Q7-gen": "The photo is taken in Vancouver.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2958213854",
+    "Q7-gen": "Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4939627873",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4077461130",
+    "Q7-gen": "Answer: This photo was taken at a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "561532373",
+    "Q7-gen": "This photo was taken inside a vehicle.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "182853909",
+    "Q7-gen": "Germany.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3009746148",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8565777867",
+    "Q7-gen": "The photo was taken in Venice.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4502180364",
+    "Q7-gen": "Melbourne",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1469215985",
+    "Q7-gen": "This photo was taken at the city market in London.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s99614963",
+    "Q7-gen": "This photo is taken in the city of Dublin, Ireland. The street performer is playing on Grafton Street, one of the busiest shopping streets in Europe. The presence of the \"Butlers Chocolate Cafe\" and the \"O2\" store are also indicative of this location.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "37835900",
+    "Q7-gen": "Airport.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s2392301913",
+    "Q7-gen": "Werdh\u00f6lzli.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3595533215",
+    "Q7-gen": "Dublin.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s2212420057",
+    "Q7-gen": "New York Comic Con.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "986595321",
+    "Q7-gen": "This photo appears to be taken in a backyard.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s274103396",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8443767742",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7649554980",
+    "Q7-gen": "Answer: This photo is taken in the United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1350523139",
+    "Q7-gen": "Spain",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2986268204",
+    "Q7-gen": "The photo appears to have been taken outside of a historical or cultural building, as suggested by the statues in the background. Without more specific details, it's difficult to pinpoint the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s109970657",
+    "Q7-gen": "This photo is taken in Key West.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7520070486",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1997018249",
+    "Q7-gen": "The photo is taken in Cooperstown, NY.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s134558465",
+    "Q7-gen": "This photo is taken at an outdoor cafe in an urban area with historic architecture, likely in a European city. The ornate stonework and arched doorways suggest a location with rich architectural heritage, possibly in Italy or another Mediterranean country. The exact location cannot be determined without more specific landmarks or context.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5796375126",
+    "Q7-gen": "This photo is taken at the Spanish Steps in Rome.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "120268767",
+    "Q7-gen": "The photo is taken in the UK.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s202283887",
+    "Q7-gen": "New York.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11167306953",
+    "Q7-gen": "World Aids Day event in New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "11268467633",
+    "Q7-gen": "Beach.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "6077664742",
+    "Q7-gen": "United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3907592545",
+    "Q7-gen": "This photo was taken at mt. fuji in japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4912280958",
+    "Q7-gen": "This photo is taken at Santa Monica Pier in Santa Monica, California.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "8788712104",
+    "Q7-gen": "Canada",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s411421981",
+    "Q7-gen": "Shibuya Crossing in Tokyo, Japan.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "s1247684770",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s515719687",
+    "Q7-gen": "This photo is likely taken in a city, possibly in the United States, based on the marathon race which is a popular event in many US cities.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s523201795",
+    "Q7-gen": "The photo appears to be taken on a city street, possibly in a commercial or shopping district. The presence of string lights, storefronts, and bicycles suggests an urban area that is pedestrian-friendly and has a vibrant nightlife. The architecture and street layout could provide more clues, but without specific landmarks or signage, it is difficult to pinpoint an exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5800801840",
+    "Q7-gen": "Answer: This photo is taken in the UK.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1366288136",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1620904735",
+    "Q7-gen": "The photo is taken in a market, possibly an indoor market.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s2275354297",
+    "Q7-gen": "This photo was taken in Basel, Switzerland.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s248174974",
+    "Q7-gen": "This photo is taken at a carnival.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s3674663",
+    "Q7-gen": "It appears to be a public park or outdoor venue hosting a large event.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s23700724",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s2162298511",
+    "Q7-gen": "This photo is taken in a large indoor market, possibly a food market.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s118749832",
+    "Q7-gen": "The photo is taken at a horse racing event, likely at a well-known racecourse such as Churchill Downs in Louisville, Kentucky, known for its prominent race events like the Kentucky Derby.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "s2164303169",
+    "Q7-gen": "The photo appears to be taken in a busy urban area with a mix of modern and older buildings, suggesting it could be in a major city. The presence of a large crowd, street vendors, and a mix of pedestrians and cyclists indicates a lively street scene, possibly in a commercial or downtown district. The architecture and the style of the street do not provide a clear indication of a specific country or city, but the overall atmosphere is characteristic of many large cities around the world. Without more specific landmarks or signs, it is difficult to pinpoint the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3145002891",
+    "Q7-gen": "This photo was taken in a tropical forest.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "s704665585",
+    "Q7-gen": "Los Angeles",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1482561002",
+    "Q7-gen": "New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4923401337",
+    "Q7-gen": "This photo was likely taken in a European country.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "5728633372",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2464360363",
+    "Q7-gen": "This photo was taken at the Urban Spree park in Berlin.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "s1151492183",
+    "Q7-gen": "Canada",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5784592826",
+    "Q7-gen": "This photo appears to be taken at a port or harbor, likely on a ship or dock, given the presence of individuals in naval uniforms and the maritime setting.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s311106650",
+    "Q7-gen": "This photo was likely taken at a tennis match or event, possibly at the US Open, given the tennis balls and the book about Rafael Nadal, a famous tennis player.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4678764272",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s391058833",
+    "Q7-gen": "Australia.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "s435513232",
+    "Q7-gen": "Warsaw, Poland.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1799722168",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2438845176",
+    "Q7-gen": "The photo is taken outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s1908915871",
+    "Q7-gen": "Guatemala.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8214858512",
+    "Q7-gen": "Answer: This photo is taken in a forest.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "2857483850",
+    "Q7-gen": "The photo appears to be taken at a river in Japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s491622043",
+    "Q7-gen": "University of Washington.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s2313146545",
+    "Q7-gen": "This photo is taken in Vienna.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "178088020",
+    "Q7-gen": "This photo was taken at a fairground.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s66072715",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4701454356",
+    "Q7-gen": "Park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5090461556",
+    "Q7-gen": "This photo was taken in London.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s138298187",
+    "Q7-gen": "This photo is likely taken in an urban area of Europe.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "s703281619",
+    "Q7-gen": "The photo is taken in a narrow, cobblestone street at night, likely in a European city. The presence of outdoor dining, narrow streets, and the style of the buildings suggest it could be a street in a city like Paris or a similar European locale. The signage and architecture give a strong indication of a European setting.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8262494770",
+    "Q7-gen": "Central park",
+    "Q7-label": "C"
+  },
+  {
+    "id": "7276909854",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1311110234",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1168369",
+    "Q7-gen": "Hawaii",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3824788008",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5315898997",
+    "Q7-gen": "The photo appears to be taken at an ancient brick structure with arches, possibly a historical site or an old building. The architecture suggests it could be located in a region with historical significance, such as the Middle East, North Africa, or Southern Europe. Without more specific details or landmarks, it's challenging to pinpoint the exact location.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "4450053996",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1161312523",
+    "Q7-gen": "This photo was taken in Munich, Germany, at the Eisbach river wave.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "8307183683",
+    "Q7-gen": "Indonesia",
+    "Q7-label": "B"
+  },
+  {
+    "id": "751895401",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8730523691",
+    "Q7-gen": "At a high school football field.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s79403914",
+    "Q7-gen": "This photo was taken in Camden Town.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s2160998447",
+    "Q7-gen": "Panama City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3187101394",
+    "Q7-gen": "Ephesus",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3625381914",
+    "Q7-gen": "This photo was likely taken at a protest or rally in a city center or urban park area. The presence of buildings and trees suggests it is an open public space within a city. The exact location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3891869469",
+    "Q7-gen": "The image appears to be taken on a city street, likely in an urban area with pedestrian traffic, given the presence of crosswalks and street signs. However, without distinctive landmarks or signs that clearly indicate a specific location, it is not possible to accurately determine the city or country based solely on this image.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s415659511",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7543089492",
+    "Q7-gen": "India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "222148332",
+    "Q7-gen": "This photo was taken at a church.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5326321288",
+    "Q7-gen": "Canada",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s308869064",
+    "Q7-gen": "This photo was taken in Boston.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s198333455",
+    "Q7-gen": "The Excel London.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "s2378186027",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1837873024",
+    "Q7-gen": "The photo appears to be taken on a busy shopping street in a European city, as indicated by the architecture, the presence of a \"Pandora\" store, and the style of the street signs. The specific location cannot be determined without more context.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "1775860430",
+    "Q7-gen": "Tokyo",
+    "Q7-label": "B"
+  },
+  {
+    "id": "106683910",
+    "Q7-gen": "Yosemite National Park",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s133676465",
+    "Q7-gen": "This photo is taken at a New England Patriots football game.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2630995805",
+    "Q7-gen": "Copenhagen.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7060537089",
+    "Q7-gen": "This photo is taken on a train.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4906193888",
+    "Q7-gen": "Gothic-style building in a park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s2160612375",
+    "Q7-gen": "This photo was taken in an Italian city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "s1447042130",
+    "Q7-gen": "This photo was taken in Lviv, Ukraine.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9331825096",
+    "Q7-gen": "Stanford University.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "5052866068",
+    "Q7-gen": "Pumpkin patch",
+    "Q7-label": "D"
+  },
+  {
+    "id": "s630524756",
+    "Q7-gen": "New York City, USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "701664977",
+    "Q7-gen": "The exact location cannot be determined from the image alone. However, it appears to be taken in a coastal area with a view of a town or city near the water. The vegetation and landscape suggest a temperate climate. The date stamp on the image indicates it was taken on July 2, 2007.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "108375795",
+    "Q7-gen": "School",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7712325794",
+    "Q7-gen": "This photo is taken near a canal in a city with lush greenery, possibly a European city known for its canals and cycling paths. The specific location cannot be determined without additional information.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2576116311",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "15396757",
+    "Q7-gen": "Zoo.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5561824770",
+    "Q7-gen": "Wales.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3467612505",
+    "Q7-gen": "India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5736508722",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4156242204",
+    "Q7-gen": "City Hall.",
+    "Q7-label": "C"
+  },
+  {
+    "id": "7391261220",
+    "Q7-gen": "This photo is likely taken on a porch or deck of a cabin or house in a rural or forested area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "97234203",
+    "Q7-gen": "The exact location cannot be determined from the given information in the image alone. However, it appears to be an urban area with people walking around and parked vehicles visible in the background. The presence of wooden furniture outside suggests that there might be a market or street vendor nearby. To pinpoint the specific city or country, additional context such as signage, landmarks, or cultural indicators would be necessary.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2439247248",
+    "Q7-gen": "China",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4800898",
+    "Q7-gen": "Outdoor.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8314526756",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "10177238854",
+    "Q7-gen": "conference room",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3066894737",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8681842738",
+    "Q7-gen": "The photo appears to be taken in a park or recreational area, possibly in a Middle Eastern or Mediterranean country, given the architecture and design elements in the background. The exact location cannot be determined without more information.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "7590140652",
+    "Q7-gen": "This photo is taken in a courtyard.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2605794078",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7179771831",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9131289770",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2965508783",
+    "Q7-gen": "This photo is taken in Cusco, Peru.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4096197838",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7083727967",
+    "Q7-gen": "Havana",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7009652587",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "96393465",
+    "Q7-gen": "London.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8572723158",
+    "Q7-gen": "The photo is taken in a historic city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7573995136",
+    "Q7-gen": "This photo is taken in an old building with a staircase. The building appears to be in a state of disrepair, with peeling paint and rust on the railings. The exact location is not identifiable from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6185914810",
+    "Q7-gen": "London",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6207721406",
+    "Q7-gen": "Asia.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "7487735678",
+    "Q7-gen": "This photo was taken outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "7696053062",
+    "Q7-gen": "Japan",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5925103165",
+    "Q7-gen": "This photo was taken in a city street.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4024990378",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2818005209",
+    "Q7-gen": "The Getty Center",
+    "Q7-label": "C"
+  },
+  {
+    "id": "135880415",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3081675111",
+    "Q7-gen": "The photo appears to be taken at an outdoor event or gathering in front of a banner with symbols that could be associated with Australia due to the presence of stars resembling the Southern Cross constellation. The exact location cannot be determined from the image alone without additional context or identifiable landmarks.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "434470717",
+    "Q7-gen": "This photo appears to be taken in New York City, as it shows a person standing in a building with a view of a courtyard surrounded by buildings and snow-covered trees. The architecture and urban landscape are characteristic of New York City.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9126278617",
+    "Q7-gen": "The photo appears to be taken at a car show or vintage car event. The presence of the vintage car, the tent, and the grassy area suggest an outdoor setting dedicated to displaying vehicles. However, without any distinctive landmarks or signage, it's not possible to determine the exact location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5203357138",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "417678120",
+    "Q7-gen": "UK",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4282790530",
+    "Q7-gen": "This photo was likely taken in a city in the United States, possibly in an urban area with historic architecture.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4591382473",
+    "Q7-gen": "This photo is taken in Chicago, Illinois.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "424195790",
+    "Q7-gen": "The photo appears to have been taken on the balcony of a Hilton hotel, which is evident from the Hilton logo visible in the background. However, without additional context or landmarks, it's not possible to determine the exact location of this particular hotel.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "9533274888",
+    "Q7-gen": "London",
+    "Q7-label": "B"
+  },
+  {
+    "id": "187770948",
+    "Q7-gen": "The photo appears to be taken outdoors in a garden or backyard setting, as evidenced by the presence of greenery, a trash bin, and a brick structure in the background. The natural lighting and casual attire of the subject suggest a relaxed, informal environment.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4088765415",
+    "Q7-gen": "The photo is taken at the entrance of a bus stop.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3586868061",
+    "Q7-gen": "The image appears to be taken outdoors in an urban area with modern buildings in the background. The exact location cannot be determined from the image alone.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "33048881",
+    "Q7-gen": "Paris.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2424962363",
+    "Q7-gen": "Based solely on the given image, it's challenging to determine the exact location with certainty due to the lack of distinctive landmarks or signs. However, the presence of a European-style house in the background, the style of the vehicles, and the license plate on the Audi suggest that this photo might have been taken in Europe. The license plate format and the design of the Audi also hint at a location in Germany. Without more specific details, it's not possible to provide a precise location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4866420892",
+    "Q7-gen": "The photo appears to have been taken outdoors in an area that resembles a cafe or restaurant's patio, as indicated by the presence of outdoor furniture and greenery surrounding the area. The specific location cannot be determined from the image alone without more context or identifiable landmarks.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8031615992",
+    "Q7-gen": "Backyard",
+    "Q7-label": "D"
+  },
+  {
+    "id": "62424418",
+    "Q7-gen": "Hawaii",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6874150535",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9638544720",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "449421558",
+    "Q7-gen": "Africa",
+    "Q7-label": "A"
+  },
+  {
+    "id": "1967887868",
+    "Q7-gen": "This photo was taken in a garden.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2239050",
+    "Q7-gen": "It looks like the photo was taken in a park or garden area.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6182871234",
+    "Q7-gen": "It is taken at a beach with a historic fort in the background, possibly a popular tourist destination.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4571896781",
+    "Q7-gen": "India.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8385400242",
+    "Q7-gen": "It is difficult to determine the exact location from the given information; however, it appears to be in a European country due to the license plate style.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "234340154",
+    "Q7-gen": "This photo was taken outside of a brick house.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6820713503",
+    "Q7-gen": "Answer: It's not possible to determine the exact location from the provided information as it could be any city where police officers work. The presence of uniformed personnel suggests an urban environment or public area but without more specific details like landmarks, signage, or distinctive architectural features, pinpointing an accurate location would require additional context which isn't available here.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "3820459259",
+    "Q7-gen": "The photo appears to be taken outside a restaurant or cafe in a European country, likely Germany, based on the ketchup bottle design and the architecture visible in the background. The cobblestone street and the style of the buildings further support this.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "443797756",
+    "Q7-gen": "This photo is taken in a city.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3362042288",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4384713696",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "416529375",
+    "Q7-gen": "Czech Republic",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4477529682",
+    "Q7-gen": "Seattle",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8596096619",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3274849583",
+    "Q7-gen": "Indonesia.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "196487837",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "130376932",
+    "Q7-gen": "This photo was taken outdoors.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "6096012842",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8436487419",
+    "Q7-gen": "United States",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3633832363",
+    "Q7-gen": "At a fair.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3779636024",
+    "Q7-gen": "USA",
+    "Q7-label": "B"
+  },
+  {
+    "id": "13961417365",
+    "Q7-gen": "USA.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "2363088817",
+    "Q7-gen": "This photo was taken in front of a residential door.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "3877237363",
+    "Q7-gen": "This photo was taken in the United Kingdom.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4219751838",
+    "Q7-gen": "The photo was taken at a Buddhist temple.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "8411714338",
+    "Q7-gen": "This photo is taken in the United States.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "7116772841",
+    "Q7-gen": "It is taken at a theme park.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "614327030",
+    "Q7-gen": "At home.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "2658810860",
+    "Q7-gen": "The photo was taken in japan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "6163452230",
+    "Q7-gen": "Bhutan.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8716368962",
+    "Q7-gen": "Paris.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "4190557835",
+    "Q7-gen": "Norway.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5496847361",
+    "Q7-gen": "Bahrain.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3543571759",
+    "Q7-gen": "This photo is taken outside City Hall.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "5406733363",
+    "Q7-gen": "This photo is taken in Italy.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "8538673150",
+    "Q7-gen": "Office",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4268908667",
+    "Q7-gen": "It's difficult to determine the exact location based on the image alone, but it appears to be a park or public area with a large antler archway, possibly in a Western or mountainous region.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "10597323243",
+    "Q7-gen": "It seems like this photo could be taken in a European town, possibly near a church or a religious building.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "8010095667",
+    "Q7-gen": "New York City",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5587417240",
+    "Q7-gen": "The photo appears to be taken at an outdoor dining area, likely at a restaurant or cafe, with a scenic view in the background. The architecture includes stone pillars and a wooden deck, suggesting a mountain or high-altitude location.",
+    "Q7-label": "D"
+  },
+  {
+    "id": "4711748355",
+    "Q7-gen": "This photo appears to have been taken on a street in a European city, likely in the UK, given the architecture and style of clothing.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "3600653700",
+    "Q7-gen": "USA.",
+    "Q7-label": "A"
+  },
+  {
+    "id": "461874321",
+    "Q7-gen": "United Kingdom",
+    "Q7-label": "B"
+  },
+  {
+    "id": "9137170773",
+    "Q7-gen": "The photo appears to have been taken at a car show or a similar event where classic cars are displayed. The exact location cannot be determined from the image alone, as there are no distinctive landmarks or signage that would indicate a specific place. However, the presence of multiple classic cars and the outdoor setting suggest it could be in a parking lot or an open area designated for such events.",
+    "Q7-label": "D"
+  }
+]
