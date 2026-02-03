@@ -17,18 +17,17 @@
 <img src="./doc_images/teaser.png" width="900" alt="Intro_img">
 </div>
 
-Vision-language models (VLMs) have recently demonstrated strong performance in image geolocation, identifying images' location to a precision that now surpasses specialized systems. This capability poses a serious privacy threat, as these widely accessible models may enable malicious actors to infer sensitive locations from photos casually shared online. While prior work has proposed applying a blanket restriction on geolocation disclosure to combat this risk, these measures fail to distinguish valid geolocation uses from malicious behavior. Instead, VLMs should maintain **contextual integrity** by reasoning about elements within an image to determine the appropriate extent of location information to disclose. To evaluate this ability, we introduce VLM-GeoPrivacy, a benchmark challenging VLMs to interpret latent social cues in real-world images and determine the appropriate level of location disclosure. Our evaluation of 14 leading VLMs shows that, despite their abilities to precisely geolocate images, models are poorly aligned with human privacy expectations. They often over-disclose in sensitive contexts and are vulnerable to prompt-based attacks. Our results call for new design principles in multimodal systems to incorporate context-conditioned privacy reasoning.
+Vision-language models (VLMs) have demonstrated strong performance in image geolocation, a capability further sharpened by frontier multimodal large reasoning models (MLRMs). This poses a significant privacy risk, as these widely accessible models can be exploited to infer sensitive locations from casually shared photos, often at street-level precision, potentially surpassing the level of detail the sharer consented or intended to disclose. While recent work has proposed applying a blanket restriction on geolocation disclosure to combat this risk, these measures fail to distinguish valid geolocation uses from malicious behavior. Instead, VLMs should maintain contextual integrity by reasoning about elements within an image to determine the appropriate level of information disclosure, balancing privacy and utility. To evaluate how well models respect contextual integrity, we introduce VLM-GeoPrivacy, a benchmark that challenges VLMs to interpret latent social norms and contextual cues in real-world images and determine the appropriate level of location disclosure. Our evaluation of 14 leading VLMs shows that, despite their ability to precisely geolocate images, the models are poorly aligned with human privacy expectations. They often over-disclose in sensitive contexts and are vulnerable to prompt-based attacks. Our results call for new design principles in
+multimodal systems to incorporate context-conditioned privacy reasoning.
 
 
 <h2 id="dataset">⚙️ Dataset</h2>
 
-Our dataset consists of 1,200 real-world
-images richly annotated with context, sharing intent, and expected granularity. You can view and download our [dataset](https://huggingface.co/datasets/RayY/VLM-GeoPrivacyBench) from Huggingface. You can also unzip the image folder [here](./data/images.zip) and place it under the `data/` folder.
-
+Our dataset consists of 1,200 real-world images richly annotated with context, sharing intent, and expected granularity. The images were carefully curated from general geolocation datasets including [YFCC4k](https://github.com/lugiavn/revisiting-im2gps), [YFCC26k](https://github.com/TIBHannover/GeoEstimation), [YFCC100M-OpenAI](https://huggingface.co/datasets/dalle-mini/YFCC100M_OpenAI_subset), [Im2GPS3k](https://github.com/lugiavn/revisiting-im2gps), and [GPTGeoChat](https://github.com/ethanm88/GPTGeoChat). We follow their original licenses for the images, and will not host or directly distribute them due to copyright considerations. Instead, we provide a script for the users to retrieve the images from source datasets. Please refer to `data/image_download_instructions.md` for specific instructions.
 
 <h2 id="quick-start">🚀 Usage</h2>
 
-1. Download and unzip the images in [images.zip](./data/images.zip) or from [huggingface](https://huggingface.co/datasets/RayY/VLM-GeoPrivacyBench/blob/main/images.zip).
+1. Follow the instructions from `data/image_download_instructions.md`, download and unzip the images to `data/images`.
 
 2. Set up environment: 
 
