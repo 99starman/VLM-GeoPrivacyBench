@@ -26,12 +26,12 @@ prompting_methods=("zs")  # prompting methods for free-form settings
 
 q7_only=false  # Set to true for Q7-only evaluation in the MCQ setting, false for full evaluation (default)
 
-analysis_type="error" # "basic" "get_coord" "error" "MCQ_free-form_alignment"
-
+# Analysis types:
 # "basic" is the default analysis type for accuracy and disclosure metrics
 # optionally run "get_coord" to get geolocated coordinates or load from cache
 # "error" is for distance error and other geolocation utility metrics (which calls get_coord if not already geolocated)
 # "MCQ_free-form_alignment" is for MCQ free-form alignment metrics (flag should be "heuristics", prompting_method should be "zs", and q7_only should be false)
+analysis_type="basic" # "basic" "get_coord" "error" "MCQ_free-form_alignment"
 
 if [ "$analysis_type" == "MCQ_free-form_alignment" ]; then
     prompting_method="zs"

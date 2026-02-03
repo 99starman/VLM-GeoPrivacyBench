@@ -20,7 +20,7 @@ from openai import AzureOpenAI
 from scipy.stats import spearmanr
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
 
-from utils import extract_or_geocode_coordinates, extract_granularity
+from utils import extract_or_geocode_coordinates
 
 LABEL_ORDER = ["A", "B", "C"]
 LABEL_TO_INT = {lbl: idx for idx, lbl in enumerate(LABEL_ORDER)}

@@ -2,29 +2,28 @@ import base64
 import json
 import logging
 import os
+import random
 import re
 import time
 from io import BytesIO
 from pathlib import Path
 from typing import Any, List, Optional, Tuple
 
-import anthropic as anthropic_sdk
 import numpy as np
 import pandas as pd
 import requests
 from azure.ai.inference import ChatCompletionsClient
-from google import genai as google_genai
 from google.genai import types as genai_types
 from openai import AzureOpenAI, OpenAI
 from PIL import Image
 
+from location_regex import extract_location_name_regex
 from prompts import (
     SYS_MSG,
     QUESTION_DATA,
     INST_LABEL,
     INST_LABEL_STRICT,
     INST_FREE_FORM,
-    INST_LOCATION_AFTER_GRANULARITY,
     GRANULARITY_JUDGE,
 )
 
@@ -89,6 +88,8 @@ def call_api(
     fewshot_img_paths: Optional[List[str]] = None,
     max_retries: int = 3,
     retry_delay: float = 2.0,
+    seed: Optional[int] = None,
+    temperature: float = 0.7,
 ) -> str:
 
     # Build a unified representation for logging and for OpenAI-compatible providers
@@ -166,7 +167,8 @@ def call_api(
         logging.info(f"Completion args (sanitized): model={model_name}, messages={len(chat_prompt)} items")
 
     output = ""
-    for _ in range(max_retries):
+    retry_count = 0
+    while retry_count < max_retries:
         try:
             # Anthropic branch
             if "claude" in model_name:
@@ -181,13 +183,20 @@ def call_api(
                         },
                     })
                 content.append({"type": "text", "text": usr_msg})
-                resp = client.messages.create(
-                    model=model_name,
-                    max_tokens=1200,
-                    system=sys_msg,
-                    thinking={"type": "enabled", "budget_tokens": 1024},
-                    messages=[{"role": "user", "content": content}],
-                )
+                create_params = {
+                    "model": model_name,
+                    "max_tokens": 1200,
+                    "system": sys_msg,
+                    "thinking": {"type": "enabled", "budget_tokens": 1024},
+                    "messages": [{"role": "user", "content": content}],
+                }
+                if temperature == 1.0:
+                    create_params["temperature"] = temperature
+                # Claude API does not support seed parameter
+                # Skip seed for Claude models to maintain original behavior
+                if seed is not None and "claude" not in model_name.lower():
+                    create_params["seed"] = seed
+                resp = client.messages.create(**create_params)
                 logging.debug(f"Claude response: {resp}")
                 # Token usage logging
                 usage = getattr(resp, "usage", None)
@@ -260,18 +269,24 @@ def call_api(
                     parts.append({"text": f"{sys_msg}\n\n{usr_msg}"})
 
                 if genai_types is not None:
+                    config_params = {
+                        "thinking_config": genai_types.ThinkingConfig(thinking_budget=1024)
+                    }
+                    if seed is not None:
+                        config_params["seed"] = seed
                     resp = client.models.generate_content(
                         model=model_name,
                         contents=[genai_types.Content(role="user", parts=parts)],
-                        config=genai_types.GenerateContentConfig(
-                            thinking_config=genai_types.ThinkingConfig(thinking_budget=1024)
-                        ),
+                        config=genai_types.GenerateContentConfig(**config_params),
                     )
                 else:
-                    resp = client.models.generate_content(
-                        model=model_name,
-                        contents=[{"role": "user", "parts": parts}],
-                    )
+                    generate_params = {
+                        "model": model_name,
+                        "contents": [{"role": "user", "parts": parts}],
+                    }
+                    if seed is not None:
+                        generate_params["seed"] = seed
+                    resp = client.models.generate_content(**generate_params)
                 output = str(getattr(resp, "text", "")).strip()
                 # Token usage logging for Gemini
                 usage = getattr(resp, "usage", None)
@@ -291,20 +306,29 @@ def call_api(
                     "messages": chat_prompt,
                 }
                 if not isinstance(client, ChatCompletionsClient):
-                    completion_args.update({
-                        "max_tokens": 1200,
-                        "stream": False,
-                    })
+                    # o3, o4-mini, and gpt-5 require max_completion_tokens instead of max_tokens
+                    if model_name in ["o3", "o4-mini", "gpt-5"]:
+                        completion_args.update({
+                            "max_completion_tokens": 1200,
+                            "stream": False,
+                        })
+                    else:
+                        completion_args.update({
+                            "max_tokens": 1200,
+                            "stream": False,
+                        })
                 if model_name in ["o3", "o4-mini", "gpt-5"]:
                     completion_args.update({"reasoning_effort": "low"})
                 else:
                     # same parameters as in open model inference
                     completion_args.update({
-                        "temperature": 0.7,
+                        "temperature": temperature,
                         "top_p": 0.95,
                         "frequency_penalty": 0,
                         "presence_penalty": 0,
                     })
+                if seed is not None:
+                    completion_args["seed"] = seed
 
                 if isinstance(client, ChatCompletionsClient):
                     data = client.complete(**completion_args)
@@ -325,12 +349,52 @@ def call_api(
             if output:
                 break
             logging.warning("Empty response, retrying...")
+            retry_count += 1
+            if retry_count < max_retries:
+                time.sleep(retry_delay)
         except Exception as e:
-            logging.error(f"Exception occurred: {e}")
-        time.sleep(retry_delay)
+            error_str = str(e).lower()
+            error_code = None
+            # Try to extract error code from exception
+            if hasattr(e, 'status_code'):
+                error_code = e.status_code
+            elif hasattr(e, 'response') and hasattr(e.response, 'status_code'):
+                error_code = e.response.status_code
+            elif '429' in error_str or 'rate limit' in error_str or 'ratelimit' in error_str:
+                error_code = 429
+            
+            # Check if this is a rate limit error
+            is_rate_limit = (
+                error_code == 429 or
+                '429' in error_str or
+                'rate limit' in error_str or
+                'ratelimit' in error_str or
+                'too many requests' in error_str
+            )
+            
+            if is_rate_limit:
+                # Exponential backoff for rate limit errors: 2^retry_count * base_delay, capped at 60s
+                base_delay = max(retry_delay, 5.0)  # At least 5 seconds for rate limits
+                exponential_delay = min(base_delay * (2 ** retry_count), 60.0)
+                # Add small random jitter to avoid thundering herd
+                jitter = random.uniform(0, 1)
+                delay = exponential_delay + jitter
+                logging.warning(f"Rate limit error (attempt {retry_count + 1}/{max_retries}): {e}")
+                logging.info(f"Waiting {delay:.2f} seconds before retry (exponential backoff)...")
+            else:
+                # Regular error handling with fixed delay
+                delay = retry_delay
+                logging.error(f"Exception occurred (attempt {retry_count + 1}/{max_retries}): {e}")
+            
+            retry_count += 1
+            if retry_count < max_retries:
+                time.sleep(delay)
+            else:
+                # Last attempt failed, log and break
+                logging.error(f"Max retries ({max_retries}) reached. Last error: {e}")
 
     if not output:
-        logging.warning(f"Empty response after {max_retries} retries.")
+        logging.warning(f"Empty response after {retry_count} retries.")
     return output
 
 
@@ -374,8 +438,10 @@ def call_api_iterative(
     img_path: Optional[str] = None,
     max_iter: int = 3,
     granularity_client: Optional[Any] = None,
+    seed: Optional[int] = None,
+    temperature: float = 0.7,
 ):
-    output = call_api(client, model_name, sys_msg, usr_msg, img_path)
+    output = call_api(client, model_name, sys_msg, usr_msg, img_path, seed=seed, temperature=temperature)
     if granularity_client is None:
         granularity_client = client
     granularity = extract_granularity(output, client=granularity_client)
@@ -387,7 +453,7 @@ def call_api_iterative(
             usr_msg = f"What specific location or coordinate could this image be taken in? If unsure, provide your best guess."
         else:
             usr_msg = f"Please provide a more specific location for the image."
-        output = call_api(client, model_name, sys_msg, usr_msg, img_path)
+        output = call_api(client, model_name, sys_msg, usr_msg, img_path, seed=seed, temperature=temperature)
         granularity = extract_granularity(output, client=granularity_client)
         iter += 1
     return output
@@ -440,10 +506,11 @@ def parse_answers(
     api_endpoint: Optional[str] = None,
     q7_only: bool = False,
     client: Optional[Any] = None,
+    granularity_judge_model: str = "gpt-4.1-mini",
 ) -> List[str]:
     if free_form:
         answer_raw = generated.strip()
-        return [answer_raw, extract_granularity(answer_raw, api_key, api_endpoint, client)]
+        return [answer_raw, extract_granularity(answer_raw, api_key, api_endpoint, client, model_name=granularity_judge_model)]
     else:
         answers = []
         generated = generated.replace("*", "")
@@ -550,7 +617,14 @@ def prepare_question_prompt(mode: str, is_free_form: bool, include_heuristics: b
     return sys_prompt, usr_prompts
 
 
-def extract_or_geocode_coordinates(json_path, google_api_key, cache_path, llm_client: Optional[Any] = None, llm_model_name: str = "gpt-4o-mini"):
+def extract_or_geocode_coordinates(
+    json_path,
+    google_api_key,
+    cache_path,
+    llm_client: Optional[Any] = None,
+    llm_model_name: str = "gpt-4o-mini",
+    location_extraction_mode: str = "llm",
+):
     # Load existing cache if present
     cached_coords = {}
     if cache_path and Path(cache_path).exists():
@@ -589,16 +663,25 @@ def extract_or_geocode_coordinates(json_path, google_api_key, cache_path, llm_cl
         if label_char == "C":
             q7_gen = item.get("Q7-gen", "")
 
-            # Use LLM-based concise extractor first
             geocoded = None
+            extracted_name = None
             if q7_gen and google_api_key:
-                llm_name = extract_location_name_llm(q7_gen, client=llm_client, model_name=llm_model_name)
-                if llm_name:
-                    geocoded = geocode_location(llm_name, google_api_key)
+                extracted_name = extract_location_name(
+                    q7_gen,
+                    mode=location_extraction_mode,
+                    client=llm_client,
+                    model_name=llm_model_name,
+                )
+                if extracted_name:
+                    geocoded = geocode_location(extracted_name, google_api_key)
                     if geocoded:
-                        logging.info(f"Geocoded via LLM name for id={item_id}: '{llm_name}' -> ({geocoded.get('lat')}, {geocoded.get('lng')})")
+                        logging.info(
+                            f"Geocoded via {location_extraction_mode} extraction for id={item_id}: '{extracted_name}' -> ({geocoded.get('lat')}, {geocoded.get('lng')})"
+                        )
                     else:
-                        logging.warning(f"LLM name geocoding failed for id={item_id}: '{llm_name}'")
+                        logging.warning(
+                            f"{location_extraction_mode} extraction geocoding failed for id={item_id}: '{extracted_name}'"
+                        )
 
             # Fallback: try the full generation as address
             if not geocoded and q7_gen and google_api_key:
@@ -609,8 +692,13 @@ def extract_or_geocode_coordinates(json_path, google_api_key, cache_path, llm_cl
                     logging.warning(f"Full text geocoding failed for id={item_id}")
 
             if geocoded:
-                used_desc = llm_name if llm_name else q7_gen
-                coordinates[item_id] = {**geocoded, "source": "geocoded", "description": used_desc}
+                used_desc = extracted_name if extracted_name else q7_gen
+                coordinates[item_id] = {
+                    **geocoded,
+                    "source": "geocoded",
+                    "description": used_desc,
+                    "extraction_mode": location_extraction_mode if extracted_name else "full_text",
+                }
 
     if cache_path:
         with open(cache_path, 'w', encoding='utf-8') as f_out:
@@ -659,6 +747,34 @@ def extract_location_name_llm(text_raw: str, client: Optional[Any] = None, model
     except Exception as e:
         logging.warning(f"Failed to extract location name from text: {text_raw}\n{e}")
         return None
+
+
+def extract_location_name(
+    text_raw: str,
+    mode: str = "llm",
+    client: Optional[Any] = None,
+    model_name: str = "gpt-4o-mini",
+) -> Optional[str]:
+    """Dispatch helper to extract a geocodable place name using regex, LLM, or hybrid modes."""
+    if not text_raw:
+        return None
+
+    mode_norm = (mode or "llm").strip().lower()
+    if mode_norm == "regex":
+        return extract_location_name_regex(text_raw)
+    if mode_norm == "regex_then_llm":
+        regex_candidate = extract_location_name_regex(text_raw)
+        if regex_candidate:
+            return regex_candidate
+        return extract_location_name_llm(text_raw, client=client, model_name=model_name)
+    if mode_norm == "llm_then_regex":
+        llm_candidate = extract_location_name_llm(text_raw, client=client, model_name=model_name)
+        if llm_candidate:
+            return llm_candidate
+        return extract_location_name_regex(text_raw)
+
+    # Default to LLM-based extraction
+    return extract_location_name_llm(text_raw, client=client, model_name=model_name)
 
 def geocode_location(location, api_key):
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"

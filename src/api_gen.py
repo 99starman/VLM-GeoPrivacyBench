@@ -12,8 +12,6 @@ from typing import Optional
 
 import anthropic
 import openai
-from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
-from anthropic.types.messages.batch_create_params import Request as BatchRequest
 from azure.ai.inference import ChatCompletionsClient
 from azure.core.credentials import AzureKeyCredential
 from dotenv import load_dotenv
@@ -39,15 +37,43 @@ MODEL_TYPES = [
     "Llama-4-Maverick-17B-128E-Instruct-FP8",
     "gemini-2.5-flash",
     "claude-sonnet-4-20250514",
+    "grok-4-fast-reasoning",
 ]
 
 
-def process_single_thread(prompting_method, client, model_type, sys_prompt, usr_prompt, image_path, figstep_image_path, granularity_client):
+def process_single_thread(
+    prompting_method,
+    client,
+    model_type,
+    sys_prompt,
+    usr_prompt,
+    image_path,
+    figstep_image_path,
+    granularity_client,
+    seed=None,
+    temperature: float = 0.7,
+):
     jailbreak_aid_image_path = figstep_image_path if prompting_method == "malicious" else None 
+    # Models with very low rate limits - sleep 2 seconds after each API call (vanilla prompting only)
+    low_rate_limit_models = ["o3", "Llama-4-Maverick-17B-128E-Instruct-FP8"]
+    needs_sleep = any(model in model_type for model in low_rate_limit_models)
+    
     if "iter" not in prompting_method:
-        res = call_api(client, model_type, sys_prompt, usr_prompt, image_path, jailbreak_aid_image_path)
+        res = call_api(
+            client,
+            model_type,
+            sys_prompt,
+            usr_prompt,
+            image_path,
+            jailbreak_aid_image_path,
+            seed=seed,
+            temperature=temperature,
+        )
+        if needs_sleep:
+            time.sleep(2.0)
         return res
     else:
+        # No sleep for iterative CoT calls
         return call_api_iterative(
             client,
             model_type,
@@ -55,6 +81,8 @@ def process_single_thread(prompting_method, client, model_type, sys_prompt, usr_
             usr_prompt,
             image_path,
             granularity_client=granularity_client,
+            seed=seed,
+            temperature=temperature,
         )
 
 
@@ -70,7 +98,13 @@ def main(args):
         level=logging.INFO # logging.DEBUG,
     )
 
-    load_dotenv(".env")
+    env_file = os.getenv("DOTENV_PATH", ".env")
+    logging.info(f"Loading environment variables from: {env_file}")
+    load_dotenv(env_file, override=True)
+    # Log the endpoint being used
+    azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT", "not set")
+    if azure_endpoint != "not set":
+        logging.info(f"Using Azure OpenAI endpoint: {azure_endpoint}")
  
     # Load keys
     azure_api_key: Optional[str] = os.getenv("AZURE_API_KEY")
@@ -98,6 +132,20 @@ def main(args):
     # logging.debug(f"User prompt: {usr_prompt}")
 
     image_paths = list(Path(args.image_dir).glob("*"))
+    
+    # Exclude images that exist in the exclude directory
+    if args.exclude_dir:
+        exclude_dir = Path(args.exclude_dir)
+        if exclude_dir.exists() and exclude_dir.is_dir():
+            exclude_images = {img.name for img in exclude_dir.glob("*") if img.is_file()}
+            original_count = len(image_paths)
+            image_paths = [img for img in image_paths if img.name not in exclude_images]
+            excluded_count = original_count - len(image_paths)
+            if excluded_count > 0:
+                logging.info(f"Excluded {excluded_count} images from {args.exclude_dir} (already evaluated)")
+        else:
+            logging.warning(f"Exclude directory does not exist or is not a directory: {args.exclude_dir}")
+    
     if args.max_examples and args.max_examples > 0:
         image_paths = image_paths[: args.max_examples]
     if not image_paths:
@@ -198,6 +246,13 @@ def main(args):
                     "thinking": {"type": "enabled", "budget_tokens": 1024},
                     "messages": [{"role": "user", "content": content}],
                 }
+                # Claude extended thinking doesn't support non-default temperature; only include it when set to 1.0.
+                if args.temperature == 1.0:
+                    params["temperature"] = args.temperature
+                # Claude batch API does not support seed parameter
+                # Skip seed for Claude models to maintain original behavior
+                if args.seed is not None and "claude" not in args.model_type.lower():
+                    params["seed"] = args.seed
                 batch_requests.append({"custom_id": image_id, "params": params})
 
             message_batch = client.beta.messages.batches.create(requests=batch_requests)
@@ -285,6 +340,7 @@ def main(args):
                     api_key=azure_api_key,
                     api_endpoint=azure_openai_endpoint,
                     client=granularity_client,
+                    granularity_judge_model=args.granularity_judge_model,
                 )
                 result_entry = {
                     "id": image_id,
@@ -313,6 +369,8 @@ def main(args):
                     image_path,
                     args.figstep_image_path,
                     granularity_client,
+                    args.seed,
+                    args.temperature,
                 ): image_path
                 for image_path in image_paths
             }
@@ -334,6 +392,7 @@ def main(args):
                             api_key=azure_api_key,
                             api_endpoint=azure_openai_endpoint,
                             client=granularity_client,
+                            granularity_judge_model=args.granularity_judge_model,
                         )
                         result_entry = {
                             "id": image_id,
@@ -448,6 +507,30 @@ if __name__ == "__main__":
         type=int,
         default=50,
         help="Number of requests per Claude Message Batch submission",
+    )
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default=None,
+        help="Random seed for model inference (for reproducibility)",
+    )
+    parser.add_argument(
+        "--temperature",
+        type=float,
+        default=0.7,
+        help="Sampling temperature for supported models (default: 0.7)",
+    )
+    parser.add_argument(
+        "--granularity-judge-model",
+        type=str,
+        default="gpt-4.1-mini",
+        help="Model to use for granularity label mapping (default: gpt-4.1-mini)",
+    )
+    parser.add_argument(
+        "--exclude-dir",
+        type=str,
+        default=None,
+        help="Directory containing images to exclude from processing (e.g., already-evaluated samples)",
     )
     args = parser.parse_args()
     main(args)

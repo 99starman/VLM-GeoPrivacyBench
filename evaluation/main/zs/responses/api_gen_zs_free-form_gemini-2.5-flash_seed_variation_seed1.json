@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5265139620",
+    "Q7-gen": "Based on the visual evidence, this photo was taken in **Beijing, China**.\n\nHere's why:\n1.  **License Plate:** The most definitive clue is the license plate on the silver car in the background, which clearly shows \"京 A 50163\". The character \"京\" (Jīng) is the official abbreviation for Beijing, the capital city of China, used on all its license plates.\n2.  **Tricycle Rickshaw:** The presence of the passenger tricycle rickshaw is common in many Asian countries, particularly in China, where they are used for transport, tourism, or local deliveries.\n3.  **People:** The individuals in the photo appear to be East Asian, consistent with the location.\n4.  **Architecture:** The buildings in the background show elements of traditional Chinese architecture (red accents, visible Chinese characters), further supporting the location.",
+    "Q7-label": "B"
+  },
+  {
+    "id": "5285429923",
+    "Q7-gen": "Based on the strong clues in the image, particularly the \"wagamama\" sign and the \"703-\" area code partially visible on the poster to the left, I can confidently identify the location.\n\nThe photo was taken at the **Wagamama restaurant in Reston Town Center, Reston, Virginia, USA.**\n\nSpecifically, the address is **11942 Democracy Dr, Reston, VA 20190, USA.**",
+    "Q7-label": "C"
+  }
+]
