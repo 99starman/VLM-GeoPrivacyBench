@@ -53,3 +53,17 @@ Our dataset consists of 1,200 real-world images richly annotated with context, s
 3. Optionally, (re)run model generation with `sbatch scripts/gen.sh` (GPUs required) or `source scripts/gen_api.sh` (API-based models). Results are saved in `evaluation/main`, where we already include the model generation results used in our experiments.
 
 4. Evaluate the model generation with `source scripts/eval.sh` (various settings specified in the script).
+
+
+<h2 id="citation">📚 Citation</h2>
+
+```
+@inproceedings{
+yang2026do,
+title={Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?},
+author={Ruixin Yang and Ethan Mendes and Arthur Wang and James Hays and Sauvik Das and Wei Xu and Alan Ritter},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=64Ea2Dx0JJ}
+}
+```
