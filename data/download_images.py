@@ -61,7 +61,6 @@ def download_yfcc_openai(
         return 0
 
     needed_ids = {nid for _, nid in needed}
-    needed_map = {nid: iid for iid, nid in needed}
 
     if ds_split is None:
         ds_split = load_dataset(
@@ -92,8 +91,8 @@ def download_yfcc_openai(
                 photoid = str(row.get("photoid", ""))
                 if photoid not in needed_ids:
                     continue
-                image_id = needed_map[photoid]
-                out_path = output_dir / f"{image_id}.jpg"
+                # Save as numeric id only (photoid)
+                out_path = output_dir / f"{photoid}.jpg"
                 if skip_existing and out_path.exists():
                     saved += 1
                 else:
@@ -120,10 +119,9 @@ def download_yfcc_openai(
     saved = 0
     for row in selected:
         photoid = str(row.get("photoid", ""))
-        image_id = needed_map.get(photoid)
-        if image_id is None:
+        if photoid not in needed_ids:
             continue
-        out_path = output_dir / f"{image_id}.jpg"
+        out_path = output_dir / f"{photoid}.jpg"
         if skip_existing and out_path.exists():
             saved += 1
             continue
@@ -146,15 +144,13 @@ def copy_from_im2gps3k(
 ) -> int:
     """Copy from im2gps3k (filenames: 31700873_d7c4159106_22_25159586@N00.jpg, id=first part)."""
     saved = 0
-    # Build mapping: numeric_id -> image_id
-    needed_map = {nid: iid for iid, nid in needed}
-    # Scan source for files matching our ids (filename starts with {id}_)
-    for f in source_dir.glob("*_*_*_*@N00.jpg"):
+    needed_ids = {nid for _, nid in needed}
+    # Scan source for files matching our ids
+    for f in source_dir.glob("*_*_*_*@N*.jpg"):
         prefix = f.stem.split("_")[0]
-        if prefix not in needed_map:
+        if prefix not in needed_ids:
             continue
-        image_id = needed_map[prefix]
-        out_path = output_dir / f"{image_id}.jpg"
+        out_path = output_dir / f"{prefix}.jpg"
         if skip_existing and out_path.exists():
             saved += 1
             continue
@@ -171,14 +167,13 @@ def copy_from_yfcc4k(
 ) -> int:
     """Copy from yfcc4k (filenames: 10003206806.jpg, id=stem)."""
     saved = 0
-    needed_map = {nid: iid for iid, nid in needed}
+    needed_ids = {nid for _, nid in needed}
     for ext in (".jpg", ".jpeg", ".png"):
         for f in source_dir.glob(f"*{ext}"):
             stem = f.stem
-            if stem not in needed_map:
+            if stem not in needed_ids:
                 continue
-            image_id = needed_map[stem]
-            out_path = output_dir / f"{image_id}.jpg"
+            out_path = output_dir / f"{stem}.jpg"
             if skip_existing and out_path.exists():
                 saved += 1
                 continue
@@ -195,16 +190,15 @@ def copy_from_yfcc26k(
 ) -> int:
     """Copy from yfcc25600 (filenames: 00_4c_2283161368, id=last part after underscore)."""
     saved = 0
-    needed_map = {nid: iid for iid, nid in needed}
+    needed_ids = {nid for _, nid in needed}
     for f in source_dir.glob("*_*_*"):
         parts = f.stem.split("_")
         if len(parts) < 3:
             continue
         numeric_id = parts[-1]
-        if numeric_id not in needed_map:
+        if numeric_id not in needed_ids:
             continue
-        image_id = needed_map[numeric_id]
-        out_path = output_dir / f"{image_id}.jpg"
+        out_path = output_dir / f"{numeric_id}.jpg"
         if skip_existing and out_path.exists():
             saved += 1
             continue
@@ -219,9 +213,9 @@ def copy_from_gptgeochat(
     output_dir: Path,
     skip_existing: bool,
 ) -> int:
-    """Copy from GPTGeoChat human/ (images in train/images/, test/images/, val/images/ as {id}.jpg)."""
+    """Copy from GPTGeoChat human/ (images in train/images/, test/images/, val/images/ as {id}.jpg). Output: s{id}.jpg."""
     saved = 0
-    needed_map = {nid: iid for iid, nid in needed}
+    needed_ids = {nid for _, nid in needed}
     for sub in ("train", "test", "val"):
         img_dir = human_dir / sub / "images"
         if not img_dir.is_dir():
@@ -229,10 +223,9 @@ def copy_from_gptgeochat(
         for ext in (".jpg", ".jpeg", ".png"):
             for f in img_dir.glob(f"*{ext}"):
                 stem = f.stem
-                if stem not in needed_map:
+                if stem not in needed_ids:
                     continue
-                image_id = needed_map[stem]
-                out_path = output_dir / f"{image_id}.jpg"
+                out_path = output_dir / f"s{stem}.jpg"
                 if skip_existing and out_path.exists():
                     saved += 1
                     continue
@@ -308,11 +301,20 @@ def main():
         for zippath, outdir in [
             (data_dir / "im2gps3ktest.zip", args.im2gps3k_dir),
             (data_dir / "yfcc4k.zip", args.yfcc4k_dir),
+            (data_dir / "human.zip", args.gptgeochat_dir),
         ]:
             if zippath.exists() and not outdir.is_dir():
                 print(f"Unzipping {zippath.name} ... ", end="", flush=True)
                 with zipfile.ZipFile(zippath) as zf:
                     zf.extractall(data_dir)
+                if zippath.name == "human.zip":
+                    nested = data_dir / "gptgeochat" / "human"
+                    if nested.is_dir():
+                        shutil.move(nested, data_dir / "human")
+                        try:
+                            (data_dir / "gptgeochat").rmdir()
+                        except OSError:
+                            pass
                 print("done")
 
     by_source = load_metadata(args.metadata)

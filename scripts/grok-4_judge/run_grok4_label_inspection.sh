@@ -11,8 +11,8 @@ PROJECT_ROOT="$(dirname "$(dirname "$SCRIPT_DIR")")"
 cd "$PROJECT_ROOT"
 
 ENV_FILE=".env_new"
-INPUT_FILE="/nethome/ryang396/flash/GeoPrivGuard/benchmark/experiments/results/all/label_inspection_gpt-4.1-mini.json"
-OUTPUT_FILE="/nethome/ryang396/flash/GeoPrivGuard/benchmark/experiments/results/all/label_inspection_grok4-fast-reasoning.json"
+INPUT_FILE="${PROJECT_ROOT}/evaluation/grok-4_judge/label_inspection_gpt-4.1-mini.json"
+OUTPUT_FILE="${PROJECT_ROOT}/evaluation/grok-4_judge/label_inspection_grok4-fast-reasoning.json"
 
 while [[ $# -gt 0 ]]; do
     case "$1" in

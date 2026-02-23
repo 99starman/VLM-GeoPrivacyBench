@@ -46,7 +46,7 @@ if str(SRC_DIR) not in sys.path:
 
 from location_regex import extract_location_name_regex  # noqa: E402
 
-DEFAULT_INPUT_FILE = Path("/nethome/ryang396/flash/GeoPrivGuard/benchmark/experiments/results/all/label_inspection_gpt-4.1-mini.json")
+DEFAULT_INPUT_FILE = PROJECT_ROOT / "evaluation" / "grok-4_judge" / "label_inspection_gpt-4.1-mini.json"
 DEFAULT_ENV_FILE = PROJECT_ROOT / ".env_new"
 LOG_DIR = PROJECT_ROOT / "evaluation" / "logs"
 REPORT_DIR = PROJECT_ROOT / "evaluation" / "logs"
